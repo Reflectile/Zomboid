@@ -1,0 +1,32 @@
+[29-07-22 20:26:09.257][info] Start chat server initialization....
+[29-07-22 20:26:09.275][info] General chat has id = 0.
+[29-07-22 20:26:09.275][info] Say chat has id = 1.
+[29-07-22 20:26:09.275][info] Shout chat has id = 2.
+[29-07-22 20:26:09.275][info] Radio chat has id = 3.
+[29-07-22 20:26:09.275][info] Admin chat has id = 4.
+[29-07-22 20:26:09.275][info] Server chat has id = 5.
+[29-07-22 20:26:09.276][info] Chat server successfully initialized.
+[29-07-22 20:29:16.722][info] Player with id = '0' tries to connect.
+[29-07-22 20:29:16.722][info] Adding player '0' to chat server.
+[29-07-22 20:29:16.726][info] Player joined to default chats.
+[29-07-22 20:29:16.726][info] Player Raven(0) joined to chat server successfully.
+[29-07-22 20:37:44.402][info] Player with id = '4' tries to connect.
+[29-07-22 20:37:44.402][info] Adding player '4' to chat server.
+[29-07-22 20:37:44.403][info] Player joined to default chats.
+[29-07-22 20:37:44.403][info] Player feng min enjoyer(4) joined to chat server successfully.
+[29-07-22 20:48:03.083][info] Got message:ChatMessage{chat=Local, author='feng min enjoyer', text='HEY YOU!'}.
+[29-07-22 20:48:03.084][info] Message ChatMessage{chat=Local, author='feng min enjoyer', text='HEY YOU!'} sent to chat (id = 2) members.
+[29-07-22 21:19:12.792][info] Player with id = '8' tries to connect.
+[29-07-22 21:19:12.792][info] Adding player '8' to chat server.
+[29-07-22 21:19:12.792][info] Player joined to default chats.
+[29-07-22 21:19:12.792][info] Player Mo Money Mo Randy(8) joined to chat server successfully.
+[29-07-22 21:52:49.678][info] Got message:ChatMessage{chat=Local, author='feng min enjoyer', text='HEY!'}.
+[29-07-22 21:52:49.679][info] Message ChatMessage{chat=Local, author='feng min enjoyer', text='HEY!'} sent to chat (id = 2) members.
+[29-07-22 22:45:02.408][info] Player 4 disconnecting....
+[29-07-22 22:45:02.409][info] Disconnecting player 4 finished.
+[29-07-22 22:45:02.409][info] Player 4 disconnecting....
+[29-07-22 22:45:02.409][info] Disconnecting player 4 finished.
+[29-07-22 22:45:06.627][info] Player 0 disconnecting....
+[29-07-22 22:45:06.627][info] Disconnecting player 0 finished.
+[29-07-22 22:45:06.627][info] Player 0 disconnecting....
+[29-07-22 22:45:06.627][info] Disconnecting player 0 finished.

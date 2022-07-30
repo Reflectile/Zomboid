@@ -1,0 +1,26 @@
+[29-07-22 20:26:26.852] added connection index=0 76561198086468814.
+[29-07-22 20:26:26.990] 76561198086468814 "Raven" attempting to join.
+[29-07-22 20:26:26.990] 76561198086468814 "Raven" allowed to join.
+[29-07-22 20:26:43.280] 76561198086468814 "Raven" attempting to join used queue.
+[29-07-22 20:26:59.782] player Raven loading time was: 15924 ms.
+[29-07-22 20:29:16.745] 76561198086468814 "Raven" fully connected (12719,5060,1).
+[29-07-22 20:29:50.941] added connection index=1 76561199187795983.
+[29-07-22 20:29:51.092] 76561199187795983 "feng min enjoyer" attempting to join.
+[29-07-22 20:29:51.092] 76561199187795983 "feng min enjoyer" allowed to join.
+[29-07-22 20:31:36.263] 76561199187795983 "feng min enjoyer" removed connection index=1.
+[29-07-22 20:34:50.162] added connection index=1 76561199187795983.
+[29-07-22 20:34:50.233] 76561199187795983 "feng min enjoyer" attempting to join.
+[29-07-22 20:34:50.233] 76561199187795983 "feng min enjoyer" allowed to join.
+[29-07-22 20:36:59.966] 76561199187795983 "feng min enjoyer" attempting to join used queue.
+[29-07-22 20:37:40.260] player feng min enjoyer loading time was: 37272 ms.
+[29-07-22 20:37:44.404] 76561199187795983 "feng min enjoyer" fully connected (12719,5056,1).
+[29-07-22 21:18:06.233] added connection index=2 76561198233812488.
+[29-07-22 21:18:06.392] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" attempting to join.
+[29-07-22 21:18:06.392] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" allowed to join.
+[29-07-22 21:18:46.218] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" attempting to join used queue.
+[29-07-22 21:19:10.677] player Mo Money Mo Randy loading time was: 23097 ms.
+[29-07-22 21:19:12.794] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" fully connected (12719,5060,1).
+[29-07-22 22:45:02.396] 76561199187795983 "feng min enjoyer" removed connection index=1.
+[29-07-22 22:45:02.410] 76561199187795983 "feng min enjoyer" disconnected player (13963,3229,0).
+[29-07-22 22:45:06.616] 76561198086468814 "Raven" removed connection index=0.
+[29-07-22 22:45:06.628] 76561198086468814 "Raven" disconnected player (13962,3230,0).

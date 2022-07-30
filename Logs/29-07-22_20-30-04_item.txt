@@ -1,0 +1,932 @@
+[29-07-22 20:30:04.427] 76561198086468814 "Raven" container -2 12721,5058,1 [Base.BookMechanic4, Base.BookMechanic5].
+[29-07-22 20:32:52.425] 76561198086468814 "Raven" container +0 12721,5058,1 [Base.BookMechanic4].
+[29-07-22 20:32:55.419] 76561198086468814 "Raven" container +0 12721,5058,1 [Base.BookMechanic5].
+[29-07-22 20:32:58.429] 76561198086468814 "Raven" container -2 12721,5058,1 [Base.BookMetalWelding3, Base.BookMetalWelding2].
+[29-07-22 20:33:01.434] 76561198086468814 "Raven" container -2 12721,5058,1 [Base.BookMetalWelding5, Base.BookMetalWelding4].
+[29-07-22 20:38:20.442] 76561199187795983 "feng min enjoyer" container -1 12717,5055,1 [Base.Axe].
+[29-07-22 20:38:23.438] 76561199187795983 "feng min enjoyer" container -1 12717,5055,1 [Base.Sledgehammer].
+[29-07-22 20:38:35.444] 76561199187795983 "feng min enjoyer" container +0 12718,5061,1 [Base.Axe].
+[29-07-22 20:38:38.436] 76561199187795983 "feng min enjoyer" container +0 12718,5061,1 [Base.Sledgehammer].
+[29-07-22 20:38:41.542] 76561199187795983 "feng min enjoyer" floor -1 12718,5061,1 [Base.Bag_WorkerBag].
+[29-07-22 20:38:53.526] 76561199187795983 "feng min enjoyer" container -1 12717,5055,1 [Base.BaseballBatNails].
+[29-07-22 20:39:08.443] 76561199187795983 "feng min enjoyer" container -2 12716,5059,1 [Base.308Box].
+[29-07-22 20:39:11.438] 76561199187795983 "feng min enjoyer" container -32 12716,5059,1 [Base.ShotgunShells].
+[29-07-22 20:39:14.444] 76561199187795983 "feng min enjoyer" container -1 12716,5059,1 [Base.ShotgunShellsBox].
+[29-07-22 20:39:26.441] 76561199187795983 "feng min enjoyer" container -2 12716,5059,1 [Base.Bullets45].
+[29-07-22 20:39:45.608] 76561199187795983 "feng min enjoyer" floor -1 12719,5067,1 [Base.Bag_WorkerBag].
+[29-07-22 20:39:47.999] 76561199187795983 "feng min enjoyer" floor -1 12718,5067,1 [Base.Bag_MedicalBag].
+[29-07-22 20:39:58.420] 76561198086468814 "Raven" container +0 12721,5058,1 [Base.BookMetalWelding2].
+[29-07-22 20:40:01.423] 76561198086468814 "Raven" container +0 12721,5058,1 [Base.BookMetalWelding3, Base.BookMetalWelding4].
+[29-07-22 20:40:08.446] 76561199187795983 "feng min enjoyer" container +0 12732,5072,0 [Base.Bag_WorkerBag].
+[29-07-22 20:40:11.436] 76561199187795983 "feng min enjoyer" container +0 12732,5072,0 [Base.Bag_MedicalBag].
+[29-07-22 20:40:14.436] 76561199187795983 "feng min enjoyer" container +0 12732,5072,0 [Base.Bag_WorkerBag].
+[29-07-22 20:40:19.425] 76561198086468814 "Raven" container +0 12716,5069,1 [Base.AxeStone].
+[29-07-22 20:41:23.447] 76561199187795983 "feng min enjoyer" floor -1 12721,5062,1 [Base.Bag_MedicalBag].
+[29-07-22 20:41:26.055] 76561199187795983 "feng min enjoyer" floor -1 12720,5062,1 [Base.Bag_MedicalBag].
+[29-07-22 20:41:27.943] 76561199187795983 "feng min enjoyer" floor -1 12720,5062,1 [Base.Bag_WorkerBag].
+[29-07-22 20:41:59.453] 76561199187795983 "feng min enjoyer" container +0 12736,5066,0 [Base.Bag_WorkerBag].
+[29-07-22 20:42:02.441] 76561199187795983 "feng min enjoyer" container +0 12736,5066,0 [Base.Bag_MedicalBag].
+[29-07-22 20:42:05.440] 76561199187795983 "feng min enjoyer" container +0 12736,5066,0 [Base.EmptyPetrolCan].
+[29-07-22 20:42:34.416] 76561198086468814 "Raven" container +0 12721,5058,1 [Base.BookMetalWelding5].
+[29-07-22 20:42:40.422] 76561198086468814 "Raven" container -2 12721,5058,1 [Base.EngineerMagazine1, Base.EngineerMagazine2].
+[29-07-22 20:42:41.461] 76561199187795983 "feng min enjoyer" container +0 12717,5057,1 [Base.Hat_GasMask, Base.Hat_HardHat].
+[29-07-22 20:42:47.510] 76561199187795983 "feng min enjoyer" floor -1 12716,5060,1 [Base.Bag_ALICEpack_Army].
+[29-07-22 20:43:19.427] 76561198086468814 "Raven" container -1 12722,5060,1 [TW.WorkshopMag2].
+[29-07-22 20:43:25.425] 76561198086468814 "Raven" container -3 12722,5060,1 [TAD.BobTA_Shim_Sham_Mag, TW.WorkshopMag3].
+[29-07-22 20:43:43.424] 76561198086468814 "Raven" container +0 12721,5058,1 [TW.WorkshopMag3].
+[29-07-22 20:43:46.434] 76561198086468814 "Raven" container +0 12721,5058,1 [Base.EngineerMagazine1, Base.EngineerMagazine2, TAD.BobTA_Shim_Sham_Mag, TW.WorkshopMag2].
+[29-07-22 20:44:01.422] 76561198086468814 "Raven" container +0 12717,5055,1 [Base.Saw, Base.Screwdriver].
+[29-07-22 20:44:13.418] 76561198086468814 "Raven" container -1 12719,5060,1 [Base.Vest_BulletPolice].
+[29-07-22 20:44:22.418] 76561198086468814 "Raven" container -4 12719,5060,1 [Base.Screwdriver, Base.ClubHammer, Base.HuntingKnife, Base.Scissors].
+[29-07-22 20:44:43.426] 76561198086468814 "Raven" container +0 12717,5055,1 [Base.Screwdriver, Base.HuntingKnife, Base.Scissors].
+[29-07-22 20:44:46.416] 76561198086468814 "Raven" container +0 12717,5055,1 [Base.ClubHammer].
+[29-07-22 20:44:49.424] 76561198086468814 "Raven" container +0 12717,5057,1 [Base.Vest_BulletPolice].
+[29-07-22 20:45:04.420] 76561198086468814 "Raven" container -5 12719,5060,1 [Base.Twine, Base.SunflowerSeeds, Radio.ElectricWire].
+[29-07-22 20:45:07.424] 76561198086468814 "Raven" container -3 12719,5060,1 [Base.RosewoodMap, Base.WestpointMap, Base.MarchRidgeMap].
+[29-07-22 20:45:17.387] 76561199187795983 "feng min enjoyer" corpse +1 12736,5080,0.
+[29-07-22 20:45:19.424] 76561198086468814 "Raven" container +0 12717,5055,1 [Base.Twine, Radio.ElectricWire].
+[29-07-22 20:45:21.696] 76561198086468814 "Raven" container +0 12717,5055,1 [Base.SunflowerSeeds].
+[29-07-22 20:45:28.416] 76561198086468814 "Raven" container +0 12716,5069,1 [Base.RosewoodMap, Base.WestpointMap, Base.MarchRidgeMap].
+[29-07-22 20:45:37.059] 76561199187795983 "feng min enjoyer" corpse +1 12735,5079,0.
+[29-07-22 20:45:47.950] 76561198086468814 "Raven" corpse +1 12720,5077,0.
+[29-07-22 20:45:50.869] 76561199187795983 "feng min enjoyer" corpse +1 12735,5079,0.
+[29-07-22 20:45:56.545] 76561198086468814 "Raven" corpse +1 12727,5074,0.
+[29-07-22 20:46:04.053] 76561199187795983 "feng min enjoyer" corpse +1 12719,5077,0.
+[29-07-22 20:46:08.643] 76561198086468814 "Raven" corpse +1 12719,5076,0.
+[29-07-22 20:46:27.772] 76561199187795983 "feng min enjoyer" corpse +1 12735,5079,0.
+[29-07-22 20:46:29.487] 76561198086468814 "Raven" corpse +1 12749,5073,0.
+[29-07-22 20:46:43.320] 76561198086468814 "Raven" corpse +1 12749,5074,0.
+[29-07-22 20:46:55.844] 76561199187795983 "feng min enjoyer" floor -1 12717,5065,1 [Base.PotOfSoupRecipe].
+[29-07-22 20:46:59.272] 76561198086468814 "Raven" corpse +1 12749,5075,0.
+[29-07-22 20:47:13.510] 76561198086468814 "Raven" corpse +1 12749,5074,0.
+[29-07-22 20:47:17.449] 76561199187795983 "feng min enjoyer" container +0 12717,5065,1 [Base.Pot].
+[29-07-22 20:47:32.147] 76561198086468814 "Raven" corpse +1 12749,5075,0.
+[29-07-22 20:47:47.333] 76561198086468814 "Raven" corpse +1 12736,5053,0.
+[29-07-22 20:47:57.369] 76561198086468814 "Raven" corpse +1 12735,5052,0.
+[29-07-22 20:48:09.141] 76561198086468814 "Raven" corpse +1 12735,5052,0.
+[29-07-22 20:48:20.169] 76561198086468814 "Raven" corpse +1 12735,5052,0.
+[29-07-22 20:48:34.790] 76561198086468814 "Raven" corpse +1 12735,5052,0.
+[29-07-22 20:48:46.426] 76561198086468814 "Raven" floor -1 12725,5057,0 [Base.PropaneTank].
+[29-07-22 20:49:07.421] 76561198086468814 "Raven" container +0 12722,5068,0 [Base.PropaneTank, Base.Cigarettes].
+[29-07-22 20:49:08.440] 76561199187795983 "feng min enjoyer" container -1 12716,5065,1 [Base.BucketWaterFull].
+[29-07-22 20:49:11.434] 76561199187795983 "feng min enjoyer" container +0 12716,5065,1 [Base.BucketWaterFull].
+[29-07-22 20:49:14.452] 76561199187795983 "feng min enjoyer" container -2 12716,5065,1 [Base.Fork, Base.Bowl].
+[29-07-22 20:49:14.452] 76561199187795983 "feng min enjoyer" container -1 12716,5067,1 [Base.MuffinTray].
+[29-07-22 20:49:17.321] 76561199187795983 "feng min enjoyer" floor -1 12716,5065,1 [Base.MuffinTray].
+[29-07-22 20:49:17.455] 76561199187795983 "feng min enjoyer" container -1 12716,5065,1 [Base.BucketWaterFull].
+[29-07-22 20:49:17.455] 76561199187795983 "feng min enjoyer" container -4 12716,5066,1 [Base.BakingSoda, Base.OilVegetable, Base.Flour, Base.Salt].
+[29-07-22 20:49:20.448] 76561199187795983 "feng min enjoyer" container +0 12716,5065,1 [Base.BucketWaterFull].
+[29-07-22 20:49:20.448] 76561199187795983 "feng min enjoyer" container +0 12716,5065,1 [Base.Fork, Base.Bowl].
+[29-07-22 20:49:22.426] 76561198086468814 "Raven" container -1 12719,5072,0 [Base.Shotgun].
+[29-07-22 20:49:23.446] 76561199187795983 "feng min enjoyer" container +0 12716,5066,1 [Base.BakingSoda, Base.OilVegetable, Base.Flour, Base.Salt].
+[29-07-22 20:49:25.427] 76561198086468814 "Raven" container -1 12719,5072,0 [Base.Revolver].
+[29-07-22 20:49:28.415] 76561198086468814 "Raven" container -1 12719,5072,0 [Base.Bullets45Box].
+[29-07-22 20:49:29.437] 76561199187795983 "feng min enjoyer" container +0 12717,5065,1 [Base.Muffintray_Biscuit].
+[29-07-22 20:49:30.440] 76561198086468814 "Raven" container -7 12719,5072,0 [Base.Bullets45Box, Base.ShotgunShells].
+[29-07-22 20:49:32.457] 76561199187795983 "feng min enjoyer" container +0 12717,5065,1 [Base.Muffintray_Biscuit].
+[29-07-22 20:49:35.443] 76561199187795983 "feng min enjoyer" container -5 12717,5065,1 [Base.Saucepan, Base.Pot, Base.Kettle].
+[29-07-22 20:49:38.463] 76561199187795983 "feng min enjoyer" container -1 12717,5065,1 [Base.Kettle].
+[29-07-22 20:50:12.790] 76561198086468814 "Raven" corpse +1 12719,5076,0.
+[29-07-22 20:50:37.421] 76561198086468814 "Raven" container -1 12716,5065,1 [Base.BucketWaterFull].
+[29-07-22 20:50:47.454] 76561199187795983 "feng min enjoyer" container +0 12716,5065,1 [EHE.EmergencyWaterRationOpen].
+[29-07-22 20:50:56.446] 76561199187795983 "feng min enjoyer" container +0 12717,5065,1 [Base.FullKettle].
+[29-07-22 20:50:59.446] 76561199187795983 "feng min enjoyer" container +0 12717,5065,1 [Base.WaterSaucepan, Base.FullKettle].
+[29-07-22 20:51:02.451] 76561199187795983 "feng min enjoyer" container +0 12717,5065,1 [Base.WaterPot].
+[29-07-22 20:51:04.430] 76561198086468814 "Raven" container +0 12716,5065,1 [Base.BucketWaterFull].
+[29-07-22 20:51:05.433] 76561199187795983 "feng min enjoyer" container -2 12717,5065,1 [Base.Muffintray_Biscuit].
+[29-07-22 20:51:10.428] 76561198086468814 "Raven" container -1 12716,5065,1 [Base.BucketWaterFull].
+[29-07-22 20:51:28.475] 76561199187795983 "feng min enjoyer" floor +1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:51:28.476] 76561199187795983 "feng min enjoyer" floor +1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:51:28.477] 76561199187795983 "feng min enjoyer" floor +1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:51:28.479] 76561199187795983 "feng min enjoyer" floor +1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:51:28.480] 76561199187795983 "feng min enjoyer" floor +1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:51:28.481] 76561199187795983 "feng min enjoyer" floor +1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:51:28.482] 76561199187795983 "feng min enjoyer" floor +1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:51:28.483] 76561199187795983 "feng min enjoyer" floor +1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:51:28.485] 76561199187795983 "feng min enjoyer" floor +1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:51:28.486] 76561199187795983 "feng min enjoyer" floor +1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:51:28.487] 76561199187795983 "feng min enjoyer" floor +1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:51:28.488] 76561199187795983 "feng min enjoyer" floor +1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:51:41.451] 76561199187795983 "feng min enjoyer" container +0 12717,5065,1 [Base.WaterPot].
+[29-07-22 20:51:50.444] 76561199187795983 "feng min enjoyer" container +0 12717,5065,1 [Base.MuffinTray].
+[29-07-22 20:51:55.419] 76561198086468814 "Raven" container +0 12716,5065,1 [Base.BucketWaterFull].
+[29-07-22 20:51:56.453] 76561199187795983 "feng min enjoyer" container -1 12716,5065,1 [EHE.EmergencyWaterRationOpen].
+[29-07-22 20:52:00.161] 76561198086468814 "Raven" floor -1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:52:00.187] 76561198086468814 "Raven" floor -1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:52:00.187] 76561198086468814 "Raven" floor -1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:52:00.187] 76561198086468814 "Raven" floor -1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:52:00.187] 76561198086468814 "Raven" floor -1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:52:00.188] 76561198086468814 "Raven" floor -1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:52:00.188] 76561198086468814 "Raven" floor -1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:52:00.189] 76561198086468814 "Raven" floor -1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:52:00.189] 76561198086468814 "Raven" floor -1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:52:00.189] 76561198086468814 "Raven" floor -1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:52:00.189] 76561198086468814 "Raven" floor -1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:52:00.189] 76561198086468814 "Raven" floor -1 12717,5067,1 [Base.Biscuit].
+[29-07-22 20:52:25.422] 76561198086468814 "Raven" container +0 12716,5069,1 [Base.Biscuit].
+[29-07-22 20:52:31.428] 76561198086468814 "Raven" container +0 12716,5069,1 [Base.TinCanEmpty].
+[29-07-22 20:54:49.423] 76561198086468814 "Raven" container -1 12718,5065,1 [Base.CannedPeaches].
+[29-07-22 21:01:04.901] 76561198086468814 "Raven" floor -1 12311,6772,0 [Base.Windshield2].
+[29-07-22 21:01:08.035] 76561198086468814 "Raven" floor -1 12311,6772,0 [Base.EngineDoor2].
+[29-07-22 21:01:25.418] 76561198086468814 "Raven" container +0 12314,6776,0 [Base.Windshield2].
+[29-07-22 21:01:31.418] 76561198086468814 "Raven" container +0 12314,6776,0 [Base.EngineDoor2].
+[29-07-22 21:03:11.198] 76561199187795983 "feng min enjoyer" floor +1 11679,7057,0 [Base.Glasses_Reading].
+[29-07-22 21:03:26.295] 76561199187795983 "feng min enjoyer" floor +1 11683,7066,0 [Base.Glasses_Normal].
+[29-07-22 21:05:20.051] 76561199187795983 "feng min enjoyer" floor +1 11866,6936,0 [Base.Glasses_Normal].
+[29-07-22 21:05:22.247] 76561199187795983 "feng min enjoyer" floor +1 11866,6932,0 [Base.Hat_BaseballCap].
+[29-07-22 21:05:50.312] 76561199187795983 "feng min enjoyer" floor +1 11835,6917,1 [Base.UnusableWood].
+[29-07-22 21:05:50.313] 76561199187795983 "feng min enjoyer" floor +1 11835,6917,1 [Base.Doorknob].
+[29-07-22 21:06:33.223] 76561199187795983 "feng min enjoyer" floor +1 11951,6933,0 [Base.Hat_ChefHat].
+[29-07-22 21:06:41.621] 76561199187795983 "feng min enjoyer" floor +1 11893,6949,0 [Base.UnusableWood].
+[29-07-22 21:06:41.622] 76561199187795983 "feng min enjoyer" floor +1 11893,6949,0 [Base.Doorknob].
+[29-07-22 21:06:42.431] 76561199187795983 "feng min enjoyer" floor +1 11951,6934,0 [Base.Glasses_Normal].
+[29-07-22 21:06:59.688] 76561199187795983 "feng min enjoyer" floor +1 11970,6941,0 [Base.Doorknob].
+[29-07-22 21:07:17.991] 76561199187795983 "feng min enjoyer" floor +1 11979,6941,0 [Base.Doorknob].
+[29-07-22 21:07:17.992] 76561199187795983 "feng min enjoyer" floor +1 11979,6941,0 [Base.Hinge].
+[29-07-22 21:07:17.993] 76561199187795983 "feng min enjoyer" floor +1 11979,6941,0 [Base.Hinge].
+[29-07-22 21:07:18.082] 76561199187795983 "feng min enjoyer" floor +1 11973,6946,1 [Base.Doorknob].
+[29-07-22 21:07:35.702] 76561199187795983 "feng min enjoyer" floor +1 11982,6935,1 [Base.SheetMetal].
+[29-07-22 21:07:35.703] 76561199187795983 "feng min enjoyer" floor +1 11982,6935,1 [Base.Doorknob].
+[29-07-22 21:07:57.056] 76561199187795983 "feng min enjoyer" floor +1 11982,6938,2 [Base.Doorknob].
+[29-07-22 21:08:05.081] 76561199187795983 "feng min enjoyer" floor +1 11976,6941,1 [Base.Doorknob].
+[29-07-22 21:08:05.082] 76561199187795983 "feng min enjoyer" floor +1 11976,6941,1 [Base.Hinge].
+[29-07-22 21:08:05.083] 76561199187795983 "feng min enjoyer" floor +1 11976,6941,1 [Base.Hinge].
+[29-07-22 21:08:09.369] 76561199187795983 "feng min enjoyer" floor +1 11987,6941,0 [Base.Doorknob].
+[29-07-22 21:08:19.530] 76561199187795983 "feng min enjoyer" floor +1 11985,6943,0 [Base.Doorknob].
+[29-07-22 21:08:19.531] 76561199187795983 "feng min enjoyer" floor +1 11985,6943,0 [Base.Hinge].
+[29-07-22 21:08:45.923] 76561199187795983 "feng min enjoyer" floor +1 11903,6941,0 [Base.UnusableWood].
+[29-07-22 21:08:45.924] 76561199187795983 "feng min enjoyer" floor +1 11903,6941,0 [Base.Doorknob].
+[29-07-22 21:08:45.925] 76561199187795983 "feng min enjoyer" floor +1 11903,6941,0 [Base.Hinge].
+[29-07-22 21:08:45.926] 76561199187795983 "feng min enjoyer" floor +1 11903,6941,0 [Base.Hinge].
+[29-07-22 21:09:14.759] 76561199187795983 "feng min enjoyer" floor +1 11958,6959,0 [Base.Glasses_Normal].
+[29-07-22 21:09:17.824] 76561199187795983 "feng min enjoyer" floor +1 11978,6943,0 [Base.Doorknob].
+[29-07-22 21:09:17.825] 76561199187795983 "feng min enjoyer" floor +1 11978,6943,0 [Base.Hinge].
+[29-07-22 21:09:31.886] 76561199187795983 "feng min enjoyer" floor +1 11983,6913,1 [Base.UnusableWood].
+[29-07-22 21:09:31.887] 76561199187795983 "feng min enjoyer" floor +1 11983,6913,1 [Base.Doorknob].
+[29-07-22 21:09:31.888] 76561199187795983 "feng min enjoyer" floor +1 11983,6913,1 [Base.Hinge].
+[29-07-22 21:09:34.758] 76561199187795983 "feng min enjoyer" floor +1 11961,6963,0 [Base.Hat_BaseballCapKY].
+[29-07-22 21:10:36.935] 76561199187795983 "feng min enjoyer" floor +1 11911,6943,0 [Base.UnusableWood].
+[29-07-22 21:10:36.936] 76561199187795983 "feng min enjoyer" floor +1 11911,6943,0 [Base.Doorknob].
+[29-07-22 21:10:36.937] 76561199187795983 "feng min enjoyer" floor +1 11911,6943,0 [Base.Hinge].
+[29-07-22 21:10:51.031] 76561198086468814 "Raven" floor +1 11895,6942,0 [Base.SheetMetal].
+[29-07-22 21:10:51.032] 76561198086468814 "Raven" floor +1 11895,6942,0 [Base.Doorknob].
+[29-07-22 21:10:51.033] 76561198086468814 "Raven" floor +1 11895,6942,0 [Base.Hinge].
+[29-07-22 21:11:04.445] 76561198086468814 "Raven" floor +1 11982,6952,1 [Base.Doorknob].
+[29-07-22 21:11:04.446] 76561198086468814 "Raven" floor +1 11982,6952,1 [Base.Hinge].
+[29-07-22 21:11:13.429] 76561199187795983 "feng min enjoyer" floor +1 11891,6946,0 [Base.MetalBar].
+[29-07-22 21:11:13.430] 76561199187795983 "feng min enjoyer" floor +1 11891,6946,0 [Base.Doorknob].
+[29-07-22 21:11:20.021] 76561199187795983 "feng min enjoyer" floor +1 11982,6952,2 [Base.SheetMetal].
+[29-07-22 21:11:20.023] 76561199187795983 "feng min enjoyer" floor +1 11982,6952,2 [Base.Doorknob].
+[29-07-22 21:11:47.654] 76561198086468814 "Raven" floor +1 11932,6948,0 [Base.SheetMetal].
+[29-07-22 21:11:47.655] 76561198086468814 "Raven" floor +1 11932,6948,0 [Base.Doorknob].
+[29-07-22 21:11:47.655] 76561198086468814 "Raven" floor +1 11932,6948,0 [Base.Hinge].
+[29-07-22 21:12:27.144] 76561199187795983 "feng min enjoyer" floor +1 12016,6932,0 [Base.UnusableWood].
+[29-07-22 21:12:27.145] 76561199187795983 "feng min enjoyer" floor +1 12016,6932,0 [Base.Doorknob].
+[29-07-22 21:12:27.146] 76561199187795983 "feng min enjoyer" floor +1 12016,6932,0 [Base.Hinge].
+[29-07-22 21:12:27.147] 76561199187795983 "feng min enjoyer" floor +1 12016,6932,0 [Base.Hinge].
+[29-07-22 21:12:40.058] 76561198086468814 "Raven" container -2 11900,6936,0 [Base.PillsVitamins, Base.Wallet4].
+[29-07-22 21:12:50.466] 76561199187795983 "feng min enjoyer" container -1 11965,6941,0 [Base.9mmClip].
+[29-07-22 21:12:56.455] 76561199187795983 "feng min enjoyer" container -1 11965,6941,0 [Base.Gloves_LeatherGlovesBlack].
+[29-07-22 21:12:59.443] 76561199187795983 "feng min enjoyer" container -20 11965,6941,0 [Base.Bullets9mm].
+[29-07-22 21:13:17.450] 76561199187795983 "feng min enjoyer" container -2 11965,6941,0 [Base.AssaultRifle2, Base.308Box].
+[29-07-22 21:13:34.424] 76561198086468814 "Raven" container -1 11900,6940,0 [Base.Revolver_Long].
+[29-07-22 21:13:37.419] 76561198086468814 "Raven" container -1 11900,6940,0 [Base.Shotgun].
+[29-07-22 21:13:58.389] 76561199187795983 "feng min enjoyer" floor +1 11965,6934,0 [Base.Glasses_Normal].
+[29-07-22 21:14:28.020] 76561198086468814 "Raven" floor +1 11911,6937,0 [Base.UnusableWood].
+[29-07-22 21:14:28.021] 76561198086468814 "Raven" floor +1 11911,6937,0 [Base.Doorknob].
+[29-07-22 21:14:29.482] 76561199187795983 "feng min enjoyer" container +0 11961,6932,0 [Base.AssaultRifle2].
+[29-07-22 21:14:35.473] 76561199187795983 "feng min enjoyer" container +0 11961,6932,0 [Base.9mmClip].
+[29-07-22 21:14:38.479] 76561199187795983 "feng min enjoyer" container +0 11961,6932,0 [Base.Gloves_LeatherGlovesBlack].
+[29-07-22 21:14:41.478] 76561199187795983 "feng min enjoyer" container +0 11961,6932,0 [Base.Bullets9mm, Base.308Box].
+[29-07-22 21:15:08.411] 76561199187795983 "feng min enjoyer" floor +1 11953,6933,0 [Base.Glasses_Reading].
+[29-07-22 21:15:27.812] 76561198086468814 "Raven" floor -1 11895,6942,0 [Base.SheetMetal].
+[29-07-22 21:15:32.138] 76561198086468814 "Raven" floor -1 11895,6942,0 [Base.Hinge].
+[29-07-22 21:15:36.147] 76561198086468814 "Raven" floor -1 11893,6943,0 [Base.Hinge].
+[29-07-22 21:15:36.687] 76561198086468814 "Raven" floor -1 11895,6942,0 [Base.Doorknob].
+[29-07-22 21:15:37.223] 76561198086468814 "Raven" floor -1 11893,6943,0 [Base.Doorknob].
+[29-07-22 21:15:42.199] 76561198086468814 "Raven" floor -1 11891,6942,0 [Base.Hinge].
+[29-07-22 21:15:42.735] 76561198086468814 "Raven" floor -1 11891,6942,0 [Base.Doorknob].
+[29-07-22 21:15:48.332] 76561198086468814 "Raven" floor -1 11891,6939,0 [Base.Hinge].
+[29-07-22 21:15:48.649] 76561198086468814 "Raven" floor -1 11891,6939,0 [Base.Hinge].
+[29-07-22 21:15:49.183] 76561198086468814 "Raven" floor -1 11891,6939,0 [Base.Doorknob].
+[29-07-22 21:15:50.152] 76561199187795983 "feng min enjoyer" floor +1 11983,6920,0 [Base.Doorknob].
+[29-07-22 21:15:50.152] 76561199187795983 "feng min enjoyer" floor +1 11983,6920,0 [Base.Hinge].
+[29-07-22 21:16:00.099] 76561198086468814 "Raven" floor -1 11891,6935,0 [Base.Doorknob].
+[29-07-22 21:16:25.420] 76561198086468814 "Raven" container -20 11910,6934,0 [Base.Cigarettes].
+[29-07-22 21:16:28.417] 76561198086468814 "Raven" container -1 11910,6934,0 [Base.MagazineWordsearch2].
+[29-07-22 21:16:34.222] 76561198086468814 "Raven" container -1 11909,6941,0 [Base.PillsVitamins].
+[29-07-22 21:16:40.419] 76561198086468814 "Raven" container -1 11908,6938,0 [Base.9mmClip].
+[29-07-22 21:16:43.422] 76561198086468814 "Raven" container -1 11908,6938,0 [Base.Pistol].
+[29-07-22 21:16:45.821] 76561198086468814 "Raven" container -1 11908,6938,0 [Base.Glue].
+[29-07-22 21:16:47.478] 76561199187795983 "feng min enjoyer" container -1 11951,6965,0 [Base.Bag_WorkerBag].
+[29-07-22 21:16:55.184] 76561198086468814 "Raven" container -1 11905,6938,0 [Base.Scotchtape].
+[29-07-22 21:16:58.642] 76561198086468814 "Raven" floor +1 11833,6996,0 [Base.UnusableWood].
+[29-07-22 21:16:58.643] 76561198086468814 "Raven" floor +1 11833,6996,0 [Base.Doorknob].
+[29-07-22 21:16:58.644] 76561198086468814 "Raven" floor +1 11833,6996,0 [Base.Hinge].
+[29-07-22 21:16:58.644] 76561198086468814 "Raven" floor +1 11833,6996,0 [Base.Hinge].
+[29-07-22 21:17:52.423] 76561198086468814 "Raven" container -1 11932,6954,0 [Base.Garbagebag].
+[29-07-22 21:17:59.409] 76561198086468814 "Raven" floor +1 11951,6910,0 [Base.Doorknob].
+[29-07-22 21:17:59.410] 76561198086468814 "Raven" floor +1 11951,6910,0 [Base.Hinge].
+[29-07-22 21:17:59.411] 76561198086468814 "Raven" floor +1 11951,6910,0 [Base.Hinge].
+[29-07-22 21:18:05.574] 76561199187795983 "feng min enjoyer" floor +1 11955,6936,0 [Base.Glasses_Reading].
+[29-07-22 21:18:20.965] 76561198086468814 "Raven" floor -1 11932,6948,0 [Base.SheetMetal].
+[29-07-22 21:18:58.427] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.Glue, Base.Scotchtape, Base.Garbagebag, Base.Hinge].
+[29-07-22 21:19:01.431] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.Hinge].
+[29-07-22 21:19:04.421] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.Doorknob].
+[29-07-22 21:19:05.650] 76561199187795983 "feng min enjoyer" floor +1 11958,6933,0 [Base.ModernTire1].
+[29-07-22 21:19:05.806] 76561199187795983 "feng min enjoyer" floor +1 11958,6933,0 [Base.ModernTire1].
+[29-07-22 21:19:07.421] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.Doorknob].
+[29-07-22 21:19:10.420] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.WaterBottleFull].
+[29-07-22 21:19:13.424] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.WaterBottleFull].
+[29-07-22 21:19:16.419] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.SheetMetal].
+[29-07-22 21:19:18.493] 76561198086468814 "Raven" floor +1 11870,6908,0 [Base.UnusableWood].
+[29-07-22 21:19:18.494] 76561198086468814 "Raven" floor +1 11870,6908,0 [Base.Doorknob].
+[29-07-22 21:19:19.427] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.SheetMetal, Base.Wallet4].
+[29-07-22 21:19:22.427] 76561198086468814 "Raven" container +0 11955,6965,0 [EHE.MealReadytoEat].
+[29-07-22 21:19:25.428] 76561198086468814 "Raven" container +0 11955,6965,0 [EHE.MealReadytoEat].
+[29-07-22 21:19:28.423] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.9mmClip, EHE.MealReadytoEat].
+[29-07-22 21:19:31.418] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.Pistol].
+[29-07-22 21:19:37.423] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.Revolver_Long].
+[29-07-22 21:19:43.424] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.Shotgun].
+[29-07-22 21:19:46.423] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.PillsVitamins, Base.Cigarettes, Base.MagazineWordsearch2].
+[29-07-22 21:19:47.457] 76561199187795983 "feng min enjoyer" container -1 11942,6934,0 [Base.Disc_Retail].
+[29-07-22 21:19:48.822] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -19 12716,5059,1 [Base.Bullets38].
+[29-07-22 21:19:53.464] 76561199187795983 "feng min enjoyer" container -1 11942,6934,0 [Base.DuctTape].
+[29-07-22 21:19:56.468] 76561199187795983 "feng min enjoyer" container -1 11942,6934,0 [Base.Bandaid].
+[29-07-22 21:20:13.424] 76561198086468814 "Raven" container -1 11951,6965,0 [Base.Bag_MedicalBag].
+[29-07-22 21:20:24.820] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -1 12718,5065,1 [Base.OatsRaw].
+[29-07-22 21:20:40.423] 76561198086468814 "Raven" container +0 11951,6965,0 [Base.Bag_MedicalBag].
+[29-07-22 21:20:48.565] 76561198086468814 "Raven" floor +1 11952,6964,0 [Base.TinCanEmpty].
+[29-07-22 21:20:48.613] 76561198086468814 "Raven" floor +1 11952,6964,0 [Base.TinCanEmpty].
+[29-07-22 21:20:55.415] 76561198086468814 "Raven" container -1 11951,6965,0 [Base.Bag_WorkerBag].
+[29-07-22 21:21:03.374] 76561199187795983 "feng min enjoyer" floor +1 11959,6936,0 [Base.EngineDoor2].
+[29-07-22 21:21:16.415] 76561198086468814 "Raven" container +0 11951,6965,0 [Base.Shotgun].
+[29-07-22 21:21:19.425] 76561198086468814 "Raven" container +0 11951,6965,0 [Base.Bag_WorkerBag].
+[29-07-22 21:22:31.526] 76561199187795983 "feng min enjoyer" floor +1 11961,6936,0 [Base.FrontWindow2].
+[29-07-22 21:22:31.692] 76561199187795983 "feng min enjoyer" floor +1 11961,6936,0 [Base.FrontWindow2].
+[29-07-22 21:22:33.663] 76561199187795983 "feng min enjoyer" floor +1 11961,6936,0 [Base.FrontCarDoor2].
+[29-07-22 21:22:33.824] 76561199187795983 "feng min enjoyer" floor +1 11961,6936,0 [Base.FrontCarDoor2].
+[29-07-22 21:22:58.427] 76561198086468814 "Raven" container -5 11904,6933,0 [Base.Bullets9mmBox, Base.Sling, Base.9mmClip, Base.308Box].
+[29-07-22 21:23:01.416] 76561198086468814 "Raven" container -3 11904,6933,0 [Base.x8Scope, Base.308Box].
+[29-07-22 21:23:04.423] 76561198086468814 "Raven" container -1 11904,6933,0 [Base.Pistol].
+[29-07-22 21:23:07.419] 76561198086468814 "Raven" container -1 11904,6933,0 [Base.Pistol].
+[29-07-22 21:23:11.408] 76561198086468814 "Raven" floor +1 11905,6934,0 [Base.Pistol].
+[29-07-22 21:23:37.424] 76561198086468814 "Raven" container -17 11905,6933,0 [Base.Bullets9mmBox, Base.308Bullets].
+[29-07-22 21:23:40.423] 76561198086468814 "Raven" container -10 11905,6933,0 [Base.Bullets9mmBox, Base.M14Clip, Base.9mmClip, Base.308Clip, Base.308Box].
+[29-07-22 21:23:43.420] 76561198086468814 "Raven" container -2 11905,6933,0 [Base.ShotgunShellsBox, Base.308Box].
+[29-07-22 21:23:46.423] 76561198086468814 "Raven" container -1 11905,6933,0 [Base.HuntingRifle].
+[29-07-22 21:23:55.611] 76561198086468814 "Raven" floor +1 11905,6934,0 [Base.Pistol].
+[29-07-22 21:24:01.390] 76561198086468814 "Raven" floor -1 11905,6934,0 [Base.Pistol].
+[29-07-22 21:24:04.600] 76561199187795983 "feng min enjoyer" floor -1 11961,6936,0 [Base.FrontWindow2].
+[29-07-22 21:24:06.116] 76561198086468814 "Raven" floor +1 11905,6934,0 [Base.Pistol].
+[29-07-22 21:24:16.424] 76561198086468814 "Raven" container -1 11905,6933,0 [Base.Pistol].
+[29-07-22 21:24:22.423] 76561198086468814 "Raven" container -1 11905,6933,0 [Base.Pistol].
+[29-07-22 21:24:23.233] 76561199187795983 "feng min enjoyer" floor +1 11960,6936,0 [Base.FrontWindow2].
+[29-07-22 21:24:27.294] 76561198086468814 "Raven" floor +1 11905,6934,0 [Base.Pistol].
+[29-07-22 21:24:35.078] 76561198086468814 "Raven" floor +1 11905,6934,0 [Base.Pistol].
+[29-07-22 21:24:37.378] 76561199187795983 "feng min enjoyer" floor +1 11966,6939,0 [Base.LightBulb].
+[29-07-22 21:24:37.379] 76561199187795983 "feng min enjoyer" floor +1 11966,6939,0 [Base.LightBulb].
+[29-07-22 21:24:42.083] 76561199187795983 "feng min enjoyer" floor +1 11959,6908,0 [Base.Doorknob].
+[29-07-22 21:24:42.084] 76561199187795983 "feng min enjoyer" floor +1 11959,6908,0 [Base.Hinge].
+[29-07-22 21:24:43.411] 76561198086468814 "Raven" container -2 11906,6933,0 [Base.Bullets9mmBox].
+[29-07-22 21:24:45.131] 76561198086468814 "Raven" floor +1 11841,6912,0 [Base.UnusableWood].
+[29-07-22 21:24:45.132] 76561198086468814 "Raven" floor +1 11841,6912,0 [Base.Doorknob].
+[29-07-22 21:24:46.422] 76561198086468814 "Raven" container -5 11906,6933,0 [Base.Bullets9mmBox, Base.ShotgunShellsBox, Base.308Box].
+[29-07-22 21:24:46.455] 76561198086468814 "Raven" floor +1 11836,6916,0 [Base.SheetMetal].
+[29-07-22 21:24:46.456] 76561198086468814 "Raven" floor +1 11836,6916,0 [Base.Doorknob].
+[29-07-22 21:24:46.456] 76561198086468814 "Raven" floor +1 11836,6916,0 [Base.Hinge].
+[29-07-22 21:24:46.457] 76561198086468814 "Raven" floor +1 11836,6916,0 [Base.Hinge].
+[29-07-22 21:24:49.427] 76561198086468814 "Raven" container -1 11906,6933,0 [Base.ShotgunShellsBox].
+[29-07-22 21:25:04.419] 76561198086468814 "Raven" container -4 11907,6933,0 [Base.Bullets9mmBox, Base.ShotgunShellsBox, Base.308Box].
+[29-07-22 21:26:10.432] 76561198086468814 "Raven" container -4 11955,6965,0 [EHE.MealReadytoEat].
+[29-07-22 21:26:13.425] 76561198086468814 "Raven" container -1 11955,6965,0 [EHE.MealReadytoEat].
+[29-07-22 21:26:28.420] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.Bullets9mmBox, Base.ShotgunShells, Base.308Bullets, Base.Bullets45, Base.Bullets9mm].
+[29-07-22 21:26:31.426] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.Bullets9mmBox].
+[29-07-22 21:26:34.427] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.Bullets9mmBox].
+[29-07-22 21:26:37.420] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.M14Clip, Base.9mmClip, Base.308Clip].
+[29-07-22 21:26:40.415] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.9mmClip].
+[29-07-22 21:26:43.427] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.Sling, Base.308Box, Base.Scissors].
+[29-07-22 21:26:46.424] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.308Box].
+[29-07-22 21:26:49.425] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.308Box].
+[29-07-22 21:26:52.423] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.308Box].
+[29-07-22 21:26:55.429] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.308Box].
+[29-07-22 21:26:58.428] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.x8Scope, Base.ShotgunShellsBox].
+[29-07-22 21:27:01.422] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.ShotgunShellsBox].
+[29-07-22 21:27:04.418] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.ShotgunShellsBox].
+[29-07-22 21:27:07.423] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.ShotgunShellsBox].
+[29-07-22 21:27:13.433] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.HuntingRifle].
+[29-07-22 21:27:22.427] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.Sledgehammer].
+[29-07-22 21:27:25.431] 76561198086468814 "Raven" container +0 11955,6965,0 [Base.Bullets9mm].
+[29-07-22 21:28:33.947] 76561199187795983 "feng min enjoyer" floor +1 11950,6964,0 [EHE.MREWrapper].
+[29-07-22 21:28:38.471] 76561199187795983 "feng min enjoyer" container +0 11951,6965,0 [Base.Bag_WorkerBag].
+[29-07-22 21:28:41.473] 76561199187795983 "feng min enjoyer" container -1 11951,6965,0 [Base.Bag_MedicalBag].
+[29-07-22 21:29:14.473] 76561199187795983 "feng min enjoyer" container +0 11950,6953,0 [Base.PillsSleepingTablets].
+[29-07-22 21:29:18.824] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -1 11950,6953,0 [Base.PillsSleepingTablets].
+[29-07-22 21:29:49.566] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 12019,6928,0 [Base.Doorknob].
+[29-07-22 21:30:50.474] 76561199187795983 "feng min enjoyer" container +0 11951,6965,0 [Base.Bag_MedicalBag].
+[29-07-22 21:31:37.419] 76561198086468814 "Raven" container -1 11916,6933,0 [Base.Sledgehammer].
+[29-07-22 21:31:47.477] 76561199187795983 "feng min enjoyer" container +0 11918,6917,0 [Base.Gloves_LeatherGlovesBlack].
+[29-07-22 21:31:50.469] 76561199187795983 "feng min enjoyer" container -1 11918,6917,0 [Base.Gloves_LeatherGlovesBlack].
+[29-07-22 21:32:37.428] 76561198086468814 "Raven" container +0 11916,6933,0 [Base.Sledgehammer].
+[29-07-22 21:32:50.477] 76561199187795983 "feng min enjoyer" container -1 11901,6916,0 [Base.Garbagebag].
+[29-07-22 21:32:53.479] 76561199187795983 "feng min enjoyer" container -2 11901,6916,0 [Base.WaterBottleEmpty].
+[29-07-22 21:32:55.424] 76561198086468814 "Raven" container -1 11916,6933,0 [Base.Sledgehammer].
+[29-07-22 21:34:52.415] 76561198086468814 "Raven" container -1 11912,6918,1 [Base.Bleach].
+[29-07-22 21:34:55.433] 76561198086468814 "Raven" container -3 11911,6918,1 [Base.LightBulb].
+[29-07-22 21:35:01.420] 76561198086468814 "Raven" container -1 11911,6918,1 [Base.TrapMouse].
+[29-07-22 21:35:13.413] 76561198086468814 "Raven" container -1 11911,6923,1 [Base.Garbagebag].
+[29-07-22 21:35:28.927] 76561198086468814 "Raven" floor +1 11832,6909,0 [Base.UnusableWood].
+[29-07-22 21:35:28.928] 76561198086468814 "Raven" floor +1 11832,6909,0 [Base.Doorknob].
+[29-07-22 21:35:31.421] 76561198086468814 "Raven" container -1 11904,6925,1 [Base.OatsRaw].
+[29-07-22 21:35:33.836] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -1 11899,6882,0 [Base.MechanicMag3].
+[29-07-22 21:35:43.419] 76561198086468814 "Raven" container -2 11904,6925,1 [Base.Coffee2, Base.SugarPacket].
+[29-07-22 21:35:48.709] 76561198086468814 "Raven" floor +1 11905,6924,1 [Base.Lunchbag].
+[29-07-22 21:35:49.418] 76561198086468814 "Raven" container -2 11904,6924,1 [Base.PopBottle, Base.Lunchbag].
+[29-07-22 21:35:58.418] 76561198086468814 "Raven" container -2 11904,6927,1 [Base.Popcorn, Base.SugarPacket].
+[29-07-22 21:36:10.420] 76561198086468814 "Raven" container -1 11911,6927,1 [Base.Garbagebag].
+[29-07-22 21:36:12.990] 76561198086468814 "Raven" floor -1 11911,6926,1 [Base.SheetMetal].
+[29-07-22 21:36:31.412] 76561198086468814 "Raven" container -3 11913,6913,1 [Base.PopBottleEmpty, Base.WaterBottleEmpty, Base.Garbagebag].
+[29-07-22 21:36:40.060] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.MetalBar].
+[29-07-22 21:36:40.061] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.MetalPipe].
+[29-07-22 21:36:40.062] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.SmallSheetMetal].
+[29-07-22 21:36:40.062] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.MetalBar].
+[29-07-22 21:36:40.063] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.SheetMetal].
+[29-07-22 21:36:40.063] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.MetalBar].
+[29-07-22 21:36:40.064] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.MetalPipe].
+[29-07-22 21:36:40.065] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.MetalPipe].
+[29-07-22 21:36:40.065] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.MetalPipe].
+[29-07-22 21:36:40.066] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.SmallSheetMetal].
+[29-07-22 21:36:40.067] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.ScrapMetal].
+[29-07-22 21:36:40.067] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.ScrapMetal].
+[29-07-22 21:36:40.068] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.ScrapMetal].
+[29-07-22 21:36:40.086] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.ScrapMetal].
+[29-07-22 21:36:40.087] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.ScrapMetal].
+[29-07-22 21:36:40.088] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.ScrapMetal].
+[29-07-22 21:36:40.088] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.ScrapMetal].
+[29-07-22 21:36:40.089] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.MetalBar].
+[29-07-22 21:36:40.089] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.MetalBar].
+[29-07-22 21:36:40.090] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.ScrapMetal].
+[29-07-22 21:36:40.091] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.ScrapMetal].
+[29-07-22 21:36:40.091] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.ScrapMetal].
+[29-07-22 21:36:40.092] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.SheetMetal].
+[29-07-22 21:36:40.092] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.ScrapMetal].
+[29-07-22 21:36:40.093] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.ScrapMetal].
+[29-07-22 21:36:40.094] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.MetalBar].
+[29-07-22 21:36:40.094] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.MetalBar].
+[29-07-22 21:36:40.095] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.ScrapMetal].
+[29-07-22 21:36:40.095] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.SmallSheetMetal].
+[29-07-22 21:36:40.096] 76561199187795983 "feng min enjoyer" floor +1 11952,6961,0 [Base.ScrapMetal].
+[29-07-22 21:36:43.420] 76561198086468814 "Raven" container -1 11903,6914,1 [Base.Garbagebag].
+[29-07-22 21:36:44.406] 76561199187795983 "feng min enjoyer" floor -1 11952,6961,0 [Base.SheetMetal].
+[29-07-22 21:36:45.208] 76561199187795983 "feng min enjoyer" floor -1 11952,6961,0 [Base.SheetMetal].
+[29-07-22 21:36:47.059] 76561199187795983 "feng min enjoyer" floor -1 11952,6961,0 [Base.SmallSheetMetal].
+[29-07-22 21:36:47.271] 76561199187795983 "feng min enjoyer" floor -1 11952,6961,0 [Base.SmallSheetMetal].
+[29-07-22 21:36:47.487] 76561199187795983 "feng min enjoyer" floor -1 11952,6961,0 [Base.SmallSheetMetal].
+[29-07-22 21:36:48.841] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -1 11891,6887,1 [Base.ComicBook].
+[29-07-22 21:37:36.832] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -1 11906,6882,1 [Base.MetalworkMag2].
+[29-07-22 21:37:37.658] 76561199187795983 "feng min enjoyer" floor +1 11888,6898,0 [Base.Hat_Police].
+[29-07-22 21:38:58.420] 76561198086468814 "Raven" container -1 11898,6886,0 [Base.BookCooking4].
+[29-07-22 21:39:04.421] 76561198086468814 "Raven" container -2 11898,6886,0 [Base.BookElectrician4, Base.BookElectrician5].
+[29-07-22 21:39:12.829] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -1 11882,6881,0 [Base.Pills].
+[29-07-22 21:39:18.831] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -2 11882,6881,0 [Base.SutureNeedleHolder, Base.Disinfectant].
+[29-07-22 21:39:21.837] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -2 11882,6881,0 [Base.AlcoholWipes, Base.Bandage].
+[29-07-22 21:39:24.837] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -2 11883,6881,0 [Base.Pills].
+[29-07-22 21:39:27.843] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -1 11883,6881,0 [Base.PillsBeta].
+[29-07-22 21:39:29.482] 76561199187795983 "feng min enjoyer" container -1 11871,6890,0 [Base.Disc_Retail].
+[29-07-22 21:39:33.835] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -10 11880,6881,0 [Base.AlcoholWipes, Base.PillsSleepingTablets, Base.Disinfectant, Base.Pills, Base.PillsAntiDep, Base.CottonBalls].
+[29-07-22 21:39:34.417] 76561198086468814 "Raven" container -1 11898,6886,0 [Base.BookFarming4].
+[29-07-22 21:39:35.481] 76561199187795983 "feng min enjoyer" container -1 11872,6887,0 [Base.PillsVitamins].
+[29-07-22 21:39:40.422] 76561198086468814 "Raven" container -1 11898,6886,0 [Base.BookFishing2].
+[29-07-22 21:39:43.417] 76561198086468814 "Raven" container -1 11898,6886,0 [Base.BookFishing5].
+[29-07-22 21:39:51.836] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -14 11886,6881,0 [Base.AlcoholWipes, Base.PillsSleepingTablets, Base.Disinfectant, Base.Bandage, Base.Bandaid, Base.Pills, Base.CottonBalls].
+[29-07-22 21:39:57.828] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -8 11888,6881,0 [Base.PillsBeta, Base.AlcoholWipes, Base.PillsSleepingTablets, Base.Bandaid, Base.PillsAntiDep, Base.CottonBalls].
+[29-07-22 21:40:00.832] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -1 11888,6881,0 [Base.AlcoholWipes].
+[29-07-22 21:40:06.820] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -4 11889,6881,0 [Base.Bandage, Base.Bandaid].
+[29-07-22 21:40:09.839] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -10 11889,6881,0 [Base.AlcoholWipes, Base.PillsSleepingTablets, Base.Pills, Base.PillsAntiDep, Base.CottonBalls].
+[29-07-22 21:40:10.421] 76561198086468814 "Raven" container -1 11898,6885,0 [Base.BookForaging2].
+[29-07-22 21:40:21.836] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -3 11887,6881,0 [Base.Gloves_Surgical, Base.Bandaid, Base.SutureNeedle].
+[29-07-22 21:40:24.837] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -8 11887,6881,0 [Base.Hat_SurgicalMask_Blue, Base.SutureNeedleHolder, Base.Disinfectant, Base.Scalpel, Base.Tweezers, Base.Scissors].
+[29-07-22 21:40:25.425] 76561198086468814 "Raven" container -1 11898,6885,0 [Base.BookCooking5].
+[29-07-22 21:40:31.425] 76561198086468814 "Raven" container -1 11898,6885,0 [Base.BookFirstAid3].
+[29-07-22 21:40:33.844] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -8 11886,6886,0 [Base.Antibiotics, Base.Bandage, Base.Pills, Base.PillsAntiDep, Base.CottonBalls].
+[29-07-22 21:40:36.838] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -6 11886,6886,0 [Base.AlcoholWipes, Base.Disinfectant, Base.Pills].
+[29-07-22 21:40:48.842] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -20 11888,6878,0 [Base.Cigarettes].
+[29-07-22 21:40:52.426] 76561198086468814 "Raven" container -1 11898,6882,0 [Base.BookFarming5].
+[29-07-22 21:41:14.474] 76561199187795983 "feng min enjoyer" container -5 11864,6911,0 [Base.PillsBeta, Base.AlcoholWipes, Base.PillsSleepingTablets, Base.Pills].
+[29-07-22 21:41:20.488] 76561199187795983 "feng min enjoyer" container -10 11864,6910,0 [Base.PillsBeta, Base.AlcoholWipes, Base.Bandaid, Base.Pills, Base.PillsAntiDep, Base.CottonBalls].
+[29-07-22 21:41:26.475] 76561199187795983 "feng min enjoyer" container -5 11864,6912,0 [Base.AlcoholWipes, Base.SutureNeedleHolder, Base.Bandaid, Base.Pills, Base.CottonBalls].
+[29-07-22 21:41:30.817] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -1 11880,6878,0 [Base.PillsBeta].
+[29-07-22 21:41:35.493] 76561199187795983 "feng min enjoyer" container -12 11864,6909,0 [Base.PillsBeta, Base.AlcoholWipes, Base.Pills, Base.PillsAntiDep, Base.CottonBalls].
+[29-07-22 21:41:41.503] 76561199187795983 "feng min enjoyer" container -2 11863,6909,0 [Base.Disinfectant, Base.SutureNeedle].
+[29-07-22 21:41:52.101] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 11881,6879,0 [Base.CottonBalls].
+[29-07-22 21:41:52.102] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 11881,6879,0 [Base.CottonBalls].
+[29-07-22 21:41:52.102] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 11881,6879,0 [Base.CottonBalls].
+[29-07-22 21:41:52.103] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 11881,6879,0 [Base.CottonBalls].
+[29-07-22 21:41:52.104] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 11881,6879,0 [Base.CottonBalls].
+[29-07-22 21:41:52.104] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 11881,6879,0 [Base.CottonBalls].
+[29-07-22 21:41:52.105] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 11881,6879,0 [Base.CottonBalls].
+[29-07-22 21:41:52.106] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 11881,6879,0 [Base.CottonBalls].
+[29-07-22 21:41:52.106] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 11881,6879,0 [Base.CottonBalls].
+[29-07-22 21:41:52.107] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 11881,6879,0 [Base.CottonBalls].
+[29-07-22 21:41:56.479] 76561199187795983 "feng min enjoyer" container -9 11870,6910,0 [Base.PillsBeta, Base.Bandaid, Base.Pills, Base.CottonBalls].
+[29-07-22 21:41:58.723] 76561199187795983 "feng min enjoyer" floor +1 11789,6861,0 [Base.UnusableWood].
+[29-07-22 21:41:58.724] 76561199187795983 "feng min enjoyer" floor +1 11789,6861,0 [Base.UnusableWood].
+[29-07-22 21:41:58.725] 76561199187795983 "feng min enjoyer" floor +1 11789,6861,0 [Base.Doorknob].
+[29-07-22 21:41:58.726] 76561199187795983 "feng min enjoyer" floor +1 11789,6861,0 [Base.Hinge].
+[29-07-22 21:41:59.380] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 11881,6879,0 [Base.Tweezers].
+[29-07-22 21:42:03.838] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -1 11881,6878,0 [Base.Antibiotics].
+[29-07-22 21:42:05.483] 76561199187795983 "feng min enjoyer" container -3 11871,6910,0 [Base.Bandage, Base.Pills, Base.SutureNeedle].
+[29-07-22 21:42:11.485] 76561199187795983 "feng min enjoyer" container -8 11872,6910,0 [Base.PillsBeta, Base.PillsSleepingTablets, Base.Bandaid, Base.Pills, Base.PillsAntiDep, Base.CottonBalls].
+[29-07-22 21:42:12.838] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -4 11880,6878,0 [Base.Pills, Base.PillsAntiDep].
+[29-07-22 21:42:14.483] 76561199187795983 "feng min enjoyer" container -2 11872,6910,0 [Base.AlcoholWipes].
+[29-07-22 21:42:20.047] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 11881,6879,0 [Base.Scalpel].
+[29-07-22 21:42:24.841] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -1 11880,6878,0 [Base.AlcoholWipes].
+[29-07-22 21:42:25.421] 76561198086468814 "Raven" container -2 11897,6886,0 [Base.HuntingMag2, Base.ElectronicsMag3].
+[29-07-22 21:42:26.470] 76561199187795983 "feng min enjoyer" container -2 11866,6918,0 [Base.AlcoholWipes, Base.Antibiotics].
+[29-07-22 21:42:27.839] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -2 11880,6878,0 [Base.Bandage].
+[29-07-22 21:42:29.479] 76561199187795983 "feng min enjoyer" container -2 11866,6916,0 [Base.SutureNeedle].
+[29-07-22 21:42:38.490] 76561199187795983 "feng min enjoyer" container -1 11867,6916,0 [farming.GardeningSprayEmpty].
+[29-07-22 21:42:44.487] 76561199187795983 "feng min enjoyer" container -4 11869,6918,0 [Base.WaterBottleFull].
+[29-07-22 21:42:53.495] 76561199187795983 "feng min enjoyer" container -1 11872,6917,0 [Base.DuctTape].
+[29-07-22 21:42:59.480] 76561199187795983 "feng min enjoyer" container -1 11873,6917,0 [Base.CleaningLiquid2].
+[29-07-22 21:43:09.839] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container +0 11882,6896,0 [Base.SutureNeedleHolder, Base.PillsAntiDep, Base.SutureNeedle].
+[29-07-22 21:43:12.842] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container +0 11882,6896,0 [Base.PillsSleepingTablets, Base.PillsAntiDep].
+[29-07-22 21:43:13.419] 76561198086468814 "Raven" container -4 11896,6887,1 [Base.CannedChili, Base.TinnedBeans, Base.TomatoPaste, Base.TunaTin].
+[29-07-22 21:43:15.839] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container +0 11882,6896,0 [Base.PillsSleepingTablets].
+[29-07-22 21:43:16.419] 76561198086468814 "Raven" container -4 11896,6887,1 [Base.CannedSardines, Base.CannedBolognese, Base.CannedPotato2].
+[29-07-22 21:43:17.481] 76561199187795983 "feng min enjoyer" container -1 11872,6908,0 [Base.Glue].
+[29-07-22 21:43:18.833] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container +0 11882,6896,0 [Base.Scissors].
+[29-07-22 21:43:20.483] 76561199187795983 "feng min enjoyer" container -1 11872,6908,0 [Base.Lighter].
+[29-07-22 21:43:24.844] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container +0 11882,6896,0 [Base.Pills].
+[29-07-22 21:43:27.842] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container +0 11882,6896,0 [Base.Pills].
+[29-07-22 21:43:28.418] 76561198086468814 "Raven" container -1 11891,6882,1 [Base.ElectronicsMag2].
+[29-07-22 21:43:30.832] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container +0 11882,6896,0 [Base.Disinfectant, Base.Pills].
+[29-07-22 21:43:33.837] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container +0 11882,6896,0 [Base.Disinfectant].
+[29-07-22 21:43:41.513] 76561199187795983 "feng min enjoyer" container +0 11882,6896,0 [Base.SmallSheetMetal].
+[29-07-22 21:43:42.842] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container +0 11882,6896,0 [Base.PillsBeta].
+[29-07-22 21:43:44.465] 76561199187795983 "feng min enjoyer" container +0 11882,6896,0 [Base.SheetMetal, Base.SmallSheetMetal].
+[29-07-22 21:43:45.835] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container +0 11882,6896,0 [Base.Bandage].
+[29-07-22 21:43:52.416] 76561198086468814 "Raven" container -1 11898,6885,1 [Base.TunaTin].
+[29-07-22 21:43:53.492] 76561199187795983 "feng min enjoyer" container +0 11882,6896,0 [Base.Bandaid].
+[29-07-22 21:43:54.842] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container +0 11882,6896,0 [Base.Antibiotics].
+[29-07-22 21:43:55.421] 76561198086468814 "Raven" container -4 11898,6885,1 [Base.TinOpener, Base.CannedCornedBeef, Base.CannedPeaches, Base.CannedFruitCocktail].
+[29-07-22 21:43:58.419] 76561198086468814 "Raven" container -2 11898,6885,1 [Base.CannedBolognese, Base.CannedPotato2].
+[29-07-22 21:44:00.836] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container +0 11882,6896,0 [Base.Disinfectant].
+[29-07-22 21:44:02.471] 76561199187795983 "feng min enjoyer" container +0 11882,6896,0 [Base.AlcoholWipes].
+[29-07-22 21:44:03.846] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container +0 11882,6896,0 [Base.AlcoholWipes].
+[29-07-22 21:44:05.474] 76561199187795983 "feng min enjoyer" container +0 11882,6896,0 [Base.AlcoholWipes, Base.PillsAntiDep].
+[29-07-22 21:44:06.839] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container +0 11882,6896,0 [Base.AlcoholWipes].
+[29-07-22 21:44:09.835] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container +0 11882,6896,0 [Base.AlcoholWipes].
+[29-07-22 21:44:09.887] 76561198086468814 "Raven" container -20 11899,6887,1 [Base.Cigarettes].
+[29-07-22 21:44:11.496] 76561199187795983 "feng min enjoyer" container +0 11882,6896,0 [Base.Disinfectant].
+[29-07-22 21:44:12.843] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container +0 11882,6896,0 [Base.AlcoholWipes].
+[29-07-22 21:44:14.491] 76561199187795983 "feng min enjoyer" container +0 11882,6896,0 [Base.PillsBeta].
+[29-07-22 21:44:15.838] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container +0 11882,6896,0 [Base.Bandaid].
+[29-07-22 21:44:17.448] 76561199187795983 "feng min enjoyer" floor +1 11883,6897,0 [Base.CottonBalls].
+[29-07-22 21:44:17.449] 76561199187795983 "feng min enjoyer" floor +1 11883,6897,0 [Base.CottonBalls].
+[29-07-22 21:44:17.450] 76561199187795983 "feng min enjoyer" floor +1 11883,6897,0 [Base.CottonBalls].
+[29-07-22 21:44:17.450] 76561199187795983 "feng min enjoyer" floor +1 11883,6897,0 [Base.CottonBalls].
+[29-07-22 21:44:17.450] 76561199187795983 "feng min enjoyer" floor +1 11883,6897,0 [Base.CottonBalls].
+[29-07-22 21:44:17.451] 76561199187795983 "feng min enjoyer" floor +1 11883,6897,0 [Base.CottonBalls].
+[29-07-22 21:44:17.451] 76561199187795983 "feng min enjoyer" floor +1 11883,6897,0 [Base.CottonBalls].
+[29-07-22 21:44:17.452] 76561199187795983 "feng min enjoyer" floor +1 11883,6897,0 [Base.CottonBalls].
+[29-07-22 21:44:17.481] 76561199187795983 "feng min enjoyer" container +0 11882,6896,0 [Base.PillsBeta].
+[29-07-22 21:44:21.842] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container +0 11882,6896,0 [Base.MetalworkMag2, Base.MechanicMag3].
+[29-07-22 21:44:26.497] 76561199187795983 "feng min enjoyer" container +0 11882,6896,0 [Base.Pills].
+[29-07-22 21:44:26.882] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 11883,6897,0 [Base.Gloves_Surgical].
+[29-07-22 21:44:28.541] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 11883,6897,0 [Base.Hat_SurgicalMask_Blue].
+[29-07-22 21:44:29.506] 76561199187795983 "feng min enjoyer" container +0 11882,6896,0 [Base.Pills].
+[29-07-22 21:44:32.503] 76561199187795983 "feng min enjoyer" container +0 11882,6896,0 [Base.Pills].
+[29-07-22 21:44:35.497] 76561199187795983 "feng min enjoyer" container +0 11882,6896,0 [Base.PillsSleepingTablets, Base.Bandage].
+[29-07-22 21:44:41.464] 76561199187795983 "feng min enjoyer" container +0 11882,6896,0 [Base.SutureNeedle].
+[29-07-22 21:44:43.427] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.WaterBottleEmpty, Base.Cigarettes, Base.SugarPacket].
+[29-07-22 21:44:44.501] 76561199187795983 "feng min enjoyer" container +0 11882,6896,0 [Base.Disc_Retail].
+[29-07-22 21:44:46.430] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.HuntingMag2, Base.LightBulb, Base.ElectronicsMag3, Base.PopBottleEmpty, Base.ElectronicsMag2, Base.Garbagebag, Base.TomatoPaste, Base.TunaTin].
+[29-07-22 21:44:47.473] 76561199187795983 "feng min enjoyer" container +0 11882,6896,0 [Base.WaterBottleFull].
+[29-07-22 21:44:49.428] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.Popcorn, Base.TunaTin].
+[29-07-22 21:44:50.490] 76561199187795983 "feng min enjoyer" container +0 11882,6896,0 [Base.WaterBottleFull].
+[29-07-22 21:44:52.423] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.TrapMouse].
+[29-07-22 21:44:53.492] 76561199187795983 "feng min enjoyer" container +0 11882,6896,0 [Base.Glue, Base.WaterBottleEmpty, Base.Garbagebag, Base.DuctTape].
+[29-07-22 21:44:55.423] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.TinOpener].
+[29-07-22 21:44:56.475] 76561199187795983 "feng min enjoyer" container +0 11882,6896,0 [Base.CleaningLiquid2].
+[29-07-22 21:44:58.419] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.PopBottle, Base.TinnedBeans].
+[29-07-22 21:45:01.426] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.CannedChili].
+[29-07-22 21:45:04.420] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.CannedCornedBeef, Base.CannedFruitCocktail].
+[29-07-22 21:45:07.422] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.CannedPeaches].
+[29-07-22 21:45:10.428] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.CannedPotato2].
+[29-07-22 21:45:13.426] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.CannedSardines].
+[29-07-22 21:45:16.419] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.CannedSardines, Base.CannedBolognese].
+[29-07-22 21:45:19.419] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.CannedBolognese].
+[29-07-22 21:45:22.423] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.BookCooking4, Base.BookCooking5].
+[29-07-22 21:45:25.423] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.BookElectrician4].
+[29-07-22 21:45:28.430] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.BookFarming4, Base.BookElectrician5].
+[29-07-22 21:45:31.416] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.BookFarming5].
+[29-07-22 21:45:34.420] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.BookFishing2, Base.BookFirstAid3].
+[29-07-22 21:45:37.423] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.BookFishing5].
+[29-07-22 21:45:40.430] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.BookForaging2].
+[29-07-22 21:45:43.427] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.Coffee2].
+[29-07-22 21:45:46.417] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.SheetMetal].
+[29-07-22 21:45:49.429] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.Bleach].
+[29-07-22 21:45:55.424] 76561198086468814 "Raven" container +0 11906,6894,0 [Base.Sledgehammer].
+[29-07-22 21:46:10.426] 76561198086468814 "Raven" container -2 11898,6877,0 [Base.LightBulb].
+[29-07-22 21:46:16.120] 76561198086468814 "Raven" container -2 11899,6877,0 [Base.Bleach].
+[29-07-22 21:46:31.410] 76561198086468814 "Raven" container -3 11897,6878,0 [Base.Crackers].
+[29-07-22 21:46:34.420] 76561198086468814 "Raven" container -4 11897,6878,0 [Base.Popcorn, Base.TortillaChips, Base.Marinara, Base.Macandcheese].
+[29-07-22 21:46:37.422] 76561198086468814 "Raven" container -2 11897,6878,0 [Base.DriedBlackBeans, Base.Pasta].
+[29-07-22 21:46:40.414] 76561198086468814 "Raven" container -1 11897,6878,0 [Base.Pasta].
+[29-07-22 21:46:46.430] 76561198086468814 "Raven" container -3 11897,6877,0 [Base.JuiceBox, Base.Pop3, Base.PopBottle].
+[29-07-22 21:46:49.423] 76561198086468814 "Raven" container -1 11897,6877,0 [Base.PopBottle].
+[29-07-22 21:46:52.423] 76561198086468814 "Raven" container -1 11896,6877,0 [Base.Cereal].
+[29-07-22 21:46:58.421] 76561198086468814 "Raven" container -2 11896,6877,0 [Base.PeanutButter, Base.Chocolate].
+[29-07-22 21:47:08.484] 76561199187795983 "feng min enjoyer" container +0 11882,6896,0 [farming.GardeningSprayEmpty].
+[29-07-22 21:47:10.421] 76561198086468814 "Raven" container -1 11896,6877,0 [Base.GranolaBar].
+[29-07-22 21:47:25.421] 76561198086468814 "Raven" container -1 11892,6878,0 [Base.TinOpener].
+[29-07-22 21:47:28.424] 76561198086468814 "Raven" container -4 11892,6878,0 [Base.CannedCornedBeef, Base.CannedMushroomSoup, Base.CannedSardines, Base.Dogfood].
+[29-07-22 21:47:36.892] 76561198086468814 "Raven" container -1 11892,6879,0 [Base.Pickles].
+[29-07-22 21:47:49.422] 76561198086468814 "Raven" container -1 11894,6879,0 [Base.TinOpener].
+[29-07-22 21:52:31.426] 76561198086468814 "Raven" container +0 12718,5065,1 [Base.JuiceBox].
+[29-07-22 21:52:34.418] 76561198086468814 "Raven" container +0 12718,5065,1 [Base.Pop3, Base.PopBottle].
+[29-07-22 21:52:37.419] 76561198086468814 "Raven" container +0 12718,5065,1 [Base.PopBottle].
+[29-07-22 21:52:46.420] 76561198086468814 "Raven" container +0 12718,5065,1 [Base.Crackers, Base.Pickles, Base.TortillaChips, Base.Chocolate].
+[29-07-22 21:52:49.426] 76561198086468814 "Raven" container +0 12718,5065,1 [Base.Popcorn, Base.PeanutButter, Base.Macandcheese].
+[29-07-22 21:52:52.417] 76561198086468814 "Raven" container +0 12718,5065,1 [Base.CannedCornedBeef].
+[29-07-22 21:52:55.423] 76561198086468814 "Raven" container +0 12718,5065,1 [Base.CannedMushroomSoup, Base.CannedSardines].
+[29-07-22 21:52:58.424] 76561198086468814 "Raven" container +0 12718,5065,1 [Base.Dogfood].
+[29-07-22 21:53:04.418] 76561198086468814 "Raven" container +0 12718,5065,1 [Base.DriedBlackBeans].
+[29-07-22 21:53:05.478] 76561199187795983 "feng min enjoyer" container +0 12716,5069,1 [Base.TinCanEmpty].
+[29-07-22 21:53:07.426] 76561198086468814 "Raven" container +0 12718,5065,1 [Base.Pasta].
+[29-07-22 21:53:08.510] 76561199187795983 "feng min enjoyer" container -1 12716,5068,1 [Base.BeerWaterFull].
+[29-07-22 21:53:13.416] 76561198086468814 "Raven" container +0 12718,5065,1 [Base.TinOpener, Base.Pasta].
+[29-07-22 21:53:16.427] 76561198086468814 "Raven" container +0 12718,5065,1 [Base.TinOpener, Base.Marinara].
+[29-07-22 21:53:17.500] 76561199187795983 "feng min enjoyer" container -1 12716,5066,1 [Base.TinnedSoup].
+[29-07-22 21:53:28.427] 76561198086468814 "Raven" container +0 12716,5067,1 [Base.Bleach].
+[29-07-22 21:53:31.420] 76561198086468814 "Raven" container +0 12716,5067,1 [Base.Bleach].
+[29-07-22 21:53:34.425] 76561198086468814 "Raven" container -13 12716,5067,1 [Base.AlcoholWipes, Base.PillsSleepingTablets, Base.Pills].
+[29-07-22 21:53:37.428] 76561198086468814 "Raven" container -9 12716,5067,1 [Base.AlcoholWipes, Base.Disinfectant].
+[29-07-22 21:53:40.419] 76561198086468814 "Raven" container -3 12716,5067,1 [Base.Disinfectant].
+[29-07-22 21:53:47.477] 76561199187795983 "feng min enjoyer" container +0 12716,5069,1 [Base.TinCanEmpty].
+[29-07-22 21:53:52.420] 76561198086468814 "Raven" container +0 12719,5069,1 [Base.Pills].
+[29-07-22 21:53:55.415] 76561198086468814 "Raven" container +0 12719,5069,1 [Base.PillsSleepingTablets].
+[29-07-22 21:53:58.423] 76561198086468814 "Raven" container +0 12719,5069,1 [Base.AlcoholWipes, Base.PillsSleepingTablets].
+[29-07-22 21:54:01.427] 76561198086468814 "Raven" container +0 12719,5069,1 [Base.AlcoholWipes].
+[29-07-22 21:54:04.426] 76561198086468814 "Raven" container +0 12719,5069,1 [Base.AlcoholWipes, Base.Disinfectant].
+[29-07-22 21:54:07.424] 76561198086468814 "Raven" container +0 12719,5069,1 [Base.Disinfectant].
+[29-07-22 21:54:14.480] 76561199187795983 "feng min enjoyer" container -2 12731,5079,0 [Base.CarKey, Base.Key1].
+[29-07-22 21:54:46.425] 76561198086468814 "Raven" container -63 12732,5080,0 [Base.Bullets9mmBox, Base.ShotgunShells, Base.308Bullets, Base.Bullets45, Base.Bullets9mm].
+[29-07-22 21:54:49.416] 76561198086468814 "Raven" container -9 12732,5080,0 [Base.Bullets9mmBox, Base.308Box].
+[29-07-22 21:54:52.422] 76561198086468814 "Raven" container -5 12732,5080,0 [Base.308Box].
+[29-07-22 21:54:55.417] 76561198086468814 "Raven" container -3 12732,5080,0 [Base.ShotgunShellsBox, Base.308Box].
+[29-07-22 21:54:58.425] 76561198086468814 "Raven" container -2 12732,5080,0 [Base.ShotgunShellsBox].
+[29-07-22 21:54:59.500] 76561199187795983 "feng min enjoyer" container -1 12733,5070,0 [Base.Bag_WorkerBag].
+[29-07-22 21:55:02.493] 76561199187795983 "feng min enjoyer" container -1 12733,5070,0 [Base.Bag_MedicalBag].
+[29-07-22 21:55:07.420] 76561198086468814 "Raven" container -8 12732,5080,0 [Base.M14Clip, Base.9mmClip, Base.308Clip].
+[29-07-22 21:55:08.498] 76561199187795983 "feng min enjoyer" container -1 12733,5070,0 [Base.Bag_MedicalBag].
+[29-07-22 21:55:10.423] 76561198086468814 "Raven" container -5 12732,5080,0 [Base.Sling, Base.x8Scope, Base.9mmClip].
+[29-07-22 21:55:11.502] 76561199187795983 "feng min enjoyer" container +0 12733,5070,0 [Base.Bag_ALICEpack_Army].
+[29-07-22 21:55:13.423] 76561198086468814 "Raven" container -2 12732,5080,0 [Base.Revolver_Long, Base.Pistol].
+[29-07-22 21:55:16.419] 76561198086468814 "Raven" container -1 12732,5080,0 [Base.HuntingRifle].
+[29-07-22 21:55:19.430] 76561198086468814 "Raven" container -1 12732,5080,0 [Base.Shotgun].
+[29-07-22 21:55:32.484] 76561199187795983 "feng min enjoyer" container -50 12733,5070,0 [Base.Disc_Retail, Base.PillsBeta, Base.Antibiotics, Base.MetalworkMag2, Base.SutureNeedleHolder, Base.Bandage, Base.Bandaid, Base.MechanicMag3, Base.PillsAntiDep, Base.SutureNeedle].
+[29-07-22 21:55:35.485] 76561199187795983 "feng min enjoyer" container -27 12733,5070,0 [Base.PillsBeta, Base.Pills].
+[29-07-22 21:55:38.490] 76561199187795983 "feng min enjoyer" container -25 12733,5070,0 [Base.AlcoholWipes, Base.PillsSleepingTablets, Base.Pills, farming.GardeningSprayEmpty].
+[29-07-22 21:55:41.496] 76561199187795983 "feng min enjoyer" container -6 12733,5070,0 [Base.AlcoholWipes].
+[29-07-22 21:55:46.425] 76561198086468814 "Raven" container +0 12717,5055,1 [Base.LightBulb].
+[29-07-22 21:55:47.496] 76561199187795983 "feng min enjoyer" container -20 12733,5070,0 [Base.Bullets9mm].
+[29-07-22 21:55:50.479] 76561199187795983 "feng min enjoyer" container -4 12733,5070,0 [Base.Gloves_LeatherGlovesBlack, Base.CleaningLiquid2, Base.WaterBottleEmpty].
+[29-07-22 21:55:53.493] 76561199187795983 "feng min enjoyer" container -2 12733,5070,0 [Base.Glue, Base.Garbagebag].
+[29-07-22 21:55:56.494] 76561199187795983 "feng min enjoyer" container -2 12733,5070,0 [Base.WaterBottleFull, Base.DuctTape].
+[29-07-22 21:55:59.500] 76561199187795983 "feng min enjoyer" container -12 12733,5070,0 [Base.AlcoholWipes, Base.Disinfectant].
+[29-07-22 21:56:01.423] 76561198086468814 "Raven" container -1 12716,5059,1 [Base.556Box].
+[29-07-22 21:56:02.473] 76561199187795983 "feng min enjoyer" container -10 12733,5070,0 [Base.AlcoholWipes, Base.9mmClip].
+[29-07-22 21:56:04.420] 76561198086468814 "Raven" container -1 12716,5059,1 [Base.556Box].
+[29-07-22 21:56:05.558] 76561199187795983 "feng min enjoyer" container -2 12733,5070,0 [Base.AssaultRifle2, Base.Scissors].
+[29-07-22 21:56:19.430] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.M14Clip, Base.9mmClip, Base.308Clip].
+[29-07-22 21:56:22.422] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.9mmClip].
+[29-07-22 21:56:25.423] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.Sling, Base.x8Scope].
+[29-07-22 21:56:30.054] 76561199187795983 "feng min enjoyer" floor +1 12730,5080,0 [Base.EngineDoor2].
+[29-07-22 21:56:31.428] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.Pistol].
+[29-07-22 21:56:32.488] 76561199187795983 "feng min enjoyer" container -1 12732,5080,0 [Base.EngineDoor2].
+[29-07-22 21:56:34.418] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.Revolver_Long].
+[29-07-22 21:56:43.416] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.HuntingRifle].
+[29-07-22 21:56:44.488] 76561199187795983 "feng min enjoyer" container -7 12732,5080,0 [Base.HuntingMag2, Base.ElectronicsMag3, Base.BookCooking4, Base.ElectronicsMag2, Base.BookCooking5, Base.BookElectrician4, Base.MagazineWordsearch2].
+[29-07-22 21:56:47.486] 76561199187795983 "feng min enjoyer" container -7 12732,5080,0 [Base.BookFishing2, Base.BookFarming5, Base.BookFarming4, Base.BookElectrician5, Base.BookFirstAid3, Base.BookForaging2, Base.BookFishing5].
+[29-07-22 21:56:51.850] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -1 12718,5065,1 [Base.CannedCornedBeef].
+[29-07-22 21:56:53.486] 76561199187795983 "feng min enjoyer" container -5 12732,5080,0 [Base.Popcorn, Base.CannedChili, Base.TinnedBeans, Base.TunaTin].
+[29-07-22 21:56:56.503] 76561199187795983 "feng min enjoyer" container -2 12732,5080,0 [Base.CannedCornedBeef, Base.CannedFruitCocktail].
+[29-07-22 21:56:59.492] 76561199187795983 "feng min enjoyer" container -3 12732,5080,0 [Base.CannedPeaches, Base.CannedPotato2].
+[29-07-22 21:57:02.496] 76561199187795983 "feng min enjoyer" container -4 12732,5080,0 [Base.CannedSardines, Base.CannedBolognese].
+[29-07-22 21:57:11.504] 76561199187795983 "feng min enjoyer" container -2 12732,5080,0 [Base.PopBottle, Base.TomatoPaste].
+[29-07-22 21:57:23.483] 76561199187795983 "feng min enjoyer" container -7 12732,5080,0 [Base.Glue, Base.PopBottleEmpty, Base.Scotchtape, Base.WaterBottleEmpty, Base.Coffee2, Base.SugarPacket].
+[29-07-22 21:57:27.747] 76561198086468814 "Raven" floor +1 12717,5062,1 [Base.Shotgun].
+[29-07-22 21:57:37.427] 76561198086468814 "Raven" container -2 12716,5059,1 [Base.556Box].
+[29-07-22 21:57:40.422] 76561198086468814 "Raven" container -3 12716,5059,1 [Base.556Box].
+[29-07-22 21:57:43.426] 76561198086468814 "Raven" container -2 12716,5059,1 [Base.556Box].
+[29-07-22 21:57:46.422] 76561198086468814 "Raven" container -2 12716,5059,1 [Base.556Box].
+[29-07-22 21:57:49.421] 76561198086468814 "Raven" container -3 12716,5059,1 [Base.556Box].
+[29-07-22 21:57:52.426] 76561198086468814 "Raven" container -1 12716,5059,1 [Base.556Box].
+[29-07-22 21:57:52.426] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.308Bullets, Base.Bullets45, Base.Bullets9mm].
+[29-07-22 21:57:55.418] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.308Box].
+[29-07-22 21:57:58.415] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.308Box].
+[29-07-22 21:57:59.503] 76561199187795983 "feng min enjoyer" container +0 12719,5069,1 [Base.AlcoholWipes].
+[29-07-22 21:58:01.417] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.308Box].
+[29-07-22 21:58:02.495] 76561199187795983 "feng min enjoyer" container +0 12719,5069,1 [Base.AlcoholWipes].
+[29-07-22 21:58:04.426] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.308Box].
+[29-07-22 21:58:05.482] 76561199187795983 "feng min enjoyer" container +0 12719,5069,1 [Base.AlcoholWipes, Base.Disinfectant].
+[29-07-22 21:58:07.420] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.Bullets9mmBox].
+[29-07-22 21:58:08.502] 76561199187795983 "feng min enjoyer" container +0 12719,5069,1 [Base.Disinfectant].
+[29-07-22 21:58:10.427] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.Bullets9mmBox].
+[29-07-22 21:58:13.427] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.Bullets9mmBox].
+[29-07-22 21:58:16.418] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.Bullets9mmBox].
+[29-07-22 21:58:17.474] 76561199187795983 "feng min enjoyer" container +0 12719,5069,1 [Base.Antibiotics, Base.Bandage, Base.Bandaid, Base.PillsAntiDep, Base.SutureNeedle].
+[29-07-22 21:58:20.504] 76561199187795983 "feng min enjoyer" container +0 12719,5069,1 [Base.PillsBeta, Base.PillsAntiDep].
+[29-07-22 21:58:22.426] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.ShotgunShellsBox].
+[29-07-22 21:58:23.486] 76561199187795983 "feng min enjoyer" container +0 12719,5069,1 [Base.PillsBeta, Base.Pills].
+[29-07-22 21:58:25.434] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.ShotgunShellsBox].
+[29-07-22 21:58:26.498] 76561199187795983 "feng min enjoyer" container +0 12719,5069,1 [Base.Pills].
+[29-07-22 21:58:28.429] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.ShotgunShells, Base.ShotgunShellsBox].
+[29-07-22 21:58:29.483] 76561199187795983 "feng min enjoyer" container +0 12719,5069,1 [Base.PillsSleepingTablets, Base.Pills].
+[29-07-22 21:58:32.494] 76561199187795983 "feng min enjoyer" container +0 12719,5069,1 [Base.PillsSleepingTablets].
+[29-07-22 21:58:35.483] 76561199187795983 "feng min enjoyer" container +0 12719,5069,1 [Base.AlcoholWipes].
+[29-07-22 21:58:43.853] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 12716,5057,1 [Base.Wrench].
+[29-07-22 21:58:44.498] 76561199187795983 "feng min enjoyer" container +0 12719,5069,1 [Base.SutureNeedleHolder].
+[29-07-22 21:58:52.420] 76561198086468814 "Raven" container -1 12716,5059,1 [Base.556Box].
+[29-07-22 21:58:55.425] 76561198086468814 "Raven" container -3 12716,5059,1 [Base.556Box].
+[29-07-22 21:58:58.424] 76561198086468814 "Raven" container -1 12716,5059,1 [Base.556Box].
+[29-07-22 21:58:59.485] 76561199187795983 "feng min enjoyer" container +0 12718,5065,1 [Base.PopBottleEmpty, Base.WaterBottleEmpty].
+[29-07-22 21:59:02.509] 76561199187795983 "feng min enjoyer" container +0 12718,5065,1 [Base.SugarPacket].
+[29-07-22 21:59:05.501] 76561199187795983 "feng min enjoyer" container +0 12718,5065,1 [Base.Coffee2].
+[29-07-22 21:59:10.420] 76561198086468814 "Raven" container -1 12717,5055,1 [Base.Bullets45Box].
+[29-07-22 21:59:13.426] 76561198086468814 "Raven" container -1 12717,5055,1 [Base.Bullets45Box].
+[29-07-22 21:59:17.508] 76561199187795983 "feng min enjoyer" container +0 12716,5065,1 [Base.CannedPeaches].
+[29-07-22 21:59:20.492] 76561199187795983 "feng min enjoyer" container +0 12716,5065,1 [Base.CannedSardines, Base.CannedPotato2].
+[29-07-22 21:59:23.497] 76561199187795983 "feng min enjoyer" container +0 12716,5065,1 [Base.CannedSardines, Base.CannedBolognese].
+[29-07-22 21:59:26.489] 76561199187795983 "feng min enjoyer" container +0 12716,5065,1 [Base.PopBottle].
+[29-07-22 21:59:32.489] 76561199187795983 "feng min enjoyer" container +0 12716,5065,1 [Base.Popcorn, Base.TunaTin].
+[29-07-22 21:59:35.496] 76561199187795983 "feng min enjoyer" container +0 12716,5065,1 [Base.CannedCornedBeef, Base.CannedChili, Base.TinnedBeans].
+[29-07-22 21:59:38.486] 76561199187795983 "feng min enjoyer" container +0 12716,5065,1 [Base.CannedFruitCocktail].
+[29-07-22 21:59:39.856] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -1 12721,5058,1 [Base.ComicBook].
+[29-07-22 21:59:46.423] 76561198086468814 "Raven" container +0 12716,5061,1 [Base.556Box].
+[29-07-22 21:59:47.485] 76561199187795983 "feng min enjoyer" container -1 12716,5067,1 [EHE.EmergencyWaterRation].
+[29-07-22 21:59:49.427] 76561198086468814 "Raven" container +0 12716,5061,1 [Base.556Box].
+[29-07-22 21:59:52.427] 76561198086468814 "Raven" container +0 12716,5061,1 [Base.556Box].
+[29-07-22 21:59:55.428] 76561198086468814 "Raven" container +0 12716,5061,1 [Base.556Box].
+[29-07-22 21:59:58.420] 76561198086468814 "Raven" container +0 12716,5061,1 [Base.556Box].
+[29-07-22 21:59:59.501] 76561199187795983 "feng min enjoyer" container +0 12716,5067,1 [Base.CleaningLiquid2].
+[29-07-22 22:00:01.427] 76561198086468814 "Raven" container +0 12716,5061,1 [Base.556Box].
+[29-07-22 22:00:02.505] 76561199187795983 "feng min enjoyer" container +0 12716,5067,1 [Base.WaterBottleEmpty].
+[29-07-22 22:00:04.420] 76561198086468814 "Raven" container +0 12716,5061,1 [Base.556Box].
+[29-07-22 22:00:07.422] 76561198086468814 "Raven" container +0 12716,5061,1 [Base.556Box].
+[29-07-22 22:00:10.420] 76561198086468814 "Raven" container +0 12716,5061,1 [Base.556Box].
+[29-07-22 22:00:13.422] 76561198086468814 "Raven" container +0 12716,5061,1 [Base.556Box].
+[29-07-22 22:00:14.496] 76561199187795983 "feng min enjoyer" container +0 12716,5066,1 [Base.TomatoPaste].
+[29-07-22 22:00:16.426] 76561198086468814 "Raven" container +0 12716,5061,1 [Base.556Box].
+[29-07-22 22:00:19.422] 76561198086468814 "Raven" container +0 12716,5061,1 [Base.556Box].
+[29-07-22 22:00:22.415] 76561198086468814 "Raven" container +0 12716,5061,1 [Base.556Box].
+[29-07-22 22:00:25.426] 76561198086468814 "Raven" container +0 12716,5061,1 [Base.556Box].
+[29-07-22 22:00:26.498] 76561199187795983 "feng min enjoyer" container +0 12721,5058,1 [Base.HuntingMag2, Base.ElectronicsMag3, Base.ElectronicsMag2, Base.MagazineWordsearch2].
+[29-07-22 22:00:28.422] 76561198086468814 "Raven" container +0 12716,5061,1 [Base.556Box].
+[29-07-22 22:00:29.486] 76561199187795983 "feng min enjoyer" container +0 12721,5058,1 [Base.BookCooking4, Base.BookCooking5, Base.BookElectrician4].
+[29-07-22 22:00:31.426] 76561198086468814 "Raven" container +0 12716,5061,1 [Base.556Box].
+[29-07-22 22:00:34.416] 76561198086468814 "Raven" container +0 12716,5061,1 [Base.556Box].
+[29-07-22 22:00:37.419] 76561198086468814 "Raven" container +0 12716,5061,1 [Base.556Box].
+[29-07-22 22:00:40.423] 76561198086468814 "Raven" container +0 12716,5061,1 [Base.556Box].
+[29-07-22 22:00:43.419] 76561198086468814 "Raven" container +0 12716,5061,1 [Base.556Box].
+[29-07-22 22:00:44.492] 76561199187795983 "feng min enjoyer" container -1 12721,5058,1 [Base.HuntingMag2].
+[29-07-22 22:00:55.420] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.Bullets45Box].
+[29-07-22 22:01:26.488] 76561199187795983 "feng min enjoyer" container -3 12721,5058,1 [Base.Notebook, Base.Eraser, Base.SheetPaper2].
+[29-07-22 22:01:29.507] 76561199187795983 "feng min enjoyer" container +0 12721,5058,1 [Base.BookElectrician5].
+[29-07-22 22:01:31.423] 76561198086468814 "Raven" container -1 12716,5059,1 [Base.HuntingRifle].
+[29-07-22 22:01:34.434] 76561198086468814 "Raven" container -1 12716,5059,1 [Base.HuntingRifle].
+[29-07-22 22:01:37.430] 76561198086468814 "Raven" container -1 12716,5059,1 [Base.HuntingRifle].
+[29-07-22 22:01:38.500] 76561199187795983 "feng min enjoyer" container -1 12721,5058,1 [Base.ElectronicsMag2].
+[29-07-22 22:01:41.494] 76561199187795983 "feng min enjoyer" container -1 12721,5058,1 [Base.ElectronicsMag3].
+[29-07-22 22:01:44.491] 76561199187795983 "feng min enjoyer" container +0 12721,5058,1 [Base.BookFarming4].
+[29-07-22 22:02:01.983] 76561199187795983 "feng min enjoyer" floor +1 12720,5058,1 [Base.BookFarming5].
+[29-07-22 22:02:02.987] 76561199187795983 "feng min enjoyer" floor +1 12720,5058,1 [Base.BookFirstAid3].
+[29-07-22 22:02:04.007] 76561199187795983 "feng min enjoyer" floor +1 12720,5058,1 [Base.BookFishing2].
+[29-07-22 22:02:05.012] 76561199187795983 "feng min enjoyer" floor +1 12720,5058,1 [Base.BookFishing5].
+[29-07-22 22:02:06.034] 76561199187795983 "feng min enjoyer" floor +1 12720,5058,1 [Base.BookForaging2].
+[29-07-22 22:02:20.054] 76561198086468814 "Raven" floor -1 12720,5058,1 [Base.BookFarming5].
+[29-07-22 22:02:20.496] 76561199187795983 "feng min enjoyer" container +0 12716,5069,1 [Base.HuntingMag2, Base.ElectronicsMag3, Base.ElectronicsMag2].
+[29-07-22 22:02:22.070] 76561198086468814 "Raven" floor -1 12720,5058,1 [Base.BookFirstAid3].
+[29-07-22 22:02:22.417] 76561198086468814 "Raven" container +0 12721,5058,1 [Base.BookFarming5, Base.BookFirstAid3].
+[29-07-22 22:02:23.501] 76561199187795983 "feng min enjoyer" container +0 12716,5069,1 [Base.Notebook, Base.Eraser, Base.SheetPaper2].
+[29-07-22 22:02:24.090] 76561198086468814 "Raven" floor -1 12720,5058,1 [Base.BookFishing2].
+[29-07-22 22:02:25.424] 76561198086468814 "Raven" container +0 12721,5058,1 [Base.BookFishing2].
+[29-07-22 22:02:26.100] 76561198086468814 "Raven" floor -1 12720,5058,1 [Base.BookFishing5].
+[29-07-22 22:02:28.116] 76561198086468814 "Raven" floor -1 12720,5058,1 [Base.BookForaging2].
+[29-07-22 22:02:28.427] 76561198086468814 "Raven" container +0 12721,5058,1 [Base.BookForaging2, Base.BookFishing5].
+[29-07-22 22:02:34.314] 76561199187795983 "feng min enjoyer" floor +1 12721,5060,1 [Base.Disc_Retail].
+[29-07-22 22:02:41.500] 76561199187795983 "feng min enjoyer" container +0 12716,5055,1 [farming.GardeningSprayEmpty].
+[29-07-22 22:02:41.550] 76561198086468814 "Raven" floor -1 12721,5060,1 [Base.Disc_Retail].
+[29-07-22 22:02:43.430] 76561198086468814 "Raven" container +0 12721,5058,1 [Base.Disc_Retail].
+[29-07-22 22:03:01.424] 76561198086468814 "Raven" container -1 12716,5055,1 [Base.Screwdriver].
+[29-07-22 22:03:34.486] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.AssaultRifle2].
+[29-07-22 22:03:48.849] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container +0 12716,5069,1 [Base.TinCanEmpty].
+[29-07-22 22:03:52.564] 76561199187795983 "feng min enjoyer" floor +1 12720,5063,1 [Base.Gloves_LeatherGlovesBlack].
+[29-07-22 22:04:03.555] 76561199187795983 "feng min enjoyer" floor +1 12717,5060,1 [Base.9mmClip].
+[29-07-22 22:04:05.508] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:05.509] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:05.510] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:05.511] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:05.512] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:05.513] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:05.514] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:05.514] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:05.515] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:05.516] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:05.517] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:05.518] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:05.519] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:05.520] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:05.521] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:05.522] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:05.523] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:05.524] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:05.525] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:05.526] 76561199187795983 "feng min enjoyer" floor +1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.429] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.452] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.452] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.453] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.453] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.453] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.453] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.453] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.454] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.454] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.454] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.454] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.454] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.454] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.455] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.455] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.455] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.455] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.455] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.455] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.Bullets9mm].
+[29-07-22 22:04:20.489] 76561199187795983 "feng min enjoyer" container +0 12716,5055,1 [Base.Glue, Base.DuctTape, Base.Scissors].
+[29-07-22 22:04:28.415] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.308Bullets, Base.Bullets9mm].
+[29-07-22 22:04:34.421] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.Sling, Base.x2Scope].
+[29-07-22 22:04:37.425] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.FiberglassStock].
+[29-07-22 22:04:50.494] 76561199187795983 "feng min enjoyer" container +0 12721,5069,0 [Base.Garbagebag].
+[29-07-22 22:04:52.416] 76561198086468814 "Raven" container -2 12716,5059,1 [Base.308Box].
+[29-07-22 22:04:55.419] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.308Box].
+[29-07-22 22:04:58.179] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.308Box].
+[29-07-22 22:05:08.500] 76561199187795983 "feng min enjoyer" container +0 12733,5070,0 [Base.Bag_WorkerBag].
+[29-07-22 22:05:11.048] 76561198086468814 "Raven" floor -1 12717,5062,1 [Base.Shotgun].
+[29-07-22 22:05:11.502] 76561199187795983 "feng min enjoyer" container +0 12733,5070,0 [Base.Bag_MedicalBag].
+[29-07-22 22:05:14.503] 76561199187795983 "feng min enjoyer" container -1 12733,5070,0 [Base.Bag_ALICEpack_Army].
+[29-07-22 22:05:22.425] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.Shotgun].
+[29-07-22 22:05:37.423] 76561198086468814 "Raven" container +0 12717,5057,1 [Base.Screwdriver].
+[29-07-22 22:06:01.432] 76561198086468814 "Raven" container -2 12716,5059,1 [Base.HuntingKnife].
+[29-07-22 22:06:11.196] 76561198086468814 "Raven" floor -1 12717,5060,1 [Base.9mmClip].
+[29-07-22 22:06:13.284] 76561198086468814 "Raven" floor -1 12719,5060,1 [Base.Machete].
+[29-07-22 22:06:16.419] 76561198086468814 "Raven" floor -1 12717,5059,1 [Base.AssaultRifle2].
+[29-07-22 22:06:20.489] 76561199187795983 "feng min enjoyer" container +0 12733,5070,0 [Base.Bag_MedicalBag].
+[29-07-22 22:06:28.427] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.9mmClip].
+[29-07-22 22:06:34.431] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.AssaultRifle2].
+[29-07-22 22:06:43.419] 76561198086468814 "Raven" container +0 12716,5059,1 [Base.HuntingKnife].
+[29-07-22 22:06:46.426] 76561198086468814 "Raven" container -2 12716,5059,1 [Base.HuntingKnife].
+[29-07-22 22:06:50.501] 76561199187795983 "feng min enjoyer" container +0 12717,5055,1 [Base.Glue, Base.Scotchtape].
+[29-07-22 22:06:55.423] 76561198086468814 "Raven" container +0 12717,5057,1 [Base.HuntingKnife].
+[29-07-22 22:07:01.183] 76561198086468814 "Raven" container +0 12717,5057,1 [Base.Machete].
+[29-07-22 22:07:46.417] 76561198086468814 "Raven" container +0 12722,5067,0 [Base.HuntingRifle].
+[29-07-22 22:07:55.430] 76561198086468814 "Raven" container +0 12722,5067,0 [Base.HuntingRifle].
+[29-07-22 22:08:09.536] 76561198086468814 "Raven" container +0 12723,5067,0 [Base.HuntingRifle].
+[29-07-22 22:08:52.412] 76561198086468814 "Raven" container -13 12732,5080,0 [Base.LightBulb, Base.Garbagebag, Base.Hinge].
+[29-07-22 22:08:55.420] 76561198086468814 "Raven" container -5 12732,5080,0 [Base.Doorknob].
+[29-07-22 22:08:58.421] 76561198086468814 "Raven" container -2 12732,5080,0 [Base.SheetMetal].
+[29-07-22 22:09:01.422] 76561198086468814 "Raven" container -1 12732,5080,0 [Base.SheetMetal].
+[29-07-22 22:09:04.422] 76561198086468814 "Raven" container -1 12732,5080,0 [Base.PropaneTank].
+[29-07-22 22:09:10.429] 76561198086468814 "Raven" container -41 12732,5080,0 [Base.Bleach, Base.Cigarettes].
+[29-07-22 22:09:13.424] 76561198086468814 "Raven" container -3 12732,5080,0 [Base.WaterBottleFull, Base.Wallet4].
+[29-07-22 22:09:16.430] 76561198086468814 "Raven" container -3 12732,5080,0 [Base.PillsVitamins, Base.TrapMouse].
+[29-07-22 22:09:46.428] 76561198086468814 "Raven" container +0 12722,5068,0 [Base.SheetMetal].
+[29-07-22 22:09:49.423] 76561198086468814 "Raven" container +0 12722,5068,0 [Base.SheetMetal].
+[29-07-22 22:09:55.417] 76561198086468814 "Raven" container +0 12722,5068,0 [Base.SheetMetal].
+[29-07-22 22:10:01.427] 76561198086468814 "Raven" container +0 12722,5068,0 [Base.PillsVitamins, Base.LightBulb, Base.Garbagebag, Base.Cigarettes, Base.Wallet4].
+[29-07-22 22:10:04.417] 76561198086468814 "Raven" container +0 12722,5068,0 [Base.PillsVitamins, Base.Hinge].
+[29-07-22 22:10:07.419] 76561198086468814 "Raven" container +0 12722,5068,0 [Base.Hinge, Base.TrapMouse].
+[29-07-22 22:10:10.428] 76561198086468814 "Raven" container +0 12722,5068,0 [Base.Doorknob].
+[29-07-22 22:10:13.429] 76561198086468814 "Raven" container +0 12722,5068,0 [Base.Doorknob].
+[29-07-22 22:10:25.423] 76561198086468814 "Raven" container +0 12722,5068,0 [Base.Bleach].
+[29-07-22 22:10:34.334] 76561198086468814 "Raven" container +0 12722,5068,0 [Base.PropaneTank].
+[29-07-22 22:13:43.421] 76561198086468814 "Raven" container -1 12716,5065,1 [Base.BucketWaterFull].
+[29-07-22 22:13:54.868] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -1 12718,5065,1 [Base.CannedPeas].
+[29-07-22 22:14:01.423] 76561198086468814 "Raven" container +0 12716,5065,1 [Base.BucketWaterFull].
+[29-07-22 22:14:42.869] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -1 12721,5058,1 [Base.ComicBook].
+[29-07-22 22:14:51.985] 76561198086468814 "Raven" container -1 12732,5080,0 [Base.Sledgehammer].
+[29-07-22 22:15:04.419] 76561198086468814 "Raven" container -1 12730,5078,0 [Base.Bag_MedicalBag].
+[29-07-22 22:15:07.419] 76561198086468814 "Raven" container -1 12730,5078,0 [Base.Bag_WorkerBag].
+[29-07-22 22:15:09.957] 76561198086468814 "Raven" container -1 12730,5078,0 [Base.Bag_WorkerBag].
+[29-07-22 22:15:23.504] 76561199187795983 "feng min enjoyer" container -1 12730,5078,0 [Base.Shotgun].
+[29-07-22 22:15:31.207] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 12732,5084,0 [Base.Glasses_Normal].
+[29-07-22 22:15:31.419] 76561198086468814 "Raven" container +0 12733,5070,0 [Base.Bag_WorkerBag].
+[29-07-22 22:15:34.420] 76561198086468814 "Raven" container +0 12733,5070,0 [Base.Bag_MedicalBag].
+[29-07-22 22:15:35.500] 76561199187795983 "feng min enjoyer" container +0 12733,5070,0 [Base.Shotgun].
+[29-07-22 22:15:39.820] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 12735,5077,0 [Base.TinCanEmpty].
+[29-07-22 22:15:58.426] 76561198086468814 "Raven" container -33 12716,5059,1 [Base.Bullets45].
+[29-07-22 22:16:02.505] 76561199187795983 "feng min enjoyer" container -1 12716,5069,1 [Base.BaseballBatNails].
+[29-07-22 22:16:04.418] 76561198086468814 "Raven" container -8 12716,5059,1 [Base.Bullets45Box, Base.ShotgunShells].
+[29-07-22 22:16:07.000] 76561198086468814 "Raven" container -1 12716,5059,1 [Base.ShotgunShellsBox].
+[29-07-22 22:16:14.501] 76561199187795983 "feng min enjoyer" container -3 12716,5066,1 [EHE.MealReadytoEat].
+[29-07-22 22:16:17.397] 76561199187795983 "feng min enjoyer" container -1 12716,5066,1 [EHE.MealReadytoEat].
+[29-07-22 22:18:57.645] 76561199187795983 "feng min enjoyer" container -1 12509,4495,0 [Base.SheetMetal].
+[29-07-22 22:22:48.495] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 13213,3451,0 [Base.Hat_BaseballCap].
+[29-07-22 22:23:00.738] 76561199187795983 "feng min enjoyer" floor +1 13215,3462,0 [Base.Hat_BaseballCapKY].
+[29-07-22 22:23:06.111] 76561199187795983 "feng min enjoyer" floor +1 13219,3462,0 [Base.Glasses_Normal].
+[29-07-22 22:23:26.621] 76561198086468814 "Raven" floor +1 13185,3451,0 [Base.Glasses_Normal].
+[29-07-22 22:23:49.140] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 13195,3451,0 [Base.Glasses_Normal].
+[29-07-22 22:24:11.511] 76561199187795983 "feng min enjoyer" container -1 13216,3452,0 [Base.EmptyPetrolCan].
+[29-07-22 22:24:37.424] 76561198086468814 "Raven" container -1 13227,3461,0 [Base.Wallet].
+[29-07-22 22:26:08.508] 76561199187795983 "feng min enjoyer" container +0 13216,3452,0 [Base.EmptyPetrolCan].
+[29-07-22 22:27:50.530] 76561199187795983 "feng min enjoyer" container +0 13668,3428,0 [Base.SutureNeedleHolder, Base.SutureNeedle].
+[29-07-22 22:27:54.583] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -2 13669,3433,0 [Base.SutureNeedleHolder].
+[29-07-22 22:28:11.901] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" container -1 13653,3333,0 [Base.SutureNeedle].
+[29-07-22 22:30:09.703] 76561198086468814 "Raven" floor +1 13398,3062,0 [Base.Doorknob].
+[29-07-22 22:30:09.704] 76561198086468814 "Raven" floor +1 13398,3062,0 [Base.Hinge].
+[29-07-22 22:30:09.705] 76561198086468814 "Raven" floor +1 13398,3062,0 [Base.Hinge].
+[29-07-22 22:30:28.011] 76561198086468814 "Raven" floor +1 13329,2971,0 [Base.UnusableWood].
+[29-07-22 22:30:28.012] 76561198086468814 "Raven" floor +1 13329,2971,0 [Base.Doorknob].
+[29-07-22 22:30:28.013] 76561198086468814 "Raven" floor +1 13329,2971,0 [Base.Hinge].
+[29-07-22 22:30:28.013] 76561198086468814 "Raven" floor +1 13329,2971,0 [Base.Hinge].
+[29-07-22 22:31:18.053] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 13976,3216,0 [Base.Bag_NormalHikingBag].
+[29-07-22 22:31:25.133] 76561198086468814 "Raven" floor +1 13206,3116,0 [Base.Glasses_Normal].
+[29-07-22 22:31:34.464] 76561198086468814 "Raven" floor +1 13252,3046,0 [Base.MetalBar].
+[29-07-22 22:31:34.465] 76561198086468814 "Raven" floor +1 13252,3046,0 [Base.MetalPipe].
+[29-07-22 22:31:34.465] 76561198086468814 "Raven" floor +1 13252,3046,0 [Base.Doorknob].
+[29-07-22 22:31:34.466] 76561198086468814 "Raven" floor +1 13251,3046,0 [Base.MetalBar].
+[29-07-22 22:31:34.467] 76561198086468814 "Raven" floor +1 13251,3046,0 [Base.MetalPipe].
+[29-07-22 22:31:34.467] 76561198086468814 "Raven" floor +1 13251,3046,0 [Base.Doorknob].
+[29-07-22 22:31:34.468] 76561198086468814 "Raven" floor +1 13251,3046,0 [Base.Hinge].
+[29-07-22 22:31:34.543] 76561198086468814 "Raven" floor +1 13205,3115,0 [Base.Glasses_Normal].
+[29-07-22 22:31:46.313] 76561198086468814 "Raven" floor +1 13208,3120,0 [Base.Hat_Army].
+[29-07-22 22:31:53.500] 76561199187795983 "feng min enjoyer" container -1 13974,3220,0 [Base.Bag_MedicalBag].
+[29-07-22 22:31:57.027] 76561198086468814 "Raven" floor +1 13212,3129,0 [Base.Glasses_Reading].
+[29-07-22 22:32:20.817] 76561199187795983 "feng min enjoyer" floor +1 13979,3217,0 [Base.Glasses_Reading].
+[29-07-22 22:32:42.409] 76561198086468814 "Raven" floor +1 13266,3145,0 [Base.UnusableWood].
+[29-07-22 22:32:42.410] 76561198086468814 "Raven" floor +1 13266,3145,0 [Base.Doorknob].
+[29-07-22 22:32:53.474] 76561198086468814 "Raven" floor +1 13151,3112,0 [Base.UnusableWood].
+[29-07-22 22:32:53.475] 76561198086468814 "Raven" floor +1 13151,3112,0 [Base.Doorknob].
+[29-07-22 22:32:53.476] 76561198086468814 "Raven" floor +1 13151,3112,0 [Base.Hinge].
+[29-07-22 22:32:53.476] 76561198086468814 "Raven" floor +1 13151,3112,0 [Base.Hinge].
+[29-07-22 22:33:08.100] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 13955,3216,0 [Base.UnusableWood].
+[29-07-22 22:33:08.100] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 13955,3216,0 [Base.Doorknob].
+[29-07-22 22:33:08.101] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 13955,3216,0 [Base.Hinge].
+[29-07-22 22:33:08.101] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 13955,3216,0 [Base.Hinge].
+[29-07-22 22:33:12.865] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor -1 13976,3216,0 [Base.Bag_NormalHikingBag].
+[29-07-22 22:33:20.711] 76561198086468814 "Raven" floor -1 13208,3120,0 [Base.Hat_Army].
+[29-07-22 22:33:37.217] 76561198086468814 "Raven" floor +1 13220,3119,0 [Base.Glasses_Normal].
+[29-07-22 22:33:43.382] 76561198086468814 "Raven" floor +1 13230,3042,0 [Base.Doorknob].
+[29-07-22 22:33:43.382] 76561198086468814 "Raven" floor +1 13230,3042,0 [Base.Hinge].
+[29-07-22 22:33:44.381] 76561198086468814 "Raven" floor +1 13250,3120,0 [Base.UnusableWood].
+[29-07-22 22:33:44.381] 76561198086468814 "Raven" floor +1 13250,3120,0 [Base.Doorknob].
+[29-07-22 22:34:25.051] 76561198086468814 "Raven" floor +1 13178,3068,0 [Base.UnusableWood].
+[29-07-22 22:34:25.052] 76561198086468814 "Raven" floor +1 13178,3068,0 [Base.UnusableWood].
+[29-07-22 22:34:25.053] 76561198086468814 "Raven" floor +1 13178,3068,0 [Base.Doorknob].
+[29-07-22 22:34:38.465] 76561199187795983 "feng min enjoyer" container +0 13974,3220,0 [Base.Bag_MedicalBag].
+[29-07-22 22:34:52.684] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 13976,3219,0 [Base.SutureNeedleHolder].
+[29-07-22 22:34:58.550] 76561199187795983 "feng min enjoyer" floor -1 13976,3219,0 [Base.SutureNeedleHolder].
+[29-07-22 22:35:05.474] 76561199187795983 "feng min enjoyer" container -1 13974,3220,0 [Base.Bag_MedicalBag].
+[29-07-22 22:35:07.360] 76561199187795983 "feng min enjoyer" floor +1 13926,3236,0 [Base.UnusableWood].
+[29-07-22 22:35:07.361] 76561199187795983 "feng min enjoyer" floor +1 13926,3236,0 [Base.Doorknob].
+[29-07-22 22:35:23.450] 76561199187795983 "feng min enjoyer" container +0 13974,3220,0 [Base.Bag_MedicalBag].
+[29-07-22 22:35:40.070] 76561199187795983 "feng min enjoyer" floor +1 13974,3221,0 [Base.BeerEmpty].
+[29-07-22 22:36:38.071] 76561199187795983 "feng min enjoyer" container -2 13974,3220,0 [Base.SmallSheetMetal].
+[29-07-22 22:36:49.641] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 13925,3235,0 [Base.UnusableWood].
+[29-07-22 22:36:49.641] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 13925,3235,0 [Base.Doorknob].
+[29-07-22 22:36:49.642] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 13925,3235,0 [Base.Hinge].
+[29-07-22 22:36:53.720] 76561199187795983 "feng min enjoyer" floor +1 13922,3290,0 [Base.UnusableWood].
+[29-07-22 22:36:53.721] 76561199187795983 "feng min enjoyer" floor +1 13922,3290,0 [Base.Doorknob].
+[29-07-22 22:36:53.721] 76561199187795983 "feng min enjoyer" floor +1 13922,3290,0 [Base.Hinge].
+[29-07-22 22:37:45.490] 76561199187795983 "feng min enjoyer" floor +1 13955,3223,0 [Base.UnusableWood].
+[29-07-22 22:37:45.491] 76561199187795983 "feng min enjoyer" floor +1 13955,3223,0 [Base.UnusableWood].
+[29-07-22 22:37:45.491] 76561199187795983 "feng min enjoyer" floor +1 13955,3223,0 [Base.Doorknob].
+[29-07-22 22:37:45.492] 76561199187795983 "feng min enjoyer" floor +1 13955,3223,0 [Base.Hinge].
+[29-07-22 22:37:45.493] 76561199187795983 "feng min enjoyer" floor +1 13955,3223,0 [Base.Hinge].
+[29-07-22 22:38:49.939] 76561199187795983 "feng min enjoyer" floor +1 13927,3289,0 [Base.UnusableWood].
+[29-07-22 22:38:49.940] 76561199187795983 "feng min enjoyer" floor +1 13927,3289,0 [Base.Doorknob].
+[29-07-22 22:39:52.052] 76561199187795983 "feng min enjoyer" floor +1 13923,3288,0 [Base.UnusableWood].
+[29-07-22 22:39:52.053] 76561199187795983 "feng min enjoyer" floor +1 13923,3288,0 [Base.UnusableWood].
+[29-07-22 22:39:52.053] 76561199187795983 "feng min enjoyer" floor +1 13923,3288,0 [Base.Doorknob].
+[29-07-22 22:39:52.054] 76561199187795983 "feng min enjoyer" floor +1 13923,3288,0 [Base.Hinge].
+[29-07-22 22:39:52.055] 76561199187795983 "feng min enjoyer" floor +1 13923,3288,0 [Base.Hinge].
+[29-07-22 22:40:07.623] 76561198086468814 "Raven" floor +1 13966,3215,0 [Base.UnusableWood].
+[29-07-22 22:40:07.624] 76561198086468814 "Raven" floor +1 13966,3215,0 [Base.Doorknob].
+[29-07-22 22:40:17.616] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 13932,3242,0 [Base.UnusableWood].
+[29-07-22 22:40:17.617] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 13932,3242,0 [Base.Doorknob].
+[29-07-22 22:40:17.618] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 13932,3242,0 [Base.Hinge].
+[29-07-22 22:40:17.618] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" floor +1 13932,3242,0 [Base.Hinge].
+[29-07-22 22:40:55.429] 76561198086468814 "Raven" container -2 13967,3262,0 [Base.Crisps, Base.Crisps2].
+[29-07-22 22:40:58.425] 76561198086468814 "Raven" container -1 13967,3263,0 [Base.Pop3].
+[29-07-22 22:41:19.437] 76561199187795983 "feng min enjoyer" floor +1 13978,3240,0 [Base.EngineDoor2].
+[29-07-22 22:41:54.185] 76561199187795983 "feng min enjoyer" floor +1 13898,3284,1 [Base.UnusableWood].
+[29-07-22 22:41:54.186] 76561199187795983 "feng min enjoyer" floor +1 13898,3284,1 [Base.UnusableWood].
+[29-07-22 22:41:54.187] 76561199187795983 "feng min enjoyer" floor +1 13898,3284,1 [Base.Doorknob].
+[29-07-22 22:41:54.188] 76561199187795983 "feng min enjoyer" floor +1 13898,3284,1 [Base.Hinge].
+[29-07-22 22:41:54.189] 76561199187795983 "feng min enjoyer" floor +1 13898,3284,1 [Base.Hinge].
+[29-07-22 22:43:07.422] 76561198086468814 "Raven" container -1 13963,3213,0 [Base.Revolver_Long].
+[29-07-22 22:43:22.418] 76561198086468814 "Raven" container -1 13963,3213,0 [Base.Nightstick].
+[29-07-22 22:44:49.428] 76561198086468814 "Raven" container -1 13961,3229,0 [Base.Revolver].
+[29-07-22 22:44:50.347] 76561199187795983 "feng min enjoyer" container -1 13958,3229,0 [Base.Bullets44Box].

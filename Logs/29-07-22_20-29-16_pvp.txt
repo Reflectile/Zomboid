@@ -1,0 +1,28 @@
+[29-07-22 20:29:16.734][INFO] user "Raven" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[29-07-22 20:37:44.403][INFO] user "feng min enjoyer" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[29-07-22 20:52:34.518] user "Raven" (12717,5066,1) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[29-07-22 20:52:34.519] user "Raven" (12717,5066,1) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[29-07-22 20:52:37.024] user "Raven" (12717,5066,1) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[29-07-22 20:52:37.024] user "Raven" (12717,5066,1) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[29-07-22 20:53:14.386] user "feng min enjoyer" (12717,5068,1) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[29-07-22 20:53:14.386] user "feng min enjoyer" (12717,5068,1) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[29-07-22 20:53:14.465] user "Raven" (12717,5067,1) enabled safety enabled=true last=false cooldown=0.0 toggle=0.0.
+[29-07-22 20:53:14.465] user "Raven" (12717,5067,1) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[29-07-22 20:53:17.060] user "Raven" (12717,5067,1) disabled safety enabled=false last=true cooldown=3.0 toggle=0.0.
+[29-07-22 20:53:20.464] user "Raven" (12717,5068,1) disabled safety enabled=false last=true cooldown=3.0 toggle=0.0.
+[29-07-22 20:53:21.581] user "Raven" (12717,5068,1) disabled safety enabled=false last=true cooldown=4.8010664 toggle=0.0.
+[29-07-22 20:53:22.447] user "Raven" (12717,5068,1) disabled safety enabled=false last=true cooldown=7.0011992 toggle=0.0.
+[29-07-22 20:53:23.386] user "Raven" (12718,5067,1) disabled safety enabled=false last=true cooldown=9.00181 toggle=0.0.
+[29-07-22 20:53:24.265] user "Raven" (12718,5067,1) disabled safety enabled=false last=true cooldown=11.202591 toggle=0.0.
+[29-07-22 20:53:25.223] user "Raven" (12719,5066,1) disabled safety enabled=false last=true cooldown=13.202891 toggle=0.0.
+[29-07-22 20:53:26.397] user "Raven" (12719,5066,1) disabled safety enabled=false last=true cooldown=15.003245 toggle=0.0.
+[29-07-22 20:53:45.285] user "Raven" (12719,5065,1) disabled safety enabled=false last=true cooldown=3.0 toggle=0.0.
+[29-07-22 20:53:46.255] user "Raven" (12720,5066,1) disabled safety enabled=false last=true cooldown=5.1008167 toggle=0.0.
+[29-07-22 20:53:51.445] user "Raven" (12720,5065,1) disabled safety enabled=false last=true cooldown=2.9036152 toggle=0.0.
+[29-07-22 20:53:57.096] user "Raven" (12720,5060,1) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[29-07-22 20:53:57.096] user "Raven" (12720,5060,1) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[29-07-22 21:09:00.463] user "feng min enjoyer" (11956,6956,0) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[29-07-22 21:09:00.463] user "feng min enjoyer" (11956,6956,0) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[29-07-22 21:19:12.793][INFO] user "Mo Money Mo Randy" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[29-07-22 22:45:02.409][INFO] user "feng min enjoyer" store safety enabled=true last=false cooldown=0.0 toggle=0.0.
+[29-07-22 22:45:06.627][INFO] user "Raven" store safety enabled=true last=false cooldown=0.0 toggle=0.0.

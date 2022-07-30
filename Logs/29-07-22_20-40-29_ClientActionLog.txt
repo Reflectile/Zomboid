@@ -1,0 +1,128 @@
+[29-07-22 20:40:29.468] [76561199187795983][ISEnterVehicle][feng min enjoyer][12732,5076,0][PickUpVanLightsPolice].
+[29-07-22 20:40:44.830] [76561199187795983][ISExitVehicle][feng min enjoyer][12752,5070,0][PickUpVanLightsPolice].
+[29-07-22 20:44:35.968] [76561199187795983][ISEnterVehicle][feng min enjoyer][12736,5062,0][SUV].
+[29-07-22 20:44:55.188] [76561199187795983][ISExitVehicle][feng min enjoyer][12755,5065,0][SUV].
+[29-07-22 20:56:04.859] [76561199187795983][ISEnterVehicle][feng min enjoyer][12755,5066,0][SUV].
+[29-07-22 20:56:26.231] [76561199187795983][ISExitVehicle][feng min enjoyer][12756,5065,0][SUV].
+[29-07-22 20:56:48.989] [76561199187795983][ISEnterVehicle][feng min enjoyer][12755,5066,0][SUV].
+[29-07-22 20:56:53.038] [76561199187795983][ISExitVehicle][feng min enjoyer][12758,5065,0][SUV].
+[29-07-22 20:56:55.892] [76561198086468814][ISEnterVehicle][Raven][12752,5071,0][PickUpVanLightsPolice].
+[29-07-22 20:56:59.873] [76561199187795983][ISEnterVehicle][feng min enjoyer][12758,5066,0][SUV].
+[29-07-22 20:57:02.744] [76561199187795983][ISExitVehicle][feng min enjoyer][12755,5065,0][SUV].
+[29-07-22 20:57:09.675] [76561198086468814][ISExitVehicle][Raven][12752,5070,0][PickUpVanLightsPolice].
+[29-07-22 20:57:13.362] [76561198086468814][ISEnterVehicle][Raven][12752,5071,0][PickUpVanLightsPolice].
+[29-07-22 20:57:13.633] [76561199187795983][ISEnterVehicle][feng min enjoyer][12755,5066,0][SUV].
+[29-07-22 21:00:48.386] [76561199187795983][ISExitVehicle][feng min enjoyer][12312,6808,0][SUV].
+[29-07-22 21:00:52.191] [76561198086468814][ISExitVehicle][Raven][12314,6777,0][PickUpVanLightsPolice].
+[29-07-22 21:01:15.651] [76561199187795983][ISEnterVehicle][feng min enjoyer][12312,6808,0][SUV].
+[29-07-22 21:01:22.739] [76561199187795983][ISExitVehicle][feng min enjoyer][12311,6811,0][SUV].
+[29-07-22 21:01:34.330] [76561199187795983][ISEnterVehicle][feng min enjoyer][12310,6810,0][SUV].
+[29-07-22 21:01:35.666] [76561198086468814][ISEnterVehicle][Raven][12314,6776,0][PickUpVanLightsPolice].
+[29-07-22 21:02:58.127] [76561199187795983][ISExitVehicle][feng min enjoyer][11685,7077,0][SUV].
+[29-07-22 21:03:38.122] [76561199187795983][ISEnterVehicle][feng min enjoyer][11685,7077,0][SUV].
+[29-07-22 21:04:46.242] [76561199187795983][ISExitVehicle][feng min enjoyer][11855,6936,0][SUV].
+[29-07-22 21:05:38.385] [76561199187795983][ISEnterVehicle][feng min enjoyer][11855,6937,0][SUV].
+[29-07-22 21:06:24.467] [76561199187795983][ISExitVehicle][feng min enjoyer][11949,6928,0][SUV].
+[29-07-22 21:07:03.126] [76561199187795983][ISEnterVehicle][feng min enjoyer][11949,6927,0][SUV].
+[29-07-22 21:07:21.952] [76561199187795983][ISExitVehicle][feng min enjoyer][11969,6963,0][SUV].
+[29-07-22 21:08:53.868] [76561198086468814][ISExitVehicle][Raven][11955,6964,0][PickUpVanLightsPolice].
+[29-07-22 21:09:55.570] [76561199187795983][ISEnterVehicle][feng min enjoyer][11969,6962,0][SUV].
+[29-07-22 21:10:08.951] [76561199187795983][ISExitVehicle][feng min enjoyer][11957,6928,0][SUV].
+[29-07-22 21:11:32.863] [76561199187795983][ISEnterVehicle][feng min enjoyer][11957,6929,0][SUV].
+[29-07-22 21:11:35.424] [76561199187795983][ISExitVehicle][feng min enjoyer][11957,6928,0][SUV].
+[29-07-22 21:12:26.745] [76561199187795983][ISEnterVehicle][feng min enjoyer][11957,6929,0][SUV].
+[29-07-22 21:12:35.170] [76561199187795983][ISExitVehicle][feng min enjoyer][11964,6935,0][SUV].
+[29-07-22 21:12:45.482] [76561199187795983][ISEnterVehicle][feng min enjoyer][11965,6941,0][CarLightsPolice].
+[29-07-22 21:13:04.744] [76561199187795983][ISExitVehicle][feng min enjoyer][11965,6940,0][CarLightsPolice].
+[29-07-22 21:15:24.682] [76561199187795983][ISEnterVehicle][feng min enjoyer][11963,6935,0][SUV].
+[29-07-22 21:15:30.813] [76561199187795983][ISExitVehicle][feng min enjoyer][11964,6935,0][SUV].
+[29-07-22 21:16:53.210] [76561199187795983][ISEnterVehicle][feng min enjoyer][11955,6965,0][PickUpVanLightsPolice].
+[29-07-22 21:16:55.165] [76561199187795983][ISExitVehicle][feng min enjoyer][11955,6964,0][PickUpVanLightsPolice].
+[29-07-22 21:16:56.854] [76561199187795983][ISEnterVehicle][feng min enjoyer][11955,6965,0][PickUpVanLightsPolice].
+[29-07-22 21:16:58.661] [76561199187795983][ISExitVehicle][feng min enjoyer][11955,6964,0][PickUpVanLightsPolice].
+[29-07-22 21:19:36.146] [76561199187795983][ISEnterVehicle][feng min enjoyer][11942,6934,0][PickUpTruck].
+[29-07-22 21:19:55.091] [76561199187795983][ISExitVehicle][feng min enjoyer][11942,6935,0][PickUpTruck].
+[29-07-22 21:21:18.552] [76561198233812488][ISEnterVehicle][Mo Money Mo Randy][12728,5059,0][OffRoad].
+[29-07-22 21:25:33.150] [76561199187795983][ISEnterVehicle][feng min enjoyer][11965,6941,0][CarLightsPolice].
+[29-07-22 21:26:51.660] [76561199187795983][ISExitVehicle][feng min enjoyer][11965,6940,0][CarLightsPolice].
+[29-07-22 21:26:58.678] [76561199187795983][ISEnterVehicle][feng min enjoyer][11963,6935,0][SUV].
+[29-07-22 21:27:18.121] [76561198233812488][ISExitVehicle][Mo Money Mo Randy][11961,6964,0][OffRoad].
+[29-07-22 21:27:43.509] [76561198233812488][ISEnterVehicle][Mo Money Mo Randy][11950,6953,0][SUV].
+[29-07-22 21:27:47.417] [76561198086468814][ISEnterVehicle][Raven][11955,6965,0][PickUpVanLightsPolice].
+[29-07-22 21:28:12.298] [76561199187795983][ISExitVehicle][feng min enjoyer][11950,6954,0][SUV].
+[29-07-22 21:28:48.534] [76561199187795983][ISEnterVehicle][feng min enjoyer][11950,6954,0][SUV].
+[29-07-22 21:30:16.448] [76561198086468814][ISExitVehicle][Raven][11955,6964,0][PickUpVanLightsPolice].
+[29-07-22 21:30:17.219] [76561198086468814][ISEnterVehicle][Raven][11955,6965,0][PickUpVanLightsPolice].
+[29-07-22 21:30:18.321] [76561199187795983][ISExitVehicle][feng min enjoyer][11950,6954,0][SUV].
+[29-07-22 21:30:19.591] [76561198086468814][ISExitVehicle][Raven][11955,6964,0][PickUpVanLightsPolice].
+[29-07-22 21:30:22.440] [76561198086468814][ISEnterVehicle][Raven][11955,6965,0][PickUpVanLightsPolice].
+[29-07-22 21:30:25.895] [76561198086468814][ISExitVehicle][Raven][11955,6964,0][PickUpVanLightsPolice].
+[29-07-22 21:30:26.341] [76561198233812488][ISExitVehicle][Mo Money Mo Randy][11950,6952,0][SUV].
+[29-07-22 21:30:54.824] [76561198086468814][ISEnterVehicle][Raven][11955,6965,0][PickUpVanLightsPolice].
+[29-07-22 21:31:04.612] [76561199187795983][ISEnterVehicle][feng min enjoyer][11950,6954,0][SUV].
+[29-07-22 21:31:21.460] [76561198086468814][ISExitVehicle][Raven][11915,6933,0][PickUpVanLightsPolice].
+[29-07-22 21:31:30.776] [76561199187795983][ISExitVehicle][feng min enjoyer][11917,6913,0][SUV].
+[29-07-22 21:31:43.137] [76561198233812488][ISEnterVehicle][Mo Money Mo Randy][11960,6965,0][OffRoad].
+[29-07-22 21:33:15.168] [76561198233812488][ISExitVehicle][Mo Money Mo Randy][11900,6897,0][OffRoad].
+[29-07-22 21:33:41.445] [76561198233812488][ISEnterVehicle][Mo Money Mo Randy][11900,6898,0][OffRoad].
+[29-07-22 21:34:42.856] [76561198233812488][ISExitVehicle][Mo Money Mo Randy][11909,6902,0][OffRoad].
+[29-07-22 21:35:37.450] [76561199187795983][ISEnterVehicle][feng min enjoyer][11910,6901,0][OffRoad].
+[29-07-22 21:36:19.692] [76561199187795983][ISExitVehicle][feng min enjoyer][11946,6961,0][OffRoad].
+[29-07-22 21:37:07.968] [76561199187795983][ISEnterVehicle][feng min enjoyer][11945,6961,0][OffRoad].
+[29-07-22 21:37:29.865] [76561199187795983][ISExitVehicle][feng min enjoyer][11891,6897,0][OffRoad].
+[29-07-22 21:38:00.854] [76561198086468814][ISEnterVehicle][Raven][11916,6933,0][PickUpVanLightsPolice].
+[29-07-22 21:38:06.476] [76561198233812488][ISEnterVehicle][Mo Money Mo Randy][11891,6896,0][OffRoad].
+[29-07-22 21:38:06.739] [76561199187795983][ISEnterVehicle][feng min enjoyer][11918,6913,0][SUV].
+[29-07-22 21:38:17.337] [76561198086468814][ISExitVehicle][Raven][11905,6895,0][PickUpVanLightsPolice].
+[29-07-22 21:38:24.966] [76561198233812488][ISExitVehicle][Mo Money Mo Randy][11894,6896,0][OffRoad].
+[29-07-22 21:39:00.227] [76561199187795983][ISExitVehicle][feng min enjoyer][11878,6895,0][SUV].
+[29-07-22 21:45:07.130] [76561199187795983][ISEnterVehicle][feng min enjoyer][11878,6896,0][SUV].
+[29-07-22 21:46:16.199] [76561198233812488][ISEnterVehicle][Mo Money Mo Randy][11878,6896,0][SUV].
+[29-07-22 21:47:01.395] [76561199187795983][ISExitVehicle][feng min enjoyer][11878,6897,0][SUV].
+[29-07-22 21:47:23.086] [76561199187795983][ISEnterVehicle][feng min enjoyer][11878,6896,0][SUV].
+[29-07-22 21:47:40.798] [76561198233812488][ISExitVehicle][Mo Money Mo Randy][11878,6895,0][SUV].
+[29-07-22 21:47:54.283] [76561198233812488][ISEnterVehicle][Mo Money Mo Randy][11894,6896,0][OffRoad].
+[29-07-22 21:47:59.638] [76561198086468814][ISEnterVehicle][Raven][11906,6894,0][PickUpVanLightsPolice].
+[29-07-22 21:51:51.893] [76561198086468814][ISExitVehicle][Raven][12733,5079,0][PickUpVanLightsPolice].
+[29-07-22 21:52:11.032] [76561198233812488][ISExitVehicle][Mo Money Mo Randy][12729,5060,0][OffRoad].
+[29-07-22 21:52:25.545] [76561199187795983][ISExitVehicle][feng min enjoyer][12735,5067,0][SUV].
+[29-07-22 22:14:45.308] [76561199187795983][ISEnterVehicle][feng min enjoyer][12734,5068,0][SUV].
+[29-07-22 22:15:02.124] [76561199187795983][ISExitVehicle][feng min enjoyer][12734,5067,0][SUV].
+[29-07-22 22:16:29.421] [76561198086468814][ISEnterVehicle][Raven][12734,5068,0][SUV].
+[29-07-22 22:16:31.974] [76561199187795983][ISEnterVehicle][feng min enjoyer][12734,5068,0][SUV].
+[29-07-22 22:16:35.712] [76561198233812488][ISEnterVehicle][Mo Money Mo Randy][12735,5068,0][SUV].
+[29-07-22 22:16:47.626] [76561199187795983][ISExitVehicle][feng min enjoyer][12766,5095,0][SUV].
+[29-07-22 22:16:58.558] [76561199187795983][ISEnterVehicle][feng min enjoyer][12767,5094,0][SUV].
+[29-07-22 22:18:44.472] [76561199187795983][ISExitVehicle][feng min enjoyer][12512,4493,0][SUV].
+[29-07-22 22:18:45.723] [76561198086468814][ISExitVehicle][Raven][12510,4492,0][SUV].
+[29-07-22 22:18:52.737] [76561198233812488][ISExitVehicle][Mo Money Mo Randy][12510,4492,0][SUV].
+[29-07-22 22:19:20.220] [76561198086468814][ISEnterVehicle][Raven][12511,4493,0][SUV].
+[29-07-22 22:19:21.740] [76561198233812488][ISEnterVehicle][Mo Money Mo Randy][12510,4492,0][SUV].
+[29-07-22 22:19:21.923] [76561199187795983][ISEnterVehicle][feng min enjoyer][12511,4492,0][SUV].
+[29-07-22 22:22:41.586] [76561199187795983][ISExitVehicle][feng min enjoyer][13221,3453,0][SUV].
+[29-07-22 22:22:42.785] [76561198233812488][ISExitVehicle][Mo Money Mo Randy][13220,3451,0][SUV].
+[29-07-22 22:22:43.044] [76561198086468814][ISExitVehicle][Raven][13220,3453,0][SUV].
+[29-07-22 22:25:04.374] [76561198086468814][ISEnterVehicle][Raven][13207,3445,0][M113_APC].
+[29-07-22 22:25:09.007] [76561198233812488][ISEnterVehicle][Mo Money Mo Randy][13209,3445,0][M113_APC].
+[29-07-22 22:25:10.062] [76561199187795983][ISEnterVehicle][feng min enjoyer][13208,3444,0][M113_APC].
+[29-07-22 22:25:14.404] [76561199187795983][ISExitVehicle][feng min enjoyer][13207,3443,0][M113_APC].
+[29-07-22 22:25:17.927] [76561198233812488][ISExitVehicle][Mo Money Mo Randy][13209,3444,0][M113_APC].
+[29-07-22 22:26:14.347] [76561199187795983][ISEnterVehicle][feng min enjoyer][13220,3452,0][SUV].
+[29-07-22 22:26:30.854] [76561198233812488][ISEnterVehicle][Mo Money Mo Randy][13219,3452,0][SUV].
+[29-07-22 22:31:03.158] [76561199187795983][ISExitVehicle][feng min enjoyer][13973,3216,0][SUV].
+[29-07-22 22:31:10.991] [76561198086468814][ISExitVehicle][Raven][13202,3109,0][M113_APC].
+[29-07-22 22:31:10.991] [76561198233812488][ISExitVehicle][Mo Money Mo Randy][13975,3216,0][SUV].
+[29-07-22 22:34:01.626] [76561198086468814][ISEnterVehicle][Raven][13202,3109,0][M113_APC].
+[29-07-22 22:38:11.398] [76561199187795983][ISEnterVehicle][feng min enjoyer][13974,3216,0][SUV].
+[29-07-22 22:38:37.788] [76561198233812488][ISEnterVehicle][Mo Money Mo Randy][13974,3216,0][SUV].
+[29-07-22 22:38:50.153] [76561198086468814][ISExitVehicle][Raven][13970,3224,0][M113_APC].
+[29-07-22 22:39:07.006] [76561199187795983][ISExitVehicle][feng min enjoyer][13980,3238,0][SUV].
+[29-07-22 22:39:25.710] [76561198233812488][ISExitVehicle][Mo Money Mo Randy][13980,3238,0][SUV].
+[29-07-22 22:39:41.377] [76561199187795983][ISEnterVehicle][feng min enjoyer][13979,3238,0][SUV].
+[29-07-22 22:39:43.984] [76561199187795983][ISExitVehicle][feng min enjoyer][13980,3238,0][SUV].
+[29-07-22 22:40:23.276] [76561199187795983][ISTakeEngineParts][feng min enjoyer][13974,3245,0][CarStationWagon2].
+[29-07-22 22:40:29.017] [76561198233812488][ISEnterVehicle][Mo Money Mo Randy][13979,3237,0][SUV].
+[29-07-22 22:40:44.648] [76561198233812488][ISExitVehicle][Mo Money Mo Randy][13980,3238,0][SUV].
+[29-07-22 22:40:58.537] [76561198233812488][ISEnterVehicle][Mo Money Mo Randy][13979,3237,0][SUV].
+[29-07-22 22:41:51.357] [76561199187795983][ISTakeEngineParts][feng min enjoyer][13974,3233,0][CarTaxi2].
+[29-07-22 22:42:11.898] [76561199187795983][ISTakeEngineParts][feng min enjoyer][13969,3248,0][PickUpVan].
