@@ -1,0 +1,61 @@
+[31-07-22 20:05:40.735] added connection index=0 76561198086468814.
+[31-07-22 20:05:40.907] 76561198086468814 "Raven" attempting to join.
+[31-07-22 20:05:40.907] 76561198086468814 "Raven" allowed to join.
+[31-07-22 20:05:56.959] 76561198086468814 "Raven" attempting to join used queue.
+[31-07-22 20:06:22.253] player Raven loading time was: 23947 ms.
+[31-07-22 20:06:47.905] 76561198086468814 "Raven" fully connected (13962,3230,0).
+[31-07-22 20:07:57.137] added connection index=1 76561199187795983.
+[31-07-22 20:07:57.291] 76561199187795983 "feng min enjoyer" attempting to join.
+[31-07-22 20:07:57.291] 76561199187795983 "feng min enjoyer" allowed to join.
+[31-07-22 20:08:56.128] added connection index=2 76561198233812488.
+[31-07-22 20:08:56.256] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" attempting to join.
+[31-07-22 20:08:56.256] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" allowed to join.
+[31-07-22 20:09:15.182] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" attempting to join used queue.
+[31-07-22 20:09:38.603] player Mo Money Mo Randy loading time was: 22063 ms.
+[31-07-22 20:09:41.273] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" fully connected (13979,3237,0).
+[31-07-22 20:10:15.221] 76561199187795983 "feng min enjoyer" attempting to join used queue.
+[31-07-22 20:10:58.071] 76561199187795983 "feng min enjoyer" removed connection index=1.
+[31-07-22 20:16:40.042] added connection index=1 76561199187795983.
+[31-07-22 20:16:40.105] 76561199187795983 "feng min enjoyer" attempting to join.
+[31-07-22 20:16:40.105] 76561199187795983 "feng min enjoyer" allowed to join.
+[31-07-22 20:18:36.481] 76561199187795983 "feng min enjoyer" attempting to join used queue.
+[31-07-22 20:19:16.037] player feng min enjoyer loading time was: 37564 ms.
+[31-07-22 20:19:24.429] 76561199187795983 "feng min enjoyer" fully connected (13963,3229,0).
+[31-07-22 20:46:48.306] user Raven died at (13067,1826,0) (non pvp).
+[31-07-22 20:50:47.317] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" removed connection index=2.
+[31-07-22 20:50:47.341] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" disconnected player (13100,1845,0).
+[31-07-22 20:51:14.772] added connection index=2 76561198233812488.
+[31-07-22 20:51:14.773] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" attempting to join.
+[31-07-22 20:51:14.773] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" allowed to join.
+[31-07-22 20:51:29.344] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" removed connection index=2.
+[31-07-22 20:56:38.822] 76561198086468814 "Raven" disconnected player (13067,1826,0).
+[31-07-22 20:56:41.475] 76561198086468814 "Raven" fully connected (11896,7015,0).
+[31-07-22 21:17:54.662] added connection index=2 76561198233812488.
+[31-07-22 21:17:54.719] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" attempting to join.
+[31-07-22 21:17:54.719] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" allowed to join.
+[31-07-22 21:18:10.707] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" attempting to join used queue.
+[31-07-22 21:18:30.810] player Mo Money Mo Randy loading time was: 19571 ms.
+[31-07-22 21:19:23.500] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" fully connected (13100,1845,0).
+[31-07-22 21:20:45.331] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" removed connection index=2.
+[31-07-22 21:20:45.344] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" disconnected player (13100,1844,0).
+[31-07-22 22:16:23.959] added connection index=2 76561198233812488.
+[31-07-22 22:16:24.074] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" attempting to join.
+[31-07-22 22:16:24.074] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" allowed to join.
+[31-07-22 22:16:41.236] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" attempting to join used queue.
+[31-07-22 22:17:06.165] player Mo Money Mo Randy loading time was: 23627 ms.
+[31-07-22 22:17:15.910] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" fully connected (13100,1844,0).
+[31-07-22 22:17:47.069] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" removed connection index=2.
+[31-07-22 22:17:47.082] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" disconnected player (13100,1844,0).
+[31-07-22 22:33:18.512] 76561199187795983 "feng min enjoyer" removed connection index=1.
+[31-07-22 22:33:18.536] 76561199187795983 "feng min enjoyer" disconnected player (13092,1856,0).
+[31-07-22 22:35:39.444] added connection index=1 76561199187795983.
+[31-07-22 22:35:39.445] 76561199187795983 "feng min enjoyer" attempting to join.
+[31-07-22 22:35:39.445] 76561199187795983 "feng min enjoyer" allowed to join.
+[31-07-22 22:37:38.977] 76561199187795983 "feng min enjoyer" attempting to join used queue.
+[31-07-22 22:37:59.083] player feng min enjoyer loading time was: 16928 ms.
+[31-07-22 22:38:54.170] 76561199187795983 "feng min enjoyer" fully connected (13092,1856,0).
+[01-08-22 00:25:48.958] user feng min enjoyer died at (13599,1589,0) (non pvp).
+[01-08-22 00:35:03.053] 76561199187795983 "feng min enjoyer" disconnected player (13599,1589,0).
+[01-08-22 00:35:05.706] 76561199187795983 "feng min enjoyer" fully connected (10944,9374,0).
+[01-08-22 02:09:25.427] 76561198086468814 "Raven" removed connection index=0.
+[01-08-22 02:09:25.441] 76561198086468814 "Raven" disconnected player (12719,5061,1).

@@ -1,0 +1,9 @@
+[31-07-22 20:56:41.498][info] Init chat system....
+[31-07-22 20:56:41.499][info] Mode: multiplayer.
+[31-07-22 20:56:41.499][info] Chat owner: Raven.
+[31-07-22 21:38:43.905][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='HEY YOU!'}.
+[31-07-22 21:40:34.905][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='HEY!'}.
+[01-08-22 00:25:48.988][info] Got message from server: ChatMessage{chat=Server, author='Server', text='feng min enjoyer is dead.'}.
+[01-08-22 01:16:09.904][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='HEY YOU!'}.
+[01-08-22 01:16:11.204][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='OVER HERE!'}.
+[01-08-22 01:16:12.055][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='HEY!'}.

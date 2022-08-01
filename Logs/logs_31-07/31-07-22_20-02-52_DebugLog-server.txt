@@ -1,0 +1,47 @@
+[31-07-22 20:02:52.308] LOG  : General     , 1659312172308> 663,177> cachedir set to "C:\Users\aaron\Zomboid".
+[31-07-22 20:02:52.744] LOG  : General     , 1659312172744> 663,613> versionNumber=41.73 demo=false.
+[31-07-22 20:02:52.744] LOG  : General     , 1659312172744> 663,613> svnRevision= date= time=.
+[31-07-22 20:02:52.750] LOG  : General     , 1659312172750> 663,619> server name is "servertest1".
+[31-07-22 20:02:52.751] LOG  : General     , 1659312172751> 663,620> checking server WorldVersion in map_t.bin.
+[31-07-22 20:02:52.757] LOG  : General     , 1659312172757> 663,626> Loading networking libraries....
+[31-07-22 20:02:52.758] LOG  : General     , 1659312172758> 663,627> Loading steam_api64....
+[31-07-22 20:02:52.768] LOG  : General     , 1659312172768> 663,637> Loading RakNet64....
+[31-07-22 20:02:52.772] LOG  : General     , 1659312172771> 663,641> Loading ZNetJNI64....
+[31-07-22 20:02:52.916] LOG  : General     , 1659312172916> 663,785> 1659312172913 znet: ZNet loaded.
+[31-07-22 20:02:52.922] LOG  : General     , 1659312172922> 663,791> 1659312172922 znet: Compiled with SERVER_STEAMAPI == 0.
+[31-07-22 20:02:52.922] LOG  : General     , 1659312172922> 663,791> 1659312172922 znet: Starting with bServer == true.
+[31-07-22 20:02:52.923] LOG  : General     , 1659312172923> 663,792> 1659312172923 znet: SteamAPI initialised successfully.
+[31-07-22 20:02:52.923] LOG  : General     , 1659312172923> 663,792> SteamUtils initialised successfully.
+[31-07-22 20:03:05.161] LOG  : General     , 1659312185161> 676,030> translator: language is EN.
+[31-07-22 20:03:05.431] LOG  : General     , 1659312185431> 676,300> LightingFPS set to 15.
+[31-07-22 20:03:05.459] LOG  : General     , 1659312185459> 676,329> reading C:\Users\aaron\Zomboid\Server\servertest1.ini.
+[31-07-22 20:03:05.462] LOG  : General     , 1659312185462> 676,331> writing C:\Users\aaron\Zomboid\Server\servertest1.ini.
+[31-07-22 20:03:05.478] LOG  : General     , 1659312185478> 676,347> 1659312185478 znet: Java_zombie_core_znet_SteamGameServer_Init.
+[31-07-22 20:03:05.812] LOG  : General     , 1659312185812> 676,681> 1659312185812 znet: SteamGameServer seems to be initialized.
+[31-07-22 20:03:05.813] LOG  : General     , 1659312185812> 676,682> 1659312185812 znet: Java_zombie_core_znet_SteamGameServer_SetProduct.
+[31-07-22 20:03:05.813] LOG  : General     , 1659312185813> 676,682> 1659312185813 znet: Java_zombie_core_znet_SteamGameServer_SetGameDescription.
+[31-07-22 20:03:05.813] LOG  : General     , 1659312185813> 676,683> 1659312185813 znet: Java_zombie_core_znet_SteamGameServer_SetModDir.
+[31-07-22 20:03:05.814] LOG  : General     , 1659312185814> 676,683> 1659312185814 znet: Java_zombie_core_znet_SteamGameServer_SetDedicatedServer.
+[31-07-22 20:03:05.814] LOG  : General     , 1659312185814> 676,684> 1659312185814 znet: Java_zombie_core_znet_SteamGameServer_SetMaxPlayerCount.
+[31-07-22 20:03:05.815] LOG  : General     , 1659312185815> 676,684> 1659312185815 znet: Java_zombie_core_znet_SteamGameServer_SetServerName 'Naybad the Fister'.
+[31-07-22 20:03:05.815] LOG  : General     , 1659312185815> 676,685> 1659312185815 znet: Java_zombie_core_znet_SteamGameServer_SetMapName 'Muldraugh, KY'.
+[31-07-22 20:03:05.816] LOG  : General     , 1659312185816> 676,685> 1659312185816 znet: Java_zombie_core_znet_SteamGameServer_SetGameTags 'hidden;hosted'.
+[31-07-22 20:03:05.816] LOG  : General     , 1659312185816> 676,686> 1659312185816 znet: Java_zombie_core_znet_SteamGameServer_SetKeyValue key='description' value=''.
+[31-07-22 20:03:05.817] LOG  : General     , 1659312185817> 676,686> 1659312185817 znet: Java_zombie_core_znet_SteamGameServer_SetKeyValue key='version' value='41.73'.
+[31-07-22 20:03:05.817] LOG  : General     , 1659312185817> 676,686> 1659312185817 znet: Java_zombie_core_znet_SteamGameServer_SetKeyValue key='open' value='1'.
+[31-07-22 20:03:05.817] LOG  : General     , 1659312185817> 676,687> 1659312185817 znet: Java_zombie_core_znet_SteamGameServer_SetKeyValue key='public' value='0'.
+[31-07-22 20:03:05.818] LOG  : General     , 1659312185818> 676,687> 1659312185818 znet: Java_zombie_core_znet_SteamGameServer_SetKeyValue key='mods' value='CDDAReading;BetterSortCC;fuelsideindicator;modoptions;Betterhandwash;EasyConfigChucked;ExpandedHelicopterEvents;ItemTweakerAPI'.
+[31-07-22 20:03:05.818] LOG  : General     , 1659312185818> 676,687> 1659312185818 znet: Java_zombie_core_znet_SteamGameServer_SetKeyValue key='modCount' value='30'.
+[31-07-22 20:03:05.819] LOG  : General     , 1659312185819> 676,688> 1659312185819 znet: Java_zombie_core_znet_SteamGameServer_SetKeyValue key='pvp' value='1'.
+[31-07-22 20:03:05.823] LOG  : General     , 1659312185823> 676,692> 1659312185823 znet: Java_zombie_core_znet_SteamWorkshop_n_1Init.
+[31-07-22 20:03:05.824] LOG  : General     , 1659312185824> 676,693> 1659312185824 znet: Java_zombie_core_znet_SteamGameServer_LogOnAnonymous.
+[31-07-22 20:03:05.824] LOG  : General     , 1659312185824> 676,694> 1659312185824 znet: Java_zombie_core_znet_SteamGameServer_EnableHeartBeats.
+[31-07-22 20:03:05.825] LOG  : General     , 1659312185825> 676,694> Waiting for response from Steam servers.
+[31-07-22 20:03:07.359] LOG  : General     , 1659312187359> 678,227> 1659312187359 znet: OnSteamServersConnected.
+[31-07-22 20:03:07.359] LOG  : General     , 1659312187359> 678,228> 1659312187359 znet: Public IP: 108.168.100.208.
+[31-07-22 20:03:07.371] LOG  : General     , 1659312187371> 678,240> 1659312187370 znet: Java_zombie_core_znet_SteamWorkshop_n_1CreateQueryUGCDetailsRequest.
+[31-07-22 20:03:07.511] LOG  : General     , 1659312187511> 678,380> 1659312187511 znet: OnPolicyResponse.
+[31-07-22 20:03:07.512] LOG  : General     , 1659312187512> 678,381> 1659312187512 znet: Zomboid Server is VAC Secure.
+[31-07-22 20:03:27.399] LOG  : General     , 1659312207399> 698,268> 1659312207399 znet: ZNetWorkshop::OnSteamUGCQueryCompleted.
+[31-07-22 20:03:27.401] LOG  : General     , 1659312207401> 698,270> Workshop: onItemQueryNotCompleted handle=1 result=3.
+[31-07-22 20:03:27.402] LOG  : General     , 1659312207402> 698,271> 1659312207402 znet: Java_zombie_core_znet_SteamWorkshop_n_1ReleaseQueryUGCRequest.

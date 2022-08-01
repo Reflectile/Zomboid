@@ -1,0 +1,92 @@
+[31-07-22 20:05:21.679][info] Start chat server initialization....
+[31-07-22 20:05:21.704][info] General chat has id = 0.
+[31-07-22 20:05:21.704][info] Say chat has id = 1.
+[31-07-22 20:05:21.704][info] Shout chat has id = 2.
+[31-07-22 20:05:21.704][info] Radio chat has id = 3.
+[31-07-22 20:05:21.704][info] Admin chat has id = 4.
+[31-07-22 20:05:21.704][info] Server chat has id = 5.
+[31-07-22 20:05:21.705][info] Chat server successfully initialized.
+[31-07-22 20:06:47.840][info] Player with id = '0' tries to connect.
+[31-07-22 20:06:47.841][info] Adding player '0' to chat server.
+[31-07-22 20:06:47.844][info] Player joined to default chats.
+[31-07-22 20:06:47.845][info] Player Raven(0) joined to chat server successfully.
+[31-07-22 20:09:41.271][info] Player with id = '8' tries to connect.
+[31-07-22 20:09:41.271][info] Adding player '8' to chat server.
+[31-07-22 20:09:41.271][info] Player joined to default chats.
+[31-07-22 20:09:41.271][info] Player Mo Money Mo Randy(8) joined to chat server successfully.
+[31-07-22 20:19:24.426][info] Player with id = '4' tries to connect.
+[31-07-22 20:19:24.426][info] Adding player '4' to chat server.
+[31-07-22 20:19:24.426][info] Player joined to default chats.
+[31-07-22 20:19:24.427][info] Player feng min enjoyer(4) joined to chat server successfully.
+[31-07-22 20:46:48.292][info] Player 0 disconnecting....
+[31-07-22 20:46:48.293][info] Disconnecting player 0 finished.
+[31-07-22 20:50:47.328][info] Player 8 disconnecting....
+[31-07-22 20:50:47.328][info] Disconnecting player 8 finished.
+[31-07-22 20:50:47.328][info] Player 8 disconnecting....
+[31-07-22 20:50:47.328][info] Disconnecting player 8 finished.
+[31-07-22 20:56:38.821][info] Player 0 disconnecting....
+[31-07-22 20:56:38.821][info] Disconnecting player 0 finished.
+[31-07-22 20:56:38.822][info] Player with id = '0' tries to connect.
+[31-07-22 20:56:38.822][info] Adding player '0' to chat server.
+[31-07-22 20:56:38.823][error] Player or connection is not found on server!.
+[31-07-22 20:56:38.823][error] player = null.
+[31-07-22 20:56:41.472][info] Player with id = '0' tries to connect.
+[31-07-22 20:56:41.472][info] Adding player '0' to chat server.
+[31-07-22 20:56:41.472][info] Player joined to default chats.
+[31-07-22 20:56:41.472][info] Player Raven(0) joined to chat server successfully.
+[31-07-22 21:19:23.498][info] Player with id = '8' tries to connect.
+[31-07-22 21:19:23.498][info] Adding player '8' to chat server.
+[31-07-22 21:19:23.499][info] Player joined to default chats.
+[31-07-22 21:19:23.499][info] Player Mo Money Mo Randy(8) joined to chat server successfully.
+[31-07-22 21:20:45.343][info] Player 8 disconnecting....
+[31-07-22 21:20:45.343][info] Disconnecting player 8 finished.
+[31-07-22 21:20:45.343][info] Player 8 disconnecting....
+[31-07-22 21:20:45.343][info] Disconnecting player 8 finished.
+[31-07-22 21:38:43.863][info] Got message:ChatMessage{chat=Local, author='feng min enjoyer', text='HEY YOU!'}.
+[31-07-22 21:38:43.864][info] Message ChatMessage{chat=Local, author='feng min enjoyer', text='HEY YOU!'} sent to chat (id = 2) members.
+[31-07-22 21:40:34.879][info] Got message:ChatMessage{chat=Local, author='feng min enjoyer', text='HEY!'}.
+[31-07-22 21:40:34.879][info] Message ChatMessage{chat=Local, author='feng min enjoyer', text='HEY!'} sent to chat (id = 2) members.
+[31-07-22 22:17:15.907][info] Player with id = '8' tries to connect.
+[31-07-22 22:17:15.908][info] Adding player '8' to chat server.
+[31-07-22 22:17:15.908][info] Player joined to default chats.
+[31-07-22 22:17:15.908][info] Player Mo Money Mo Randy(8) joined to chat server successfully.
+[31-07-22 22:17:47.080][info] Player 8 disconnecting....
+[31-07-22 22:17:47.080][info] Disconnecting player 8 finished.
+[31-07-22 22:17:47.080][info] Player 8 disconnecting....
+[31-07-22 22:17:47.080][info] Disconnecting player 8 finished.
+[31-07-22 22:28:42.319][info] Got message:ChatMessage{chat=Local, author='Raven', text='HEY!'}.
+[31-07-22 22:28:42.319][info] Message ChatMessage{chat=Local, author='Raven', text='HEY!'} sent to chat (id = 2) members.
+[31-07-22 22:28:42.529][info] Got message:ChatMessage{chat=Local, author='Raven', text='HEY!'}.
+[31-07-22 22:28:42.529][info] Message ChatMessage{chat=Local, author='Raven', text='HEY!'} sent to chat (id = 2) members.
+[31-07-22 22:33:18.524][info] Player 4 disconnecting....
+[31-07-22 22:33:18.524][info] Disconnecting player 4 finished.
+[31-07-22 22:33:18.524][info] Player 4 disconnecting....
+[31-07-22 22:33:18.524][info] Disconnecting player 4 finished.
+[31-07-22 22:38:54.168][info] Player with id = '4' tries to connect.
+[31-07-22 22:38:54.168][info] Adding player '4' to chat server.
+[31-07-22 22:38:54.169][info] Player joined to default chats.
+[31-07-22 22:38:54.169][info] Player feng min enjoyer(4) joined to chat server successfully.
+[01-08-22 00:25:48.956][info] Player 4 disconnecting....
+[01-08-22 00:25:48.956][info] Disconnecting player 4 finished.
+[01-08-22 00:35:03.052][info] Player 4 disconnecting....
+[01-08-22 00:35:03.052][info] Disconnecting player 4 finished.
+[01-08-22 00:35:03.053][info] Player with id = '4' tries to connect.
+[01-08-22 00:35:03.053][info] Adding player '4' to chat server.
+[01-08-22 00:35:03.053][error] Player or connection is not found on server!.
+[01-08-22 00:35:03.053][error] player = null.
+[01-08-22 00:35:05.705][info] Player with id = '4' tries to connect.
+[01-08-22 00:35:05.705][info] Adding player '4' to chat server.
+[01-08-22 00:35:05.705][info] Player joined to default chats.
+[01-08-22 00:35:05.705][info] Player feng min enjoyer(4) joined to chat server successfully.
+[01-08-22 01:15:19.684][info] Got message:ChatMessage{chat=Local, author='Raven', text='HEY!'}.
+[01-08-22 01:15:19.684][info] Message ChatMessage{chat=Local, author='Raven', text='HEY!'} sent to chat (id = 2) members.
+[01-08-22 01:16:09.874][info] Got message:ChatMessage{chat=Local, author='feng min enjoyer', text='HEY YOU!'}.
+[01-08-22 01:16:09.874][info] Message ChatMessage{chat=Local, author='feng min enjoyer', text='HEY YOU!'} sent to chat (id = 2) members.
+[01-08-22 01:16:11.172][info] Got message:ChatMessage{chat=Local, author='feng min enjoyer', text='OVER HERE!'}.
+[01-08-22 01:16:11.172][info] Message ChatMessage{chat=Local, author='feng min enjoyer', text='OVER HERE!'} sent to chat (id = 2) members.
+[01-08-22 01:16:12.025][info] Got message:ChatMessage{chat=Local, author='feng min enjoyer', text='HEY!'}.
+[01-08-22 01:16:12.025][info] Message ChatMessage{chat=Local, author='feng min enjoyer', text='HEY!'} sent to chat (id = 2) members.
+[01-08-22 02:09:25.438][info] Player 0 disconnecting....
+[01-08-22 02:09:25.438][info] Disconnecting player 0 finished.
+[01-08-22 02:09:25.439][info] Player 0 disconnecting....
+[01-08-22 02:09:25.439][info] Disconnecting player 0 finished.

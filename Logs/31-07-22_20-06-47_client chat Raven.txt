@@ -1,0 +1,3 @@
+[31-07-22 20:06:47.876][info] Init chat system....
+[31-07-22 20:06:47.876][info] Mode: multiplayer.
+[31-07-22 20:06:47.877][info] Chat owner: Raven.

@@ -1,0 +1,3 @@
+[31-07-22 20:06:22.218][info] Init chat system....
+[31-07-22 20:06:22.218][info] Mode: single player.
+[31-07-22 20:06:22.218][info] Chat owner: Raven.
