@@ -1,0 +1,26 @@
+[01-08-22 22:32:10.342][INFO] user "Raven" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[01-08-22 22:39:57.278][INFO] user "Mo Money Mo Randy" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[02-08-22 00:50:36.884][INFO] user "Mo Money Mo Randy" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[02-08-22 01:45:28.229][INFO] user "big head megamind" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[02-08-22 01:47:02.095][INFO] user "feng min enjoyer" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[02-08-22 02:03:51.399] user "feng min enjoyer" (12319,6766,0) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[02-08-22 02:03:51.400] user "feng min enjoyer" (12319,6766,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[02-08-22 02:04:07.554] user "feng min enjoyer" (12321,6761,0) disabled safety enabled=false last=true cooldown=3.0 toggle=0.0.
+[02-08-22 02:04:08.892] user "feng min enjoyer" (12321,6761,0) disabled safety enabled=false last=true cooldown=4.70131 toggle=0.0.
+[02-08-22 02:04:09.806] user "feng min enjoyer" (12321,6761,0) disabled safety enabled=false last=true cooldown=6.80243 toggle=0.0.
+[02-08-22 02:04:10.793] user "feng min enjoyer" (12321,6761,0) disabled safety enabled=false last=true cooldown=8.803107 toggle=0.0.
+[02-08-22 02:04:15.313] user "feng min enjoyer" (12321,6762,0) disabled safety enabled=false last=true cooldown=7.206213 toggle=0.0.
+[02-08-22 02:04:16.623] user "feng min enjoyer" (12320,6763,0) disabled safety enabled=false last=true cooldown=8.906744 toggle=0.0.
+[02-08-22 02:07:11.810] user "feng min enjoyer" (12735,5065,0) disabled safety enabled=false last=true cooldown=3.0 toggle=0.0.
+[02-08-22 02:07:22.848] user "feng min enjoyer" (12733,5067,0) disabled safety enabled=false last=true cooldown=3.0 toggle=0.0.
+[02-08-22 02:07:24.504] user "feng min enjoyer" (12731,5069,0) disabled safety enabled=false last=true cooldown=4.4011602 toggle=0.0.
+[02-08-22 02:09:29.108] user "feng min enjoyer" (12732,5066,0) disabled safety enabled=false last=true cooldown=3.0 toggle=0.0.
+[02-08-22 02:09:39.528] user "feng min enjoyer" (12732,5066,0) disabled safety enabled=false last=true cooldown=3.0 toggle=0.0.
+[02-08-22 02:09:40.897][INFO] user "big head megamind" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[02-08-22 02:09:40.899][IMPORTANT] user feng min enjoyer (76561199187795983)  killed big head megamind (76561198088278737)  (12732,5066,0).
+[02-08-22 02:13:34.059][INFO] user "big head megamind" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[02-08-22 02:17:22.758] user "feng min enjoyer" (12728,5065,0) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[02-08-22 02:17:22.758] user "feng min enjoyer" (12728,5065,0) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[02-08-22 02:43:44.376][INFO] user "big head megamind" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[02-08-22 03:31:54.550][INFO] user "feng min enjoyer" store safety enabled=true last=false cooldown=0.0 toggle=0.0.
+[02-08-22 03:31:56.875][INFO] user "Raven" store safety enabled=true last=true cooldown=0.0 toggle=0.0.

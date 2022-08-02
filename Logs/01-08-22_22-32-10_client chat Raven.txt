@@ -1,0 +1,8 @@
+[01-08-22 22:32:10.368][info] Init chat system....
+[01-08-22 22:32:10.368][info] Mode: multiplayer.
+[01-08-22 22:32:10.368][info] Chat owner: Raven.
+[02-08-22 02:09:40.933][info] Got message from server: ChatMessage{chat=Server, author='Server', text='feng min enjoyer killed big head megamind.'}.
+[02-08-22 02:09:57.924][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='OVER HERE!'}.
+[02-08-22 02:43:44.375][info] Got message from server: ChatMessage{chat=Server, author='Server', text='User big head megamind kicked.'}.
+[02-08-22 02:58:22.091][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='HEY YOU!'}.
+[02-08-22 03:03:12.407][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='HEY YOU!'}.

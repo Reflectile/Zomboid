@@ -1,0 +1,50 @@
+[01-08-22 22:31:18.252] added connection index=0 76561198086468814.
+[01-08-22 22:31:18.419] 76561198086468814 "Raven" attempting to join.
+[01-08-22 22:31:18.420] 76561198086468814 "Raven" allowed to join.
+[01-08-22 22:31:34.777] 76561198086468814 "Raven" attempting to join used queue.
+[01-08-22 22:32:00.207] player Raven loading time was: 24159 ms.
+[01-08-22 22:32:10.351] 76561198086468814 "Raven" fully connected (12719,5061,1).
+[01-08-22 22:37:01.765] added connection index=1 76561198233812488.
+[01-08-22 22:37:01.897] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" attempting to join.
+[01-08-22 22:37:01.898] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" allowed to join.
+[01-08-22 22:37:52.298] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" attempting to join used queue.
+[01-08-22 22:38:23.165] player Mo Money Mo Randy loading time was: 29499 ms.
+[01-08-22 22:39:57.279] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" fully connected (13100,1844,0).
+[02-08-22 00:50:36.871] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" removed connection index=1.
+[02-08-22 00:50:36.887] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" disconnected player (12720,5060,1).
+[02-08-22 01:23:40.376] added connection index=1 76561198088278737.
+[02-08-22 01:23:40.387] access denied: user "big head megamind" client version (41.71) does not match server version (41.73).
+[02-08-22 01:23:40.388] 76561198088278737 "big head megamind" attempting to join.
+[02-08-22 01:23:40.388] 76561198088278737 "big head megamind" allowed to join.
+[02-08-22 01:23:40.396] 76561198088278737 "big head megamind" removed connection index=1.
+[02-08-22 01:25:13.353] added connection index=1 76561199187795983.
+[02-08-22 01:25:13.715] 76561199187795983 "feng min enjoyer" attempting to join.
+[02-08-22 01:25:13.715] 76561199187795983 "feng min enjoyer" allowed to join.
+[02-08-22 01:27:20.725] 76561199187795983 "feng min enjoyer" attempting to join used queue.
+[02-08-22 01:27:21.560] added connection index=2 76561198088278737.
+[02-08-22 01:27:21.625] 76561198088278737 "big head megamind" attempting to join.
+[02-08-22 01:27:21.625] 76561198088278737 "big head megamind" allowed to join.
+[02-08-22 01:27:31.291] 76561199187795983 "feng min enjoyer" removed connection index=1.
+[02-08-22 01:37:08.316] 76561198088278737 "big head megamind" attempting to join used queue.
+[02-08-22 01:37:12.829] 76561198088278737 "big head megamind" removed connection index=2.
+[02-08-22 01:39:53.841] added connection index=1 76561198088278737.
+[02-08-22 01:39:53.895] 76561198088278737 "big head megamind" attempting to join.
+[02-08-22 01:39:53.895] 76561198088278737 "big head megamind" allowed to join.
+[02-08-22 01:43:48.707] added connection index=2 76561199187795983.
+[02-08-22 01:43:48.787] 76561199187795983 "feng min enjoyer" attempting to join.
+[02-08-22 01:43:48.787] 76561199187795983 "feng min enjoyer" allowed to join.
+[02-08-22 01:45:05.225] 76561198088278737 "big head megamind" attempting to join used queue.
+[02-08-22 01:45:24.324] player big head megamind loading time was: 18587 ms.
+[02-08-22 01:45:28.230] 76561198088278737 "big head megamind" fully connected (11896,7015,0).
+[02-08-22 01:46:02.695] 76561199187795983 "feng min enjoyer" attempting to join used queue.
+[02-08-22 01:46:43.952] player feng min enjoyer loading time was: 39133 ms.
+[02-08-22 01:47:02.096] 76561199187795983 "feng min enjoyer" fully connected (12721,5059,1).
+[02-08-22 02:13:31.728] 76561198088278737 "big head megamind" disconnected player (12732,5066,0).
+[02-08-22 02:13:34.061] 76561198088278737 "big head megamind" fully connected (12021,6914,0).
+[02-08-22 02:43:44.364] 76561198088278737 "big head megamind" removed connection index=1.
+[02-08-22 02:43:44.377] 76561198088278737 "big head megamind" disconnected player (12029,6917,0).
+[02-08-22 02:43:44.377] 76561198088278737 "big head megamind" removed connection index=1.
+[02-08-22 03:31:54.539] 76561199187795983 "feng min enjoyer" removed connection index=2.
+[02-08-22 03:31:54.552] 76561199187795983 "feng min enjoyer" disconnected player (12721,5057,1).
+[02-08-22 03:31:56.863] 76561198086468814 "Raven" removed connection index=0.
+[02-08-22 03:31:56.876] 76561198086468814 "Raven" disconnected player (12718,5063,1).
