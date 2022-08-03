@@ -1,0 +1,5 @@
+[02-08-22 23:13:35.835][info] Init chat system....
+[02-08-22 23:13:35.835][info] Mode: multiplayer.
+[02-08-22 23:13:35.835][info] Chat owner: Raven.
+[02-08-22 23:53:30.784][info] Got message from server: ChatMessage{chat=Server, author='Server', text='big head megamind is dead.'}.
+[02-08-22 23:57:13.267][info] Got message from server: ChatMessage{chat=Server, author='Server', text='big head megamind is dead.'}.

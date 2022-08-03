@@ -1,0 +1,178 @@
+[02-08-22 20:01:44.999] [76561199187795983][ISEnterVehicle][feng min enjoyer][12728,5077,0][ModernCar02].
+[02-08-22 20:02:12.500] [76561199187795983][ISExitVehicle][feng min enjoyer][12758,5060,0][ModernCar02].
+[02-08-22 20:31:42.709] [76561199187795983][ISEnterVehicle][feng min enjoyer][12730,5083,0][OffRoad].
+[02-08-22 20:31:51.954] [76561198086468814][ISEnterVehicle][Raven][12730,5084,0][OffRoad].
+[02-08-22 20:33:24.130] [76561198086468814][ISExitVehicle][Raven][12688,5067,0][OffRoad].
+[02-08-22 20:33:24.339] [76561199187795983][ISExitVehicle][feng min enjoyer][12687,5067,0][OffRoad].
+[02-08-22 20:35:12.593] [76561198086468814][ISEnterVehicle][Raven][12687,5067,0][OffRoad].
+[02-08-22 20:35:13.539] [76561199187795983][ISEnterVehicle][feng min enjoyer][12688,5067,0][OffRoad].
+[02-08-22 20:35:43.872] [76561199187795983][ISExitVehicle][feng min enjoyer][12728,5075,0][OffRoad].
+[02-08-22 20:35:43.938] [76561198086468814][ISExitVehicle][Raven][12729,5073,0][OffRoad].
+[02-08-22 20:41:05.756] [76561198086468814][ISEnterVehicle][Raven][12731,5070,0][PickUpVanLightsPolice].
+[02-08-22 20:41:19.178] [76561199187795983][ISEnterVehicle][feng min enjoyer][12731,5070,0][PickUpVanLightsPolice].
+[02-08-22 20:44:31.966] [76561199187795983][ISExitVehicle][feng min enjoyer][12512,4568,0][PickUpVanLightsPolice].
+[02-08-22 20:44:33.910] [76561198086468814][ISExitVehicle][Raven][12510,4568,0][PickUpVanLightsPolice].
+[02-08-22 20:44:35.165] [76561198086468814][ISEnterVehicle][Raven][12511,4568,0][PickUpVanLightsPolice].
+[02-08-22 20:44:39.770] [76561198086468814][ISExitVehicle][Raven][12510,4568,0][PickUpVanLightsPolice].
+[02-08-22 20:44:43.843] [76561198086468814][ISEnterVehicle][Raven][12511,4568,0][PickUpVanLightsPolice].
+[02-08-22 20:44:45.930] [76561198086468814][ISExitVehicle][Raven][12510,4568,0][PickUpVanLightsPolice].
+[02-08-22 20:51:50.701] [76561199187795983][ISEnterVehicle][feng min enjoyer][12511,4568,0][PickUpVanLightsPolice].
+[02-08-22 20:52:13.730] [76561198086468814][ISEnterVehicle][Raven][12510,4576,0][PickUpVanLightsPolice].
+[02-08-22 20:54:47.002] [76561199187795983][ISExitVehicle][feng min enjoyer][12722,5106,0][PickUpVanLightsPolice].
+[02-08-22 21:00:06.366] [76561198086468814][ISExitVehicle][Raven][12733,5070,0][PickUpVanLightsPolice].
+[02-08-22 21:03:17.756] [76561199187795983][ISEnterVehicle][feng min enjoyer][12729,5056,0][CarNormal].
+[02-08-22 21:03:20.708] [76561198086468814][ISEnterVehicle][Raven][12728,5074,0][OffRoad].
+[02-08-22 21:03:26.239] [76561199187795983][ISExitVehicle][feng min enjoyer][12736,5061,0][CarNormal].
+[02-08-22 21:03:27.535] [76561198086468814][ISExitVehicle][Raven][12739,5074,0][OffRoad].
+[02-08-22 21:04:24.806] [76561198086468814][ISEnterVehicle][Raven][12733,5069,0][PickUpVanLightsPolice].
+[02-08-22 21:04:34.416] [76561198086468814][ISExitVehicle][Raven][12733,5070,0][PickUpVanLightsPolice].
+[02-08-22 21:05:17.119] [76561198086468814][ISEnterVehicle][Raven][12733,5069,0][PickUpVanLightsPolice].
+[02-08-22 21:05:36.108] [76561198086468814][ISExitVehicle][Raven][12731,5067,0][PickUpVanLightsPolice].
+[02-08-22 21:05:53.419] [76561198086468814][ISEnterVehicle][Raven][12731,5068,0][PickUpVanLightsPolice].
+[02-08-22 21:06:03.417] [76561198086468814][ISExitVehicle][Raven][12750,5055,0][PickUpVanLightsPolice].
+[02-08-22 21:09:00.842] [76561198086468814][ISEnterVehicle][Raven][12732,5063,0][SUV].
+[02-08-22 21:09:05.351] [76561198086468814][ISExitVehicle][Raven][12732,5063,0][SUV].
+[02-08-22 21:10:03.640] [76561198086468814][ISEnterVehicle][Raven][12732,5063,0][SUV].
+[02-08-22 21:10:10.733] [76561199187795983][ISEnterVehicle][feng min enjoyer][12733,5064,0][SUV].
+[02-08-22 21:10:30.288] [76561199187795983][ISExitVehicle][feng min enjoyer][12732,5064,0][SUV].
+[02-08-22 21:10:39.030] [76561198086468814][ISExitVehicle][Raven][12732,5063,0][SUV].
+[02-08-22 21:23:26.626] [76561198086468814][ISEnterVehicle][Raven][12735,5061,0][CarNormal].
+[02-08-22 21:24:25.587] [76561199187795983][ISEnterVehicle][feng min enjoyer][12682,5331,0][CarNormal].
+[02-08-22 21:25:28.775] [76561198086468814][ISExitVehicle][Raven][12739,5063,0][CarNormal].
+[02-08-22 21:25:28.803] [76561199187795983][ISExitVehicle][feng min enjoyer][12740,5061,0][CarNormal].
+[02-08-22 21:26:46.272] [76561199187795983][ISEnterVehicle][feng min enjoyer][12739,5075,0][OffRoad].
+[02-08-22 21:41:57.793] [76561198086468814][ISEnterVehicle][Raven][12750,5055,0][PickUpVanLightsPolice].
+[02-08-22 21:42:25.491] [76561198086468814][ISExitVehicle][Raven][12744,5058,0][PickUpVanLightsPolice].
+[02-08-22 21:46:28.773] [76561198086468814][ISEnterVehicle][Raven][12732,5063,0][SUV].
+[02-08-22 21:48:18.172] [76561199187795983][ISExitVehicle][feng min enjoyer][12739,5074,0][OffRoad].
+[02-08-22 21:48:19.159] [76561198086468814][ISExitVehicle][Raven][12732,5063,0][SUV].
+[02-08-22 21:48:38.066] [76561199187795983][ISEnterVehicle][feng min enjoyer][12739,5075,0][OffRoad].
+[02-08-22 21:48:40.573] [76561199187795983][ISExitVehicle][feng min enjoyer][12739,5074,0][OffRoad].
+[02-08-22 21:59:48.513] [76561198086468814][ISEnterVehicle][Raven][12739,5062,0][CarNormal].
+[02-08-22 22:00:06.858] [76561198086468814][ISExitVehicle][Raven][12740,5061,0][CarNormal].
+[02-08-22 22:07:08.132] [76561198086468814][ISEnterVehicle][Raven][12744,5058,0][PickUpVanLightsPolice].
+[02-08-22 22:07:27.617] [76561199187795983][ISEnterVehicle][feng min enjoyer][12743,5058,0][PickUpVanLightsPolice].
+[02-08-22 22:10:02.528] [76561199187795983][ISExitVehicle][feng min enjoyer][12508,3981,0][PickUpVanLightsPolice].
+[02-08-22 22:10:13.453] [76561198086468814][ISExitVehicle][Raven][12506,3982,0][PickUpVanLightsPolice].
+[02-08-22 22:13:57.863] [76561198086468814][ISEnterVehicle][Raven][12507,3982,0][PickUpVanLightsPolice].
+[02-08-22 22:14:17.782] [76561199187795983][ISEnterVehicle][feng min enjoyer][12509,3970,0][PickUpVanLightsPolice].
+[02-08-22 22:17:13.083] [76561198086468814][ISExitVehicle][Raven][12503,2365,0][PickUpVanLightsPolice].
+[02-08-22 22:17:13.304] [76561199187795983][ISExitVehicle][feng min enjoyer][12505,2365,0][PickUpVanLightsPolice].
+[02-08-22 22:18:54.819] [76561198086468814][ISEnterVehicle][Raven][12505,2365,0][PickUpVanLightsPolice].
+[02-08-22 22:19:00.705] [76561198086468814][ISExitVehicle][Raven][12503,2365,0][PickUpVanLightsPolice].
+[02-08-22 22:19:35.518] [76561198086468814][ISEnterVehicle][Raven][12504,2365,0][PickUpVanLightsPolice].
+[02-08-22 22:20:13.177] [76561198086468814][ISExitVehicle][Raven][12536,2393,0][PickUpVanLightsPolice].
+[02-08-22 22:20:34.404] [76561198086468814][ISEnterVehicle][Raven][12536,2394,0][PickUpVanLightsPolice].
+[02-08-22 22:20:40.327] [76561198086468814][ISExitVehicle][Raven][12536,2393,0][PickUpVanLightsPolice].
+[02-08-22 22:21:54.953] [76561198086468814][ISEnterVehicle][Raven][12536,2394,0][PickUpVanLightsPolice].
+[02-08-22 22:22:01.200] [76561198086468814][ISExitVehicle][Raven][12536,2393,0][PickUpVanLightsPolice].
+[02-08-22 22:23:28.644] [76561198086468814][ISEnterVehicle][Raven][12536,2394,0][PickUpVanLightsPolice].
+[02-08-22 22:23:37.424] [76561198086468814][ISExitVehicle][Raven][12536,2395,0][PickUpVanLightsPolice].
+[02-08-22 22:26:24.108] [76561199187795983][ISEnterVehicle][feng min enjoyer][12524,2397,0][URAL_GR].
+[02-08-22 22:26:45.105] [76561198086468814][ISEnterVehicle][Raven][12524,2396,0][URAL_GR].
+[02-08-22 22:26:51.080] [76561198086468814][ISExitVehicle][Raven][12524,2396,0][URAL_GR].
+[02-08-22 22:27:00.366] [76561198086468814][ISEnterVehicle][Raven][12536,2394,0][PickUpVanLightsPolice].
+[02-08-22 22:30:23.004] [76561198086468814][ISExitVehicle][Raven][12515,3927,0][PickUpVanLightsPolice].
+[02-08-22 22:30:24.482] [76561198086468814][ISEnterVehicle][Raven][12514,3927,0][PickUpVanLightsPolice].
+[02-08-22 22:30:27.644] [76561198086468814][ISExitVehicle][Raven][12515,3927,0][PickUpVanLightsPolice].
+[02-08-22 22:30:40.300] [76561199187795983][ISExitVehicle][feng min enjoyer][12511,3942,0][URAL_GR].
+[02-08-22 22:30:53.926] [76561199187795983][ISEnterVehicle][feng min enjoyer][12514,3927,0][PickUpVanLightsPolice].
+[02-08-22 22:31:06.610] [76561199187795983][ISExitVehicle][feng min enjoyer][12512,3958,0][PickUpVanLightsPolice].
+[02-08-22 22:31:45.836] [76561198086468814][ISEnterVehicle][Raven][12510,3941,0][URAL_GR].
+[02-08-22 22:31:54.603] [76561199187795983][ISEnterVehicle][feng min enjoyer][12511,3958,0][PickUpVanLightsPolice].
+[02-08-22 22:34:42.086] [76561199187795983][ISExitVehicle][feng min enjoyer][12729,5072,0][PickUpVanLightsPolice].
+[02-08-22 22:34:57.262] [76561198086468814][ISExitVehicle][Raven][12730,5058,0][URAL_GR].
+[02-08-22 22:35:07.170] [76561199187795983][ISEnterVehicle][feng min enjoyer][12729,5071,0][PickUpVanLightsPolice].
+[02-08-22 22:35:08.869] [76561199187795983][ISExitVehicle][feng min enjoyer][12729,5072,0][PickUpVanLightsPolice].
+[02-08-22 22:36:30.112] [76561198086468814][ISEnterVehicle][Raven][12729,5071,0][PickUpVanLightsPolice].
+[02-08-22 22:36:33.202] [76561198086468814][ISExitVehicle][Raven][12729,5072,0][PickUpVanLightsPolice].
+[02-08-22 22:38:13.377] [76561199187795983][ISEnterVehicle][feng min enjoyer][12729,5071,0][PickUpVanLightsPolice].
+[02-08-22 22:38:15.305] [76561199187795983][ISExitVehicle][feng min enjoyer][12729,5072,0][PickUpVanLightsPolice].
+[02-08-22 22:39:12.266] [76561198086468814][ISEnterVehicle][Raven][12732,5063,0][SUV].
+[02-08-22 22:39:15.445] [76561199187795983][ISEnterVehicle][feng min enjoyer][12733,5063,0][SUV].
+[02-08-22 22:39:47.033] [76561198086468814][ISExitVehicle][Raven][12732,5063,0][SUV].
+[02-08-22 22:39:49.484] [76561199187795983][ISExitVehicle][feng min enjoyer][12733,5062,0][SUV].
+[02-08-22 22:40:01.341] [76561198086468814][ISEnterVehicle][Raven][12730,5057,0][URAL_GR].
+[02-08-22 22:40:12.022] [76561198086468814][ISExitVehicle][Raven][12730,5058,0][URAL_GR].
+[02-08-22 22:43:44.470] [76561199187795983][ISEnterVehicle][feng min enjoyer][12739,5075,0][OffRoad].
+[02-08-22 22:43:47.409] [76561199187795983][ISExitVehicle][feng min enjoyer][12739,5074,0][OffRoad].
+[02-08-22 22:43:52.563] [76561198086468814][ISEnterVehicle][Raven][12729,5071,0][PickUpVanLightsPolice].
+[02-08-22 22:43:55.941] [76561199187795983][ISEnterVehicle][feng min enjoyer][12729,5070,0][PickUpVanLightsPolice].
+[02-08-22 22:45:07.174] [76561198088278737][ISEnterVehicle][big head megamind][11491,6709,0][VanSeats].
+[02-08-22 22:45:16.462] [76561198088278737][ISExitVehicle][big head megamind][11491,6710,0][VanSeats].
+[02-08-22 22:45:17.660] [76561198088278737][ISEnterVehicle][big head megamind][11491,6709,0][VanSeats].
+[02-08-22 22:45:18.774] [76561198088278737][ISExitVehicle][big head megamind][11491,6710,0][VanSeats].
+[02-08-22 22:45:26.572] [76561198088278737][ISEnterVehicle][big head megamind][11495,6719,0][SmallCar02].
+[02-08-22 22:45:28.353] [76561198088278737][ISExitVehicle][big head megamind][11495,6718,0][SmallCar02].
+[02-08-22 22:45:31.468] [76561198088278737][ISEnterVehicle][big head megamind][11495,6719,0][SmallCar02].
+[02-08-22 22:45:48.269] [76561198088278737][ISExitVehicle][big head megamind][11495,6718,0][SmallCar02].
+[02-08-22 22:47:31.357] [76561199187795983][ISExitVehicle][feng min enjoyer][12432,3645,0][PickUpVanLightsPolice].
+[02-08-22 22:47:32.004] [76561198086468814][ISExitVehicle][Raven][12434,3644,0][PickUpVanLightsPolice].
+[02-08-22 23:03:22.775] [76561199187795983][ISEnterVehicle][feng min enjoyer][12442,3646,0][M113_Police].
+[02-08-22 23:04:03.385] [76561199187795983][ISExitVehicle][feng min enjoyer][12481,3678,0][M113_Police].
+[02-08-22 23:05:28.257] [76561199187795983][ISEnterVehicle][feng min enjoyer][12482,3678,0][M113_Police].
+[02-08-22 23:13:54.647] [76561199187795983][ISExitVehicle][feng min enjoyer][12056,6876,0][M113_Police].
+[02-08-22 23:14:25.003] [76561199187795983][ISEnterVehicle][feng min enjoyer][12056,6875,0][M113_Police].
+[02-08-22 23:16:02.169] [76561198086468814][ISEnterVehicle][Raven][11495,6719,0][SmallCar02].
+[02-08-22 23:16:16.775] [76561198086468814][ISExitVehicle][Raven][11495,6718,0][SmallCar02].
+[02-08-22 23:17:14.509] [76561198086468814][ISEnterVehicle][Raven][11492,6753,0][M113_Police].
+[02-08-22 23:18:32.919] [76561198086468814][ISExitVehicle][Raven][11623,6706,0][M113_Police].
+[02-08-22 23:18:39.367] [76561198086468814][ISEnterVehicle][Raven][11625,6706,0][M113_Police].
+[02-08-22 23:18:43.251] [76561198088278737][ISEnterVehicle][big head megamind][11625,6705,0][M113_Police].
+[02-08-22 23:18:50.356] [76561198086468814][ISExitVehicle][Raven][11624,6707,0][M113_Police].
+[02-08-22 23:18:58.425] [76561198086468814][ISEnterVehicle][Raven][11625,6711,0][M113_Police].
+[02-08-22 23:21:21.385] [76561199187795983][ISExitVehicle][feng min enjoyer][12252,6947,0][M113_Police].
+[02-08-22 23:21:21.448] [76561198086468814][ISExitVehicle][Raven][12254,6950,0][M113_Police].
+[02-08-22 23:21:22.796] [76561198088278737][ISExitVehicle][big head megamind][12252,6949,0][M113_Police].
+[02-08-22 23:21:36.008] [76561199187795983][ISEnterVehicle][feng min enjoyer][12253,6947,0][M113_Police].
+[02-08-22 23:21:39.236] [76561199187795983][ISExitVehicle][feng min enjoyer][12252,6947,0][M113_Police].
+[02-08-22 23:27:06.824] [76561198088278737][ISEnterVehicle][big head megamind][12254,6948,0][M113_Police].
+[02-08-22 23:27:14.497] [76561198088278737][ISExitVehicle][big head megamind][12255,6948,0][M113_Police].
+[02-08-22 23:27:29.003] [76561198086468814][ISEnterVehicle][Raven][12253,6949,0][M113_Police].
+[02-08-22 23:27:30.410] [76561198086468814][ISExitVehicle][Raven][12254,6950,0][M113_Police].
+[02-08-22 23:28:41.755] [76561198088278737][ISEnterVehicle][big head megamind][12254,6948,0][M113_Police].
+[02-08-22 23:28:48.782] [76561199187795983][ISEnterVehicle][feng min enjoyer][12253,6947,0][M113_Police].
+[02-08-22 23:28:57.748] [76561198233812488][ISEnterVehicle][Mo Money Mo Randy][12730,5057,0][URAL_GR].
+[02-08-22 23:29:10.397] [76561198233812488][ISExitVehicle][Mo Money Mo Randy][12728,5058,0][URAL_GR].
+[02-08-22 23:29:42.113] [76561198088278737][ISExitVehicle][big head megamind][12255,6948,0][M113_Police].
+[02-08-22 23:29:53.455] [76561199187795983][ISExitVehicle][feng min enjoyer][12252,6947,0][M113_Police].
+[02-08-22 23:30:02.897] [76561199187795983][ISEnterVehicle][feng min enjoyer][12253,6947,0][M113_Police].
+[02-08-22 23:30:06.425] [76561198088278737][ISEnterVehicle][big head megamind][12254,6948,0][M113_Police].
+[02-08-22 23:30:45.963] [76561198086468814][ISEnterVehicle][Raven][12253,6949,0][M113_Police].
+[02-08-22 23:33:37.728] [76561199187795983][ISExitVehicle][feng min enjoyer][12682,5701,0][M113_Police].
+[02-08-22 23:33:39.425] [76561199187795983][ISEnterVehicle][feng min enjoyer][12683,5701,0][M113_Police].
+[02-08-22 23:33:44.488] [76561198088278737][ISExitVehicle][big head megamind][12685,5701,0][M113_Police].
+[02-08-22 23:33:55.015] [76561198088278737][ISEnterVehicle][big head megamind][12683,5702,0][M113_Police].
+[02-08-22 23:35:15.224] [76561198086468814][ISExitVehicle][Raven][12730,5072,0][M113_Police].
+[02-08-22 23:35:16.913] [76561198088278737][ISExitVehicle][big head megamind][12728,5071,0][M113_Police].
+[02-08-22 23:35:16.942] [76561199187795983][ISExitVehicle][feng min enjoyer][12727,5074,0][M113_Police].
+[02-08-22 23:36:01.832] [76561199187795983][ISEnterVehicle][feng min enjoyer][12727,5073,0][M113_Police].
+[02-08-22 23:36:05.922] [76561199187795983][ISExitVehicle][feng min enjoyer][12727,5074,0][M113_Police].
+[02-08-22 23:43:38.051] [76561198088278737][ISEnterVehicle][big head megamind][12740,5062,0][CarNormal].
+[02-08-22 23:43:56.075] [76561198088278737][ISExitVehicle][big head megamind][12740,5061,0][CarNormal].
+[02-08-22 23:44:46.267] [76561198086468814][ISEnterVehicle][Raven][12739,5062,0][CarNormal].
+[02-08-22 23:45:06.503] [76561198086468814][ISExitVehicle][Raven][12744,5057,0][CarNormal].
+[02-08-22 23:48:25.237] [76561198086468814][ISEnterVehicle][Raven][12744,5057,0][CarNormal].
+[02-08-22 23:48:29.436] [76561198088278737][ISEnterVehicle][big head megamind][12743,5057,0][CarNormal].
+[02-08-22 23:51:29.928] [76561198086468814][ISExitVehicle][Raven][12426,3639,0][CarNormal].
+[02-08-22 23:51:32.723] [76561198088278737][ISExitVehicle][big head megamind][12428,3638,0][CarNormal].
+[02-08-22 23:58:47.793] [76561199187795983][ISEnterVehicle][feng min enjoyer][12727,5073,0][M113_Police].
+[02-08-22 23:59:04.806] [76561199187795983][ISExitVehicle][feng min enjoyer][12769,5096,0][M113_Police].
+[02-08-22 23:59:24.900] [76561198088278737][ISEnterVehicle][big head megamind][11469,7018,0][PickUpTruck].
+[02-08-22 23:59:29.324] [76561198088278737][ISExitVehicle][big head megamind][11469,7019,0][PickUpTruck].
+[02-08-22 23:59:54.322] [76561198088278737][ISEnterVehicle][big head megamind][11469,7018,0][PickUpTruck].
+[02-08-22 23:59:59.642] [76561199187795983][ISEnterVehicle][feng min enjoyer][12769,5096,0][M113_Police].
+[03-08-22 00:00:00.895] [76561198088278737][ISExitVehicle][big head megamind][11469,7019,0][PickUpTruck].
+[03-08-22 00:02:16.459] [76561199187795983][ISExitVehicle][feng min enjoyer][12681,5159,0][M113_Police].
+[03-08-22 00:04:31.512] [76561199187795983][ISEnterVehicle][feng min enjoyer][12681,5159,0][M113_Police].
+[03-08-22 00:06:38.234] [76561199187795983][ISExitVehicle][feng min enjoyer][12747,5062,0][M113_Police].
+[03-08-22 00:09:17.600] [76561199187795983][ISEnterVehicle][feng min enjoyer][12747,5062,0][M113_Police].
+[03-08-22 00:11:30.801] [76561199187795983][ISExitVehicle][feng min enjoyer][12748,5053,0][M113_Police].
+[03-08-22 00:13:03.366] [76561199187795983][ISEnterVehicle][feng min enjoyer][12749,5053,0][M113_Police].
+[03-08-22 00:22:25.399] [76561199187795983][ISExitVehicle][feng min enjoyer][12737,5059,0][M113_Police].
+[03-08-22 00:23:31.601] [76561199187795983][ISEnterVehicle][feng min enjoyer][12737,5058,0][M113_Police].
+[03-08-22 00:23:40.490] [76561199187795983][ISExitVehicle][feng min enjoyer][12736,5059,0][M113_Police].
+[03-08-22 00:26:06.886] [76561199187795983][ISEnterVehicle][feng min enjoyer][12738,5058,0][M113_Police].
+[03-08-22 00:26:08.225] [76561199187795983][ISExitVehicle][feng min enjoyer][12738,5056,0][M113_Police].
+[03-08-22 00:26:29.201] [76561199187795983][ISEnterVehicle][feng min enjoyer][12736,5058,0][M113_Police].
+[03-08-22 00:26:32.456] [76561199187795983][ISExitVehicle][feng min enjoyer][12736,5059,0][M113_Police].

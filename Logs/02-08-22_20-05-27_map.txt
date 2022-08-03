@@ -1,0 +1,305 @@
+[02-08-22 20:05:27.631] 76561198086468814 "Raven" removed ClothingDryer (appliances_laundry_01_12) at 12714,5075,0.
+[02-08-22 20:05:46.360] 76561198086468814 "Raven" added ClothingDryer (appliances_laundry_01_14) at 12720.0,5072.0,0.0.
+[02-08-22 20:40:11.794] 76561198086468814 "Raven" added Wooden Crate (carpentry_01_16) at 12723.0,5059.0,1.0.
+[02-08-22 20:40:38.901] 76561198086468814 "Raven" removed IsoObject (furniture_seating_indoor_01_8) at 12716,5060,1.
+[02-08-22 20:55:03.983] 76561199187795983 "feng min enjoyer" added Base.FlameTrap at 12716,5104,0.
+[02-08-22 20:55:50.638] 76561199187795983 "feng min enjoyer" added Base.FlameTrap at 12771,5086,0.
+[02-08-22 20:56:11.843] 76561199187795983 "feng min enjoyer" added Base.FlameTrap at 12785,5056,0.
+[02-08-22 20:56:31.186] 76561199187795983 "feng min enjoyer" added Base.FlameTrap at 12788,5031,0.
+[02-08-22 20:58:38.048] 76561199187795983 "feng min enjoyer" removed Thumpable (construction_01_7) at 12722,5078,0.
+[02-08-22 21:07:41.315] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_17) at 12789,4985,0.
+[02-08-22 21:13:37.773] 76561198086468814 "Raven" removed IsoObject (furniture_tables_high_01_52) at 12742,5032,0.
+[02-08-22 21:13:37.776] 76561198086468814 "Raven" removed IsoObject (furniture_tables_high_01_53) at 12743,5032,0.
+[02-08-22 22:11:15.359] 76561198086468814 "Raven" removed Tent (camping_01_2) at 12492,4000,0.
+[02-08-22 22:11:15.361] 76561198086468814 "Raven" removed Tent (camping_01_3) at 12493,4000,0.
+[02-08-22 22:11:18.181] 76561199187795983 "feng min enjoyer" removed Tent (camping_01_3) at 12519,4097,0.
+[02-08-22 22:11:18.181] 76561199187795983 "feng min enjoyer" removed Tent (camping_01_2) at 12518,4097,0.
+[02-08-22 22:13:44.140] 76561198086468814 "Raven" removed Tent (camping_01_0) at 12535,4050,0.
+[02-08-22 22:13:44.140] 76561198086468814 "Raven" removed IsoObject (camping_01_1) at 12535,4049,0.
+[02-08-22 22:19:44.999] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_57) at 12451,2419,0.
+[02-08-22 22:21:19.906] 76561198086468814 "Raven" removed Door (fixtures_doors_01_4) at 12613,2373,0.
+[02-08-22 22:21:30.535] 76561198086468814 "Raven" removed Door (fixtures_doors_01_5) at 12617,2375,1.
+[02-08-22 22:21:30.589] 76561198086468814 "Raven" removed Door (walls_garage_02_1) at 12546,2409,0.
+[02-08-22 22:21:30.589] 76561198086468814 "Raven" removed Door (walls_garage_02_2) at 12546,2408,0.
+[02-08-22 22:21:30.590] 76561198086468814 "Raven" removed Door (walls_garage_02_0) at 12546,2410,0.
+[02-08-22 22:21:33.650] 76561198086468814 "Raven" removed Door (fixtures_doors_01_57) at 12447,2422,0.
+[02-08-22 22:21:53.278] 76561198086468814 "Raven" removed Door (fixtures_doors_01_4) at 12617,2369,1.
+[02-08-22 22:23:09.187] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_4) at 12613,2373,1.
+[02-08-22 22:23:12.404] 76561198086468814 "Raven" removed Door (fixtures_doors_01_56) at 12441,2421,0.
+[02-08-22 22:26:23.063] 76561198086468814 "Raven" removed Door (fixtures_doors_01_4) at 12614,2370,1.
+[02-08-22 22:26:47.492] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_5) at 12617,2375,0.
+[02-08-22 22:31:01.408] 76561198086468814 "Raven" removed Tent (camping_01_2) at 12467,3911,0.
+[02-08-22 22:31:01.411] 76561198086468814 "Raven" removed Tent (camping_01_3) at 12468,3911,0.
+[02-08-22 22:32:28.987] 76561198086468814 "Raven" removed Tent (camping_01_3) at 12526,4156,0.
+[02-08-22 22:32:28.988] 76561198086468814 "Raven" removed Tent (camping_01_2) at 12525,4156,0.
+[02-08-22 22:39:29.018] 76561198088278737 "big head megamind" removed Door (fixtures_doors_01_52) at 11979,6918,0.
+[02-08-22 22:43:30.285] 76561198088278737 "big head megamind" removed Door (walls_garage_02_4) at 11519,6766,0.
+[02-08-22 22:43:30.285] 76561198088278737 "big head megamind" removed Door (walls_garage_02_4) at 11520,6766,0.
+[02-08-22 22:43:30.286] 76561198088278737 "big head megamind" removed Door (walls_garage_02_5) at 11521,6766,0.
+[02-08-22 22:43:30.286] 76561198088278737 "big head megamind" removed Door (walls_garage_02_3) at 11518,6766,0.
+[02-08-22 22:46:58.108] 76561198088278737 "big head megamind" removed IsoBrokenGlass (brokenglass_1_1) at 11452,6705,0.
+[02-08-22 22:47:33.685] 76561198086468814 "Raven" removed Door (fixtures_doors_01_17) at 12409,3682,1.
+[02-08-22 22:47:45.764] 76561198086468814 "Raven" removed Door (fixtures_doors_01_57) at 12410,3693,1.
+[02-08-22 22:47:47.893] 76561198086468814 "Raven" removed Door (fixtures_doors_01_57) at 12400,3684,1.
+[02-08-22 22:47:51.141] 76561198086468814 "Raven" removed Door (fixtures_doors_01_16) at 12381,3687,2.
+[02-08-22 22:47:54.538] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_61) at 12434,3694,3.
+[02-08-22 22:47:56.660] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_16) at 12390,3620,0.
+[02-08-22 22:47:57.316] 76561198086468814 "Raven" removed Door (fixtures_doors_01_16) at 12384,3711,2.
+[02-08-22 22:48:02.658] 76561198086468814 "Raven" removed Door (fixtures_doors_01_52) at 12413,3689,0.
+[02-08-22 22:48:03.553] 76561198086468814 "Raven" removed Door (fixtures_doors_01_16) at 12414,3711,2.
+[02-08-22 22:48:06.201] 76561198086468814 "Raven" removed Door (fixtures_doors_02_57) at 12403,3696,1.
+[02-08-22 22:48:07.041] 76561198086468814 "Raven" removed Door (fixtures_doors_01_52) at 12396,3712,0.
+[02-08-22 22:48:07.356] 76561198086468814 "Raven" removed Door (fixtures_doors_01_16) at 12430,3691,2.
+[02-08-22 22:48:08.397] 76561198086468814 "Raven" removed Door (fixtures_doors_01_16) at 12388,3710,1.
+[02-08-22 22:48:08.424] 76561198086468814 "Raven" removed Door (fixtures_doors_02_61) at 12422,3689,1.
+[02-08-22 22:48:09.146] 76561198088278737 "big head megamind" removed Door (fixtures_doors_02_4) at 11537,6783,0.
+[02-08-22 22:48:11.022] 76561198086468814 "Raven" removed Door (fixtures_doors_01_21) at 12399,3709,0.
+[02-08-22 22:48:12.393] 76561198086468814 "Raven" removed Door (fixtures_doors_01_16) at 12431,3704,3.
+[02-08-22 22:48:13.660] 76561198086468814 "Raven" removed Door (fixtures_doors_01_61) at 12415,3715,2.
+[02-08-22 22:48:14.894] 76561198086468814 "Raven" removed Door (fixtures_doors_01_64) at 12380,3687,1.
+[02-08-22 22:48:17.453] 76561198086468814 "Raven" removed Door (fixtures_doors_01_16) at 12409,3692,2.
+[02-08-22 22:48:22.380] 76561198086468814 "Raven" removed Door (fixtures_doors_01_64) at 12378,3671,1.
+[02-08-22 22:48:24.393] 76561198086468814 "Raven" removed Door (fixtures_doors_02_61) at 12386,3695,2.
+[02-08-22 22:48:28.445] 76561198086468814 "Raven" removed Door (fixtures_doors_01_64) at 12384,3673,1.
+[02-08-22 22:48:29.615] 76561198086468814 "Raven" removed Door (fixtures_doors_01_4) at 12396,3662,0.
+[02-08-22 22:48:30.101] 76561198086468814 "Raven" removed Door (fixtures_doors_01_64) at 12397,3655,1.
+[02-08-22 22:48:31.031] 76561198086468814 "Raven" removed Door (fixtures_doors_01_52) at 12400,3718,0.
+[02-08-22 22:48:31.381] 76561198086468814 "Raven" removed Door (fixtures_doors_01_17) at 12456,3681,2.
+[02-08-22 22:48:36.905] 76561198086468814 "Raven" removed Door (fixtures_doors_01_16) at 12399,3615,2.
+[02-08-22 22:48:37.758] 76561198086468814 "Raven" removed Door (fixtures_doors_01_4) at 12384,3669,0.
+[02-08-22 22:48:42.787] 76561198086468814 "Raven" removed Door (fixtures_doors_01_16) at 12384,3716,2.
+[02-08-22 22:48:49.521] 76561198086468814 "Raven" removed Door (fixtures_doors_01_53) at 12403,3722,0.
+[02-08-22 22:48:49.806] 76561198086468814 "Raven" removed Door (fixtures_doors_02_56) at 12396,3622,2.
+[02-08-22 22:48:55.232] 76561198086468814 "Raven" removed Door (fixtures_doors_01_52) at 12377,3700,1.
+[02-08-22 22:48:56.195] 76561198086468814 "Raven" removed Door (fixtures_doors_02_41) at 12445,3684,0.
+[02-08-22 22:48:57.924] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_52) at 12366,3613,0.
+[02-08-22 22:48:58.732] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_17) at 12435,3681,2.
+[02-08-22 22:49:00.132] 76561198086468814 "Raven" removed Door (fixtures_doors_01_57) at 12390,3629,2.
+[02-08-22 22:49:01.784] 76561198086468814 "Raven" removed Door (fixtures_doors_01_17) at 12414,3678,2.
+[02-08-22 22:49:01.839] 76561198086468814 "Raven" removed Door (fixtures_doors_01_16) at 12384,3710,1.
+[02-08-22 22:49:04.815] 76561198086468814 "Raven" removed Door (fixtures_doors_01_57) at 12388,3700,3.
+[02-08-22 22:49:06.056] 76561198086468814 "Raven" removed Door (fixtures_doors_02_61) at 12428,3692,1.
+[02-08-22 22:49:07.184] 76561198086468814 "Raven" removed Door (fixtures_doors_01_16) at 12397,3677,1.
+[02-08-22 22:49:08.957] 76561198086468814 "Raven" removed Door (fixtures_doors_02_56) at 12388,3701,1.
+[02-08-22 22:49:09.323] 76561198086468814 "Raven" removed Door (fixtures_doors_01_16) at 12414,3714,2.
+[02-08-22 22:49:12.506] 76561198086468814 "Raven" removed Door (fixtures_doors_02_53) at 12379,3711,0.
+[02-08-22 22:49:13.537] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_61) at 12370,3611,0.
+[02-08-22 22:49:15.833] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_57) at 12427,3692,1.
+[02-08-22 22:49:19.429] 76561198086468814 "Raven" removed Door (fixtures_doors_01_17) at 12410,3701,1.
+[02-08-22 22:49:19.438] 76561198086468814 "Raven" removed Door (fixtures_doors_01_16) at 12401,3711,2.
+[02-08-22 22:49:20.122] 76561198086468814 "Raven" removed Door (fixtures_doors_01_16) at 12440,3705,3.
+[02-08-22 22:49:21.775] 76561198086468814 "Raven" removed Door (fixtures_doors_02_57) at 12385,3704,2.
+[02-08-22 22:49:22.446] 76561198086468814 "Raven" removed Door (fixtures_doors_02_52) at 12407,3698,0.
+[02-08-22 22:49:22.527] 76561198086468814 "Raven" removed Door (fixtures_doors_02_56) at 12381,3662,2.
+[02-08-22 22:49:24.312] 76561198086468814 "Raven" removed Door (fixtures_doors_01_17) at 12416,3682,1.
+[02-08-22 22:49:26.375] 76561198086468814 "Raven" removed Door (fixtures_doors_01_61) at 12419,3694,2.
+[02-08-22 22:49:26.601] 76561198086468814 "Raven" removed Door (fixtures_doors_01_52) at 12377,3700,0.
+[02-08-22 22:49:27.342] 76561198086468814 "Raven" removed Door (fixtures_doors_01_52) at 12377,3700,3.
+[02-08-22 22:49:27.416] 76561198086468814 "Raven" removed Door (fixtures_doors_02_61) at 12390,3712,3.
+[02-08-22 22:49:30.534] 76561198086468814 "Raven" removed Door (fixtures_doors_01_52) at 12396,3715,0.
+[02-08-22 22:49:32.404] 76561198086468814 "Raven" removed Door (fixtures_doors_01_17) at 12379,3661,2.
+[02-08-22 22:49:33.580] 76561198086468814 "Raven" removed Door (fixtures_doors_01_61) at 12442,3694,3.
+[02-08-22 22:49:36.235] 76561198086468814 "Raven" removed Door (fixtures_doors_01_16) at 12399,3604,1.
+[02-08-22 22:49:37.989] 76561198086468814 "Raven" removed Door (fixtures_doors_01_41) at 12373,3619,0.
+[02-08-22 22:49:38.087] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_57) at 12429,3705,0.
+[02-08-22 22:49:39.355] 76561198086468814 "Raven" removed Door (fixtures_doors_02_57) at 12381,3712,3.
+[02-08-22 22:49:39.709] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_16) at 12399,3615,1.
+[02-08-22 22:49:41.014] 76561198086468814 "Raven" removed Door (fixtures_doors_01_60) at 12407,3716,0.
+[02-08-22 22:49:41.860] 76561198086468814 "Raven" removed Door (fixtures_doors_01_53) at 12388,3718,2.
+[02-08-22 22:49:50.523] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_53) at 12427,3699,0.
+[02-08-22 22:49:52.576] 76561198086468814 "Raven" removed Door (fixtures_doors_01_16) at 12424,3703,2.
+[02-08-22 22:49:52.894] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_21) at 12390,3633,2.
+[02-08-22 22:49:56.357] 76561198086468814 "Raven" removed Door (fixtures_doors_01_52) at 12395,3608,0.
+[02-08-22 22:50:00.336] 76561198086468814 "Raven" removed Door (fixtures_doors_01_52) at 12396,3718,0.
+[02-08-22 22:50:10.637] 76561198086468814 "Raven" removed Door (fixtures_doors_01_17) at 12405,3678,1.
+[02-08-22 22:50:13.710] 76561198086468814 "Raven" removed Door (fixtures_doors_02_60) at 12402,3682,1.
+[02-08-22 22:50:18.977] 76561198086468814 "Raven" removed Door (fixtures_doors_01_17) at 12431,3678,2.
+[02-08-22 22:50:22.456] 76561198086468814 "Raven" removed Door (fixtures_doors_01_57) at 12403,3700,3.
+[02-08-22 22:50:22.755] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_17) at 12425,3701,1.
+[02-08-22 22:50:29.246] 76561198086468814 "Raven" removed Door (fixtures_doors_02_61) at 12430,3705,0.
+[02-08-22 22:50:58.859] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_60) at 12427,3714,3.
+[02-08-22 22:50:59.826] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_16) at 12409,3672,2.
+[02-08-22 22:51:01.987] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_40) at 12456,3695,0.
+[02-08-22 22:51:05.047] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_56) at 12430,3684,2.
+[02-08-22 22:51:41.545] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_60) at 12407,3673,0.
+[02-08-22 22:51:53.066] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_61) at 12427,3715,2.
+[02-08-22 22:51:54.694] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_56) at 12430,3687,2.
+[02-08-22 22:51:58.858] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_61) at 12404,3696,1.
+[02-08-22 22:52:00.880] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_56) at 12385,3637,1.
+[02-08-22 22:52:01.020] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_56) at 12402,3681,1.
+[02-08-22 22:52:04.486] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_64) at 12415,3683,1.
+[02-08-22 22:52:11.593] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_52) at 12377,3700,2.
+[02-08-22 22:52:13.270] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_60) at 12385,3638,1.
+[02-08-22 22:52:13.826] 76561198088278737 "big head megamind" removed Door (fixtures_doors_01_45) at 11507,6736,0.
+[02-08-22 22:52:16.298] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_60) at 12386,3621,0.
+[02-08-22 22:52:17.486] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_45) at 12446,3684,0.
+[02-08-22 22:52:18.798] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_61) at 12379,3689,0.
+[02-08-22 22:52:19.227] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_61) at 12410,3705,0.
+[02-08-22 22:52:29.503] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_56) at 12407,3672,0.
+[02-08-22 22:52:30.411] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_64) at 12381,3655,1.
+[02-08-22 22:52:32.537] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_52) at 12395,3608,2.
+[02-08-22 22:52:36.109] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_49) at 12378,3711,0.
+[02-08-22 22:52:41.643] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_60) at 12384,3705,2.
+[02-08-22 22:52:42.258] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_52) at 12366,3632,0.
+[02-08-22 22:52:42.279] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_60) at 12386,3615,0.
+[02-08-22 22:52:43.855] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_48) at 12407,3697,0.
+[02-08-22 22:52:47.715] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_52) at 12395,3608,1.
+[02-08-22 22:52:49.996] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_16) at 12379,3623,1.
+[02-08-22 22:53:00.650] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_17) at 12412,3678,1.
+[02-08-22 22:53:05.234] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_41) at 12367,3619,0.
+[02-08-22 22:53:18.444] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_60) at 12381,3663,2.
+[02-08-22 22:53:20.205] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_16) at 12395,3604,2.
+[02-08-22 22:53:23.861] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_16) at 12399,3615,0.
+[02-08-22 22:53:29.986] 76561198088278737 "big head megamind" removed Door (fixtures_doors_01_1) at 11528,6781,0.
+[02-08-22 22:53:30.377] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_61) at 12385,3629,0.
+[02-08-22 22:53:52.085] 76561198088278737 "big head megamind" removed Radio (appliances_radio_01_0) at 11451,6703,0.
+[02-08-22 22:53:56.013] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_52) at 12369,3631,0.
+[02-08-22 22:53:58.484] 76561198086468814 "Raven" removed Door (fixtures_doors_01_16) at 11318,6793,0.
+[02-08-22 22:53:59.528] 76561198086468814 "Raven" removed Door (fixtures_doors_02_8) at 11324,6784,0.
+[02-08-22 22:54:00.558] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_52) at 12369,3631,1.
+[02-08-22 22:54:06.831] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_4) at 12396,3669,0.
+[02-08-22 22:54:10.813] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_57) at 12371,3629,2.
+[02-08-22 22:54:13.977] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_60) at 12396,3623,2.
+[02-08-22 22:54:28.869] 76561198088278737 "big head megamind" removed Door (walls_garage_01_49) at 11529,6789,0.
+[02-08-22 22:54:28.869] 76561198088278737 "big head megamind" removed Door (walls_garage_01_49) at 11529,6788,0.
+[02-08-22 22:54:28.870] 76561198088278737 "big head megamind" removed Door (walls_garage_01_50) at 11529,6787,0.
+[02-08-22 22:54:28.870] 76561198088278737 "big head megamind" removed Door (walls_garage_01_48) at 11529,6790,0.
+[02-08-22 22:54:30.095] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_53) at 12390,3603,0.
+[02-08-22 22:54:51.655] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_57) at 12369,3620,1.
+[02-08-22 22:54:58.073] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_20) at 12374,3664,1.
+[02-08-22 22:55:00.932] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_40) at 12375,3625,0.
+[02-08-22 22:55:01.475] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_57) at 12377,3614,1.
+[02-08-22 22:55:11.965] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_17) at 12366,3661,2.
+[02-08-22 22:55:18.395] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_56) at 12397,3662,2.
+[02-08-22 22:55:27.604] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_52) at 12369,3631,2.
+[02-08-22 22:55:32.910] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_61) at 12399,3640,2.
+[02-08-22 22:55:39.939] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_21) at 12367,3618,1.
+[02-08-22 22:55:44.127] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_17) at 12372,3633,0.
+[02-08-22 22:55:44.697] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_57) at 12390,3613,0.
+[02-08-22 22:55:56.796] 76561198088278737 "big head megamind" removed Door (fixtures_doors_01_0) at 11534,6784,0.
+[02-08-22 22:56:00.716] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_57) at 12386,3629,2.
+[02-08-22 22:56:45.718] 76561198088278737 "big head megamind" removed Door (fixtures_doors_02_4) at 11527,6782,0.
+[02-08-22 22:56:48.551] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_61) at 12375,3675,2.
+[02-08-22 22:56:57.660] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_52) at 12373,3705,0.
+[02-08-22 22:56:58.553] 76561198088278737 "big head megamind" removed Door (fixtures_doors_01_0) at 11533,6778,1.
+[02-08-22 22:56:59.009] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_16) at 12399,3604,2.
+[02-08-22 22:56:59.775] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_61) at 12374,3667,0.
+[02-08-22 22:57:00.761] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_17) at 12373,3633,1.
+[02-08-22 22:57:04.268] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_57) at 12398,3671,1.
+[02-08-22 22:57:05.523] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_16) at 12401,3714,2.
+[02-08-22 22:57:05.738] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_21) at 12376,3711,0.
+[02-08-22 22:57:08.412] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_57) at 12398,3640,2.
+[02-08-22 22:57:17.402] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_60) at 12388,3702,1.
+[02-08-22 22:57:21.373] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_53) at 12393,3722,0.
+[02-08-22 22:57:31.268] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_16) at 12399,3604,0.
+[02-08-22 22:57:33.609] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_52) at 12392,3621,2.
+[02-08-22 22:57:34.311] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_60) at 12367,3674,0.
+[02-08-22 22:57:35.577] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_61) at 12386,3704,2.
+[02-08-22 22:57:39.425] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_48) at 12379,3712,3.
+[02-08-22 22:57:46.654] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_57) at 12409,3705,0.
+[02-08-22 22:57:47.367] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_61) at 12420,3712,3.
+[02-08-22 22:57:50.006] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_49) at 12378,3706,0.
+[02-08-22 22:57:55.602] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_16) at 12373,3677,2.
+[02-08-22 22:57:56.402] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_56) at 12440,3716,0.
+[02-08-22 22:58:03.415] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_61) at 12379,3629,0.
+[02-08-22 22:58:03.690] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_56) at 12440,3720,0.
+[02-08-22 22:58:15.456] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_57) at 12385,3695,2.
+[02-08-22 22:58:19.081] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_53) at 12379,3706,0.
+[02-08-22 22:58:30.681] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_57) at 12431,3715,2.
+[02-08-22 22:58:36.523] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_57) at 12378,3689,0.
+[02-08-22 22:58:41.708] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_16) at 12440,3715,2.
+[02-08-22 22:58:44.366] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_17) at 12373,3610,2.
+[02-08-22 22:58:45.109] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_57) at 12385,3700,3.
+[02-08-22 22:58:47.888] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_17) at 12382,3633,2.
+[02-08-22 22:58:51.422] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_57) at 12390,3613,2.
+[02-08-22 22:58:52.405] 76561198086468814 "Raven" removed Door (fixtures_doors_02_5) at 11210,6730,0.
+[02-08-22 22:58:55.624] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_57) at 12431,3715,3.
+[02-08-22 22:59:00.589] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_52) at 12384,3685,1.
+[02-08-22 22:59:08.855] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_16) at 12389,3688,3.
+[02-08-22 22:59:28.574] 76561198086468814 "Raven" removed Door (fixtures_doors_01_16) at 11318,6790,0.
+[02-08-22 22:59:33.277] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_20) at 12393,3685,1.
+[02-08-22 22:59:39.300] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_20) at 12384,3698,1.
+[02-08-22 22:59:42.559] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_17) at 12418,3678,1.
+[02-08-22 22:59:44.641] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_60) at 12401,3714,3.
+[02-08-22 22:59:48.409] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_61) at 12407,3712,3.
+[02-08-22 22:59:54.634] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_20) at 12382,3707,0.
+[02-08-22 23:00:12.896] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_57) at 12374,3675,2.
+[02-08-22 23:00:15.573] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_60) at 12397,3663,2.
+[02-08-22 23:00:38.266] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_17) at 12368,3684,2.
+[02-08-22 23:00:52.352] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_17) at 12370,3633,2.
+[02-08-22 23:01:12.341] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_61) at 12385,3611,0.
+[02-08-22 23:01:14.443] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_57) at 12411,3699,2.
+[02-08-22 23:01:17.057] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_57) at 12382,3665,2.
+[02-08-22 23:01:27.101] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_56) at 12381,3704,2.
+[02-08-22 23:01:34.511] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_32) at 12384,3691,1.
+[02-08-22 23:01:48.756] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_20) at 12401,3679,0.
+[02-08-22 23:02:31.210] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_57) at 12372,3656,1.
+[02-08-22 23:02:38.431] 76561199187795983 "feng min enjoyer" removed Door (fixtures_bathroom_01_49) at 12438,3719,0.
+[02-08-22 23:02:43.673] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_53) at 12434,3706,0.
+[02-08-22 23:02:55.154] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_02_44) at 12456,3707,0.
+[02-08-22 23:03:20.236] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_53) at 12387,3610,2.
+[02-08-22 23:04:31.281] 76561199187795983 "feng min enjoyer" removed Door (fixtures_doors_01_53) at 12402,3721,2.
+[02-08-22 23:05:17.055] 76561198086468814 "Raven" removed Door (fixtures_doors_01_45) at 11220,6788,0.
+[02-08-22 23:06:31.021] 76561199187795983 "feng min enjoyer" removed Tent (camping_01_0) at 12519,4112,0.
+[02-08-22 23:06:31.021] 76561199187795983 "feng min enjoyer" removed Tent (camping_01_1) at 12519,4111,0.
+[02-08-22 23:09:45.805] 76561198086468814 "Raven" removed Door (fixtures_doors_02_5) at 11723,6724,0.
+[02-08-22 23:10:28.408] 76561198086468814 "Raven" removed Door (fixtures_doors_01_44) at 11755,6747,0.
+[02-08-22 23:10:48.455] 76561198086468814 "Raven" removed Door (fixtures_doors_02_5) at 11751,6725,0.
+[02-08-22 23:10:56.661] 76561198086468814 "Raven" removed Door (fixtures_doors_01_1) at 11747,6748,0.
+[02-08-22 23:11:10.946] 76561198086468814 "Raven" removed Door (fixtures_doors_02_5) at 11755,6732,0.
+[02-08-22 23:11:17.506] 76561198088278737 "big head megamind" removed Door (fixtures_doors_02_4) at 11793,6819,0.
+[02-08-22 23:11:20.913] 76561198086468814 "Raven" removed Door (fixtures_doors_01_5) at 11755,6730,0.
+[02-08-22 23:11:29.332] 76561198088278737 "big head megamind" removed Door (fixtures_doors_02_5) at 11733,6789,0.
+[02-08-22 23:11:36.566] 76561198086468814 "Raven" removed Door (fixtures_doors_02_5) at 11772,6745,0.
+[02-08-22 23:11:52.317] 76561198088278737 "big head megamind" removed Door (fixtures_doors_01_1) at 11748,6822,0.
+[02-08-22 23:12:02.458] 76561198086468814 "Raven" removed Door (fixtures_doors_02_4) at 11731,6730,0.
+[02-08-22 23:12:15.193] 76561198088278737 "big head megamind" removed Door (fixtures_doors_01_5) at 11774,6747,0.
+[02-08-22 23:12:23.368] 76561198086468814 "Raven" removed Door (fixtures_doors_01_13) at 11739,6688,0.
+[02-08-22 23:12:28.088] 76561198088278737 "big head megamind" removed Door (fixtures_doors_01_4) at 11755,6795,0.
+[02-08-22 23:12:31.669] 76561198088278737 "big head megamind" removed Door (fixtures_doors_02_5) at 11734,6798,0.
+[02-08-22 23:12:38.955] 76561198086468814 "Raven" removed Door (fixtures_doors_01_5) at 11752,6730,0.
+[02-08-22 23:12:40.185] 76561198088278737 "big head megamind" removed Door (fixtures_doors_01_1) at 11791,6803,0.
+[02-08-22 23:13:11.537] 76561198086468814 "Raven" removed Door (fixtures_doors_01_13) at 11727,6730,0.
+[02-08-22 23:13:33.172] 76561198086468814 "Raven" removed Door (fixtures_doors_01_5) at 11772,6747,0.
+[02-08-22 23:16:24.755] 76561198088278737 "big head megamind" removed Door (fixtures_doors_01_12) at 11725,6729,0.
+[02-08-22 23:16:32.139] 76561198086468814 "Raven" removed Door (fixtures_doors_01_0) at 11415,6668,0.
+[02-08-22 23:17:36.509] 76561198086468814 "Raven" removed Door (fixtures_doors_01_1) at 11496,6727,0.
+[02-08-22 23:54:11.608] 76561198088278737 "big head megamind" removed Door (fixtures_doors_01_24) at 12429,3526,0.
+[02-08-22 23:57:49.108] 76561198086468814 "Raven" removed Door (fixtures_doors_01_17) at 12383,3610,2.
+[02-08-22 23:58:45.524] 76561198086468814 "Raven" removed Door (fixtures_doors_01_17) at 12368,3610,2.
+[02-08-22 23:58:45.889] 76561198086468814 "Raven" removed Door (fixtures_doors_02_56) at 12367,3673,0.
+[03-08-22 00:01:42.890] 76561198086468814 "Raven" removed Door (fixtures_doors_02_44) at 12375,3626,0.
+[03-08-22 00:01:54.129] 76561198086468814 "Raven" removed Door (location_shop_fossoil_01_60) at 12431,3535,0.
+[03-08-22 00:04:20.227] 76561198086468814 "Raven" removed Door (fixtures_doors_01_17) at 12373,3610,1.
+[03-08-22 00:05:16.024] 76561198088278737 "big head megamind" removed Door (fixtures_doors_01_12) at 11565,6979,0.
+[03-08-22 00:06:59.235] 76561198088278737 "big head megamind" removed Door (fixtures_doors_01_13) at 11566,6979,0.
+[03-08-22 00:07:13.005] 76561198086468814 "Raven" removed Door (fixtures_doors_01_17) at 12419,3690,2.
+[03-08-22 00:07:41.561] 76561198086468814 "Raven" removed Door (fixtures_doors_01_56) at 12378,3673,2.
+[03-08-22 00:07:52.300] 76561198086468814 "Raven" removed Door (fixtures_doors_01_57) at 12416,3699,2.
+[03-08-22 00:08:09.988] 76561198086468814 "Raven" removed Door (fixtures_doors_01_33) at 12420,3707,3.
+[03-08-22 00:08:59.993] 76561198086468814 "Raven" removed Door (fixtures_doors_01_17) at 12378,3610,1.
+[03-08-22 00:09:42.400] 76561198086468814 "Raven" removed Door (fixtures_doors_01_32) at 12448,3683,0.
+[03-08-22 00:10:56.271] 76561198086468814 "Raven" removed Door (fixtures_doors_01_32) at 12452,3683,0.
+[03-08-22 00:11:40.543] 76561198086468814 "Raven" removed Door (fixtures_doors_01_16) at 12392,3688,3.
+[03-08-22 00:12:35.142] 76561198088278737 "big head megamind" removed Door (fixtures_doors_01_12) at 11539,6986,0.
+[03-08-22 00:14:38.061] 76561198086468814 "Raven" removed Door (fixtures_doors_02_49) at 12395,3708,3.
+[03-08-22 00:15:23.410] 76561198086468814 "Raven" removed Door (fixtures_doors_01_4) at 12369,3638,0.
+[03-08-22 00:15:51.344] 76561198088278737 "big head megamind" removed Door (fixtures_doors_01_12) at 11537,6983,0.
+[03-08-22 00:16:15.935] 76561198086468814 "Raven" removed Door (fixtures_doors_01_56) at 12378,3669,2.
+[03-08-22 00:17:22.152] 76561198086468814 "Raven" removed Door (fixtures_doors_01_17) at 12368,3688,2.
+[03-08-22 00:18:13.504] 76561198086468814 "Raven" removed Door (fixtures_doors_01_17) at 12368,3610,1.
+[03-08-22 00:19:25.665] 76561198086468814 "Raven" removed Door (fixtures_doors_02_40) at 12439,3692,0.
+[03-08-22 00:19:41.126] 76561198086468814 "Raven" removed Door (fixtures_doors_01_17) at 12366,3672,2.
+[03-08-22 00:20:09.266] 76561198086468814 "Raven" removed Door (fixtures_doors_01_56) at 12418,3688,2.
+[03-08-22 00:22:37.012] 76561198086468814 "Raven" removed Door (fixtures_doors_01_20) at 12401,3694,0.
+[03-08-22 00:24:14.950] 76561198086468814 "Raven" removed Door (fixtures_doors_01_21) at 12381,3675,2.
+[03-08-22 00:24:23.857] 76561198086468814 "Raven" removed Door (fixtures_doors_01_17) at 12393,3688,2.
+[03-08-22 00:28:12.180] 76561198086468814 "Raven" removed Door (fixtures_doors_01_21) at 12367,3614,1.
+[03-08-22 00:30:39.478] 76561198086468814 "Raven" removed Door (fixtures_doors_01_17) at 12378,3610,2.
+[03-08-22 00:30:46.274] 76561198086468814 "Raven" removed Door (fixtures_doors_02_57) at 12391,3675,2.
+[03-08-22 00:31:41.024] 76561198088278737 "big head megamind" removed Door (fixtures_doors_01_1) at 11440,7014,0.
+[03-08-22 00:33:00.565] 76561198088278737 "big head megamind" removed Door (fixtures_doors_01_0) at 11439,7008,0.
+[03-08-22 00:33:39.926] 76561198086468814 "Raven" removed Door (fixtures_doors_02_61) at 12392,3675,2.
+[03-08-22 00:34:17.806] 76561198088278737 "big head megamind" removed Door (fixtures_doors_01_0) at 11442,7012,0.
+[03-08-22 00:34:35.878] 76561198088278737 "big head megamind" removed Door (fixtures_doors_01_0) at 11440,7012,0.
+[03-08-22 00:39:42.277] 76561198086468814 "Raven" removed Door (fixtures_doors_02_57) at 12369,3611,0.

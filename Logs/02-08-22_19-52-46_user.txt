@@ -1,0 +1,73 @@
+[02-08-22 19:52:46.447] added connection index=0 76561198086468814.
+[02-08-22 19:52:46.607] 76561198086468814 "Raven" attempting to join.
+[02-08-22 19:52:46.608] 76561198086468814 "Raven" allowed to join.
+[02-08-22 19:53:02.760] 76561198086468814 "Raven" attempting to join used queue.
+[02-08-22 19:53:27.903] player Raven loading time was: 23816 ms.
+[02-08-22 19:53:36.757] 76561198086468814 "Raven" fully connected (12718,5063,1).
+[02-08-22 19:54:00.816] added connection index=1 76561199187795983.
+[02-08-22 19:54:00.989] 76561199187795983 "feng min enjoyer" attempting to join.
+[02-08-22 19:54:00.990] 76561199187795983 "feng min enjoyer" allowed to join.
+[02-08-22 19:56:05.096] 76561199187795983 "feng min enjoyer" attempting to join used queue.
+[02-08-22 19:56:47.570] player feng min enjoyer loading time was: 39459 ms.
+[02-08-22 20:00:13.080] 76561199187795983 "feng min enjoyer" fully connected (12721,5057,1).
+[02-08-22 21:29:49.162] 76561199187795983 "feng min enjoyer" removed connection index=1.
+[02-08-22 21:29:49.177] 76561199187795983 "feng min enjoyer" disconnected player (12739,5075,0).
+[02-08-22 21:43:18.238] added connection index=1 76561199187795983.
+[02-08-22 21:43:18.239] 76561199187795983 "feng min enjoyer" attempting to join.
+[02-08-22 21:43:18.240] 76561199187795983 "feng min enjoyer" allowed to join.
+[02-08-22 21:45:20.840] 76561199187795983 "feng min enjoyer" attempting to join used queue.
+[02-08-22 21:45:39.450] player feng min enjoyer loading time was: 16583 ms.
+[02-08-22 21:46:27.075] 76561199187795983 "feng min enjoyer" fully connected (12739,5075,0).
+[02-08-22 21:56:57.891] added connection index=2 76561198233812488.
+[02-08-22 21:56:58.010] access denied: user "Mo Money Mo Randy" client version (41.71) does not match server version (41.73).
+[02-08-22 21:56:58.013] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" attempting to join.
+[02-08-22 21:56:58.013] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" allowed to join.
+[02-08-22 21:56:58.016] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" removed connection index=2.
+[02-08-22 22:36:11.747] added connection index=2 76561198088278737.
+[02-08-22 22:36:11.906] 76561198088278737 "big head megamind" attempting to join.
+[02-08-22 22:36:11.906] 76561198088278737 "big head megamind" allowed to join.
+[02-08-22 22:36:40.154] 76561198088278737 "big head megamind" attempting to join used queue.
+[02-08-22 22:37:07.563] player big head megamind loading time was: 26132 ms.
+[02-08-22 22:37:18.282] 76561198088278737 "big head megamind" fully connected (12029,6917,0).
+[02-08-22 22:39:22.009] user big head megamind died at (12043,6899,0) (non pvp).
+[02-08-22 22:41:37.647] 76561198088278737 "big head megamind" disconnected player (12043,6899,0).
+[02-08-22 22:41:40.059] 76561198088278737 "big head megamind" fully connected (11494,6702,0).
+[02-08-22 22:48:22.293] added connection index=3 76561198233812488.
+[02-08-22 22:48:22.407] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" attempting to join.
+[02-08-22 22:48:22.407] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" allowed to join.
+[02-08-22 22:49:10.746] user Raven died at (12466,3642,0) (non pvp).
+[02-08-22 22:49:32.366] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" attempting to join used queue.
+[02-08-22 22:49:37.923] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" removed connection index=3.
+[02-08-22 22:50:51.002] 76561198086468814 "Raven" disconnected player (12466,3642,0).
+[02-08-22 22:50:53.208] 76561198086468814 "Raven" fully connected (11297,6730,0).
+[02-08-22 22:51:19.303] added connection index=3 76561198233812488.
+[02-08-22 22:51:19.377] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" attempting to join.
+[02-08-22 22:51:19.377] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" allowed to join.
+[02-08-22 22:51:36.145] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" attempting to join used queue.
+[02-08-22 22:51:58.651] player Mo Money Mo Randy loading time was: 21966 ms.
+[02-08-22 23:08:19.369] user Raven died at (11326,6851,0) (non pvp).
+[02-08-22 23:08:40.287] user big head megamind died at (11317,6850,0) (non pvp).
+[02-08-22 23:08:44.242] 76561198086468814 "Raven" disconnected player (11326,6851,0).
+[02-08-22 23:08:46.426] 76561198086468814 "Raven" fully connected (11759,6684,0).
+[02-08-22 23:10:18.774] 76561198088278737 "big head megamind" disconnected player (11317,6850,0).
+[02-08-22 23:10:21.151] 76561198088278737 "big head megamind" fully connected (11792,6786,0).
+[02-08-22 23:11:53.440] user big head megamind died at (11776,6784,0) (non pvp).
+[02-08-22 23:12:08.245] user Raven died at (11761,6698,0) (non pvp).
+[02-08-22 23:12:56.751] 76561198088278737 "big head megamind" disconnected player (11776,6784,0).
+[02-08-22 23:12:59.128] 76561198088278737 "big head megamind" fully connected (11643,6696,0).
+[02-08-22 23:13:33.518] 76561198086468814 "Raven" disconnected player (11761,6698,0).
+[02-08-22 23:13:35.817] 76561198086468814 "Raven" fully connected (11494,6702,0).
+[02-08-22 23:27:54.847] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" fully connected (12720,5060,1).
+[02-08-22 23:30:06.960] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" removed connection index=3.
+[02-08-22 23:30:06.972] 76561198233812488(owner=76561198967183027) "Mo Money Mo Randy" disconnected player (12727,5072,0).
+[02-08-22 23:53:30.746] user big head megamind died at (12423,3591,0) (non pvp).
+[02-08-22 23:54:58.724] 76561198088278737 "big head megamind" disconnected player (12423,3591,0).
+[02-08-22 23:55:01.237] 76561198088278737 "big head megamind" fully connected (12021,6914,0).
+[02-08-22 23:57:13.245] user big head megamind died at (11969,6858,0) (non pvp).
+[02-08-22 23:57:35.322] 76561198088278737 "big head megamind" disconnected player (11969,6858,0).
+[02-08-22 23:57:37.856] 76561198088278737 "big head megamind" fully connected (11480,7024,0).
+[03-08-22 00:00:54.368] user Raven died at (12416,3620,0) (non pvp).
+[03-08-22 00:38:51.923] 76561199187795983 "feng min enjoyer" removed connection index=1.
+[03-08-22 00:38:51.944] 76561199187795983 "feng min enjoyer" disconnected player (12738,5057,0).
+[03-08-22 00:40:59.086] 76561198086468814 "Raven" removed connection index=0.
+[03-08-22 00:40:59.099] 76561198086468814 "Raven" disconnected player (12416,3620,0).

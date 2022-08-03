@@ -1,0 +1,238 @@
+[02-08-22 19:52:46.581] Receive Login: login-queue=[0/0/""] connections=[1/1/1/1] players=[0/0/0/0].
+[02-08-22 19:52:46.592] Receive Login: connection guid="999799117491307875" username="null" access="1" ip="null" steamID="0" players="0" preferred="false" wait="false" queued="false" full="false" mtu="1200".
+[02-08-22 19:52:46.593] Receive Login: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 19:52:46.602] Receive Login: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="192.168.1.115" port="56254".
+[02-08-22 19:52:46.612] Receive Client Connect: login-queue=[0/0/""] connections=[1/1/1/1] players=[0/0/0/0].
+[02-08-22 19:52:46.612] Receive Client Connect: connection guid="999799117491307875" username="Raven" access="1" ip="34.24.227.18" steamID="76561198086468814" players="0" preferred="false" wait="false" queued="false" full="false" mtu="1200".
+[02-08-22 19:52:46.612] Receive Client Connect: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 19:52:46.613] Receive Client Connect: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="192.168.1.115" port="56254".
+[02-08-22 19:53:02.762] Receive server queue request: login-queue=[0/0/"999799117491307875"] connections=[1/1/1/1] players=[0/0/1/1].
+[02-08-22 19:53:02.762] Receive server queue request: connection guid="999799117491307875" username="Raven" access="1" ip="34.24.227.18" steamID="76561198086468814" players="0" preferred="false" wait="false" queued="true" full="false" mtu="1200".
+[02-08-22 19:53:02.762] Receive server queue request: players 0=[0] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 19:53:02.763] Receive server queue request: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="192.168.1.115" port="56254".
+[02-08-22 19:53:27.903] Receive queue done: login-queue=[0/0/""] connections=[1/1/1/1] players=[0/0/1/1].
+[02-08-22 19:53:27.903] Receive queue done: connection guid="999799117491307875" username="Raven" access="1" ip="34.24.227.18" steamID="76561198086468814" players="0" preferred="false" wait="false" queued="true" full="false" mtu="1200".
+[02-08-22 19:53:27.903] Receive queue done: players 0=[0] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 19:53:27.904] Receive queue done: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="192.168.1.115" port="56254".
+[02-08-22 19:53:36.177] Receive Player Connect: login-queue=[0/0/""] connections=[1/1/1/1] players=[0/0/1/1].
+[02-08-22 19:53:36.177] Receive Player Connect: connection guid="999799117491307875" username="Raven" access="1" ip="34.24.227.18" steamID="76561198086468814" players="0" preferred="false" wait="false" queued="true" full="false" mtu="1200".
+[02-08-22 19:53:36.177] Receive Player Connect: players 0=[0] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 19:53:36.177] Receive Player Connect: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="192.168.1.115" port="56254".
+[02-08-22 19:53:36.736] Player Fully Connected: login-queue=[0/0/""] connections=[1/1/1/1] players=[1/1/1/1].
+[02-08-22 19:53:36.736] Player Fully Connected: connection guid="999799117491307875" username="Raven" access="1" ip="34.24.227.18" steamID="76561198086468814" players="1" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 19:53:36.737] Player Fully Connected: players 0=[0 0 Raven] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 19:53:36.737] Player Fully Connected: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="192.168.1.115" port="56254".
+[02-08-22 19:54:00.988] Receive Login: login-queue=[0/0/""] connections=[2/2/2/2] players=[1/1/1/1].
+[02-08-22 19:54:00.988] Receive Login: connection guid="319756026553868981" username="null" access="1" ip="null" steamID="0" players="0" preferred="false" wait="false" queued="false" full="false" mtu="1200".
+[02-08-22 19:54:00.988] Receive Login: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 19:54:00.988] Receive Login: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="89.36.78.183" port="63650".
+[02-08-22 19:54:00.990] Receive Client Connect: login-queue=[0/0/""] connections=[2/2/2/2] players=[1/1/1/1].
+[02-08-22 19:54:00.990] Receive Client Connect: connection guid="319756026553868981" username="feng min enjoyer" access="1" ip="35.24.227.18" steamID="76561199187795983" players="0" preferred="false" wait="false" queued="false" full="false" mtu="1200".
+[02-08-22 19:54:00.990] Receive Client Connect: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 19:54:00.991] Receive Client Connect: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="89.36.78.183" port="63650".
+[02-08-22 19:56:05.096] Receive server queue request: login-queue=[0/0/"319756026553868981"] connections=[2/2/2/2] players=[1/1/2/2].
+[02-08-22 19:56:05.096] Receive server queue request: connection guid="319756026553868981" username="feng min enjoyer" access="1" ip="35.24.227.18" steamID="76561199187795983" players="0" preferred="false" wait="false" queued="true" full="false" mtu="1200".
+[02-08-22 19:56:05.096] Receive server queue request: players 0=[4] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 19:56:05.096] Receive server queue request: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="89.36.78.183" port="63650".
+[02-08-22 19:56:47.570] Receive queue done: login-queue=[0/0/""] connections=[2/2/2/2] players=[1/1/2/2].
+[02-08-22 19:56:47.570] Receive queue done: connection guid="319756026553868981" username="feng min enjoyer" access="1" ip="35.24.227.18" steamID="76561199187795983" players="0" preferred="false" wait="false" queued="true" full="false" mtu="1200".
+[02-08-22 19:56:47.570] Receive queue done: players 0=[4] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 19:56:47.570] Receive queue done: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="89.36.78.183" port="63650".
+[02-08-22 20:00:13.076] Receive Player Connect: login-queue=[0/0/""] connections=[2/2/2/2] players=[1/1/2/2].
+[02-08-22 20:00:13.076] Receive Player Connect: connection guid="319756026553868981" username="feng min enjoyer" access="1" ip="35.24.227.18" steamID="76561199187795983" players="0" preferred="false" wait="false" queued="true" full="false" mtu="1200".
+[02-08-22 20:00:13.076] Receive Player Connect: players 0=[4] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 20:00:13.076] Receive Player Connect: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="89.36.78.183" port="63650".
+[02-08-22 20:00:13.079] Player Fully Connected: login-queue=[0/0/""] connections=[2/2/2/2] players=[2/2/2/2].
+[02-08-22 20:00:13.079] Player Fully Connected: connection guid="319756026553868981" username="feng min enjoyer" access="1" ip="35.24.227.18" steamID="76561199187795983" players="1" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 20:00:13.079] Player Fully Connected: players 0=[4 4 feng min enjoyer] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 20:00:13.079] Player Fully Connected: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="89.36.78.183" port="63650".
+[02-08-22 21:29:49.160] Receive Disconnect [21]: login-queue=[0/0/""] connections=[2/1/1/1] players=[2/2/2/2].
+[02-08-22 21:29:49.178] Disconnect [receive-disconnect]: login-queue=[0/0/""] connections=[1/1/1/1] players=[1/1/1/1].
+[02-08-22 21:29:49.178] Disconnect [receive-disconnect]: connection guid="319756026553868981" username="feng min enjoyer" access="1" ip="35.24.227.18" steamID="76561199187795983" players="0" preferred="false" wait="false" queued="true" full="true" mtu="576".
+[02-08-22 21:29:49.178] Disconnect [receive-disconnect]: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 21:29:49.178] Disconnect [receive-disconnect]: session active="false" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="0.0.0.0" port="0".
+[02-08-22 21:43:18.238] Receive Login: login-queue=[0/0/""] connections=[2/2/2/2] players=[1/1/1/1].
+[02-08-22 21:43:18.238] Receive Login: connection guid="319756026553868981" username="null" access="1" ip="null" steamID="0" players="0" preferred="false" wait="false" queued="false" full="false" mtu="1200".
+[02-08-22 21:43:18.238] Receive Login: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 21:43:18.238] Receive Login: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="89.36.78.183" port="57501".
+[02-08-22 21:43:18.240] Receive Client Connect: login-queue=[0/0/""] connections=[2/2/2/2] players=[1/1/1/1].
+[02-08-22 21:43:18.240] Receive Client Connect: connection guid="319756026553868981" username="feng min enjoyer" access="1" ip="36.24.227.18" steamID="76561199187795983" players="0" preferred="false" wait="false" queued="false" full="false" mtu="1200".
+[02-08-22 21:43:18.240] Receive Client Connect: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 21:43:18.240] Receive Client Connect: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="89.36.78.183" port="57501".
+[02-08-22 21:45:20.840] Receive server queue request: login-queue=[0/0/"319756026553868981"] connections=[2/2/2/2] players=[1/1/2/2].
+[02-08-22 21:45:20.840] Receive server queue request: connection guid="319756026553868981" username="feng min enjoyer" access="1" ip="36.24.227.18" steamID="76561199187795983" players="0" preferred="false" wait="false" queued="true" full="false" mtu="1200".
+[02-08-22 21:45:20.840] Receive server queue request: players 0=[4] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 21:45:20.841] Receive server queue request: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="89.36.78.183" port="57501".
+[02-08-22 21:45:39.450] Receive queue done: login-queue=[0/0/""] connections=[2/2/2/2] players=[1/1/2/2].
+[02-08-22 21:45:39.450] Receive queue done: connection guid="319756026553868981" username="feng min enjoyer" access="1" ip="36.24.227.18" steamID="76561199187795983" players="0" preferred="false" wait="false" queued="true" full="false" mtu="1200".
+[02-08-22 21:45:39.450] Receive queue done: players 0=[4] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 21:45:39.450] Receive queue done: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="89.36.78.183" port="57501".
+[02-08-22 21:46:27.071] Receive Player Connect: login-queue=[0/0/""] connections=[2/2/2/2] players=[1/1/2/2].
+[02-08-22 21:46:27.071] Receive Player Connect: connection guid="319756026553868981" username="feng min enjoyer" access="1" ip="36.24.227.18" steamID="76561199187795983" players="0" preferred="false" wait="false" queued="true" full="false" mtu="1200".
+[02-08-22 21:46:27.071] Receive Player Connect: players 0=[4] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 21:46:27.071] Receive Player Connect: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="89.36.78.183" port="57501".
+[02-08-22 21:46:27.074] Player Fully Connected: login-queue=[0/0/""] connections=[2/2/2/2] players=[2/2/2/2].
+[02-08-22 21:46:27.074] Player Fully Connected: connection guid="319756026553868981" username="feng min enjoyer" access="1" ip="36.24.227.18" steamID="76561199187795983" players="1" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 21:46:27.074] Player Fully Connected: players 0=[4 4 feng min enjoyer] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 21:46:27.074] Player Fully Connected: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="89.36.78.183" port="57501".
+[02-08-22 21:56:58.010] Receive Login: login-queue=[0/0/""] connections=[3/3/3/3] players=[2/2/2/2].
+[02-08-22 21:56:58.010] Receive Login: connection guid="18014866160422727" username="null" access="1" ip="null" steamID="0" players="0" preferred="false" wait="false" queued="false" full="false" mtu="1200".
+[02-08-22 21:56:58.010] Receive Login: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 21:56:58.010] Receive Login: session active="true" connecting="false" relay="true" error="0" bytes="0" packets="0" ip="76.68.141.96" port="57717".
+[02-08-22 21:56:58.012] Force disconnect [access-denied-client-version]: login-queue=[0/0/""] connections=[3/2/2/3] players=[2/2/2/2].
+[02-08-22 21:56:58.012] Force disconnect [access-denied-client-version]: connection guid="18014866160422727" username="null" access="1" ip="null" steamID="0" players="0" preferred="false" wait="false" queued="false" full="false" mtu="1200".
+[02-08-22 21:56:58.012] Force disconnect [access-denied-client-version]: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 21:56:58.012] Force disconnect [access-denied-client-version]: session active="true" connecting="false" relay="true" error="0" bytes="0" packets="0" ip="76.68.141.96" port="57717".
+[02-08-22 21:56:58.013] Receive Client Connect: login-queue=[0/0/""] connections=[3/2/2/3] players=[2/2/2/2].
+[02-08-22 21:56:58.013] Receive Client Connect: connection guid="18014866160422727" username="Mo Money Mo Randy" access="1" ip="37.24.227.18" steamID="76561198233812488" players="0" preferred="false" wait="false" queued="false" full="false" mtu="1200".
+[02-08-22 21:56:58.013] Receive Client Connect: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 21:56:58.013] Receive Client Connect: session active="true" connecting="false" relay="true" error="0" bytes="0" packets="0" ip="76.68.141.96" port="57717".
+[02-08-22 21:56:58.028] Disconnect [receive-disconnect]: login-queue=[0/0/""] connections=[2/2/2/2] players=[2/2/2/2].
+[02-08-22 21:56:58.028] Disconnect [receive-disconnect]: connection guid="18014866160422727" username="Mo Money Mo Randy" access="1" ip="37.24.227.18" steamID="76561198233812488" players="0" preferred="false" wait="false" queued="false" full="false" mtu="1200".
+[02-08-22 21:56:58.028] Disconnect [receive-disconnect]: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 21:56:58.028] Disconnect [receive-disconnect]: session active="true" connecting="false" relay="true" error="0" bytes="0" packets="0" ip="76.68.141.96" port="57717".
+[02-08-22 21:56:58.076] Receive Disconnect [21]: login-queue=[0/0/""] connections=[2/2/2/2] players=[2/2/2/2].
+[02-08-22 22:36:11.905] Receive Login: login-queue=[0/0/""] connections=[3/3/3/3] players=[2/2/2/2].
+[02-08-22 22:36:11.905] Receive Login: connection guid="378302534890215493" username="null" access="1" ip="null" steamID="0" players="0" preferred="false" wait="false" queued="false" full="false" mtu="1200".
+[02-08-22 22:36:11.905] Receive Login: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 22:36:11.906] Receive Login: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="99.228.51.13" port="57595".
+[02-08-22 22:36:11.906] Receive Client Connect: login-queue=[0/0/""] connections=[3/3/3/3] players=[2/2/2/2].
+[02-08-22 22:36:11.906] Receive Client Connect: connection guid="378302534890215493" username="big head megamind" access="1" ip="38.24.227.18" steamID="76561198088278737" players="0" preferred="false" wait="false" queued="false" full="false" mtu="1200".
+[02-08-22 22:36:11.907] Receive Client Connect: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 22:36:11.907] Receive Client Connect: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="99.228.51.13" port="57595".
+[02-08-22 22:36:40.154] Receive server queue request: login-queue=[0/0/"378302534890215493"] connections=[3/3/3/3] players=[2/2/3/3].
+[02-08-22 22:36:40.154] Receive server queue request: connection guid="378302534890215493" username="big head megamind" access="1" ip="38.24.227.18" steamID="76561198088278737" players="0" preferred="false" wait="false" queued="true" full="false" mtu="1200".
+[02-08-22 22:36:40.154] Receive server queue request: players 0=[8] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 22:36:40.155] Receive server queue request: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="99.228.51.13" port="57595".
+[02-08-22 22:37:07.563] Receive queue done: login-queue=[0/0/""] connections=[3/3/3/3] players=[2/2/3/3].
+[02-08-22 22:37:07.563] Receive queue done: connection guid="378302534890215493" username="big head megamind" access="1" ip="38.24.227.18" steamID="76561198088278737" players="0" preferred="false" wait="false" queued="true" full="false" mtu="1200".
+[02-08-22 22:37:07.563] Receive queue done: players 0=[8] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 22:37:07.563] Receive queue done: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="99.228.51.13" port="57595".
+[02-08-22 22:37:18.277] Receive Player Connect: login-queue=[0/0/""] connections=[3/3/3/3] players=[2/2/3/3].
+[02-08-22 22:37:18.277] Receive Player Connect: connection guid="378302534890215493" username="big head megamind" access="1" ip="38.24.227.18" steamID="76561198088278737" players="0" preferred="false" wait="false" queued="true" full="false" mtu="1200".
+[02-08-22 22:37:18.277] Receive Player Connect: players 0=[8] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 22:37:18.277] Receive Player Connect: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="99.228.51.13" port="57595".
+[02-08-22 22:37:18.280] Player Fully Connected: login-queue=[0/0/""] connections=[3/3/3/3] players=[3/3/3/3].
+[02-08-22 22:37:18.280] Player Fully Connected: connection guid="378302534890215493" username="big head megamind" access="1" ip="38.24.227.18" steamID="76561198088278737" players="1" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 22:37:18.280] Player Fully Connected: players 0=[8 8 big head megamind] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 22:37:18.280] Player Fully Connected: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="99.228.51.13" port="57595".
+[02-08-22 22:41:40.055] Receive Player Connect: login-queue=[0/0/""] connections=[3/3/3/3] players=[2/2/3/3].
+[02-08-22 22:41:40.056] Receive Player Connect: connection guid="378302534890215493" username="big head megamind" access="1" ip="38.24.227.18" steamID="76561198088278737" players="0" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 22:41:40.056] Receive Player Connect: players 0=[8] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 22:41:40.056] Receive Player Connect: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="99.228.51.13" port="57595".
+[02-08-22 22:41:40.058] Player Fully Connected: login-queue=[0/0/""] connections=[3/3/3/3] players=[3/3/3/3].
+[02-08-22 22:41:40.058] Player Fully Connected: connection guid="378302534890215493" username="big head megamind" access="1" ip="38.24.227.18" steamID="76561198088278737" players="1" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 22:41:40.058] Player Fully Connected: players 0=[8 8 big head megamind] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 22:41:40.058] Player Fully Connected: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="99.228.51.13" port="57595".
+[02-08-22 22:48:22.406] Receive Login: login-queue=[0/0/""] connections=[4/4/4/4] players=[3/3/3/3].
+[02-08-22 22:48:22.406] Receive Login: connection guid="707065609430556326" username="null" access="1" ip="null" steamID="0" players="0" preferred="false" wait="false" queued="false" full="false" mtu="1200".
+[02-08-22 22:48:22.406] Receive Login: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 22:48:22.406] Receive Login: session active="true" connecting="false" relay="true" error="0" bytes="0" packets="0" ip="76.68.141.96" port="12721".
+[02-08-22 22:48:22.407] Receive Client Connect: login-queue=[0/0/""] connections=[4/4/4/4] players=[3/3/3/3].
+[02-08-22 22:48:22.407] Receive Client Connect: connection guid="707065609430556326" username="Mo Money Mo Randy" access="1" ip="39.24.227.18" steamID="76561198233812488" players="0" preferred="false" wait="false" queued="false" full="false" mtu="1200".
+[02-08-22 22:48:22.407] Receive Client Connect: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 22:48:22.407] Receive Client Connect: session active="true" connecting="false" relay="true" error="0" bytes="0" packets="0" ip="76.68.141.96" port="12721".
+[02-08-22 22:49:32.366] Receive server queue request: login-queue=[0/0/"707065609430556326"] connections=[4/4/4/4] players=[3/3/4/4].
+[02-08-22 22:49:32.366] Receive server queue request: connection guid="707065609430556326" username="Mo Money Mo Randy" access="1" ip="39.24.227.18" steamID="76561198233812488" players="0" preferred="false" wait="false" queued="true" full="false" mtu="1200".
+[02-08-22 22:49:32.366] Receive server queue request: players 0=[12] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 22:49:32.366] Receive server queue request: session active="true" connecting="false" relay="true" error="0" bytes="0" packets="0" ip="76.68.141.96" port="12721".
+[02-08-22 22:49:37.921] Receive Disconnect [21]: login-queue=[0/0/"707065609430556326"] connections=[4/3/3/3] players=[3/3/4/4].
+[02-08-22 22:49:37.934] Disconnect [receive-disconnect]: login-queue=[0/0/""] connections=[3/3/3/3] players=[3/3/3/3].
+[02-08-22 22:49:37.934] Disconnect [receive-disconnect]: connection guid="707065609430556326" username="Mo Money Mo Randy" access="1" ip="39.24.227.18" steamID="76561198233812488" players="0" preferred="false" wait="false" queued="true" full="false" mtu="576".
+[02-08-22 22:49:37.934] Disconnect [receive-disconnect]: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 22:49:37.934] Disconnect [receive-disconnect]: session active="false" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="0.0.0.0" port="0".
+[02-08-22 22:50:53.204] Receive Player Connect: login-queue=[0/0/""] connections=[3/3/3/3] players=[2/2/3/3].
+[02-08-22 22:50:53.204] Receive Player Connect: connection guid="999799117491307875" username="Raven" access="1" ip="34.24.227.18" steamID="76561198086468814" players="0" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 22:50:53.204] Receive Player Connect: players 0=[0] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 22:50:53.204] Receive Player Connect: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="192.168.1.115" port="56254".
+[02-08-22 22:50:53.206] Player Fully Connected: login-queue=[0/0/""] connections=[3/3/3/3] players=[3/3/3/3].
+[02-08-22 22:50:53.206] Player Fully Connected: connection guid="999799117491307875" username="Raven" access="1" ip="34.24.227.18" steamID="76561198086468814" players="1" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 22:50:53.206] Player Fully Connected: players 0=[0 0 Raven] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 22:50:53.206] Player Fully Connected: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="192.168.1.115" port="56254".
+[02-08-22 22:51:19.376] Receive Login: login-queue=[0/0/""] connections=[4/4/4/4] players=[3/3/3/3].
+[02-08-22 22:51:19.376] Receive Login: connection guid="535928826655105703" username="null" access="1" ip="null" steamID="0" players="0" preferred="false" wait="false" queued="false" full="false" mtu="1200".
+[02-08-22 22:51:19.376] Receive Login: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 22:51:19.376] Receive Login: session active="true" connecting="false" relay="true" error="0" bytes="0" packets="0" ip="76.68.141.96" port="51109".
+[02-08-22 22:51:19.377] Receive Client Connect: login-queue=[0/0/""] connections=[4/4/4/4] players=[3/3/3/3].
+[02-08-22 22:51:19.377] Receive Client Connect: connection guid="535928826655105703" username="Mo Money Mo Randy" access="1" ip="40.24.227.18" steamID="76561198233812488" players="0" preferred="false" wait="false" queued="false" full="false" mtu="1200".
+[02-08-22 22:51:19.377] Receive Client Connect: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 22:51:19.377] Receive Client Connect: session active="true" connecting="false" relay="true" error="0" bytes="0" packets="0" ip="76.68.141.96" port="51109".
+[02-08-22 22:51:36.145] Receive server queue request: login-queue=[0/0/"535928826655105703"] connections=[4/4/4/4] players=[3/3/4/4].
+[02-08-22 22:51:36.145] Receive server queue request: connection guid="535928826655105703" username="Mo Money Mo Randy" access="1" ip="40.24.227.18" steamID="76561198233812488" players="0" preferred="false" wait="false" queued="true" full="false" mtu="1200".
+[02-08-22 22:51:36.145] Receive server queue request: players 0=[12] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 22:51:36.145] Receive server queue request: session active="true" connecting="false" relay="true" error="0" bytes="0" packets="0" ip="76.68.141.96" port="51109".
+[02-08-22 22:51:58.651] Receive queue done: login-queue=[0/0/""] connections=[4/4/4/4] players=[3/3/4/4].
+[02-08-22 22:51:58.651] Receive queue done: connection guid="535928826655105703" username="Mo Money Mo Randy" access="1" ip="40.24.227.18" steamID="76561198233812488" players="0" preferred="false" wait="false" queued="true" full="false" mtu="1200".
+[02-08-22 22:51:58.651] Receive queue done: players 0=[12] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 22:51:58.651] Receive queue done: session active="true" connecting="false" relay="true" error="0" bytes="0" packets="0" ip="76.68.141.96" port="51109".
+[02-08-22 23:08:46.422] Receive Player Connect: login-queue=[0/0/""] connections=[4/4/4/4] players=[2/2/4/4].
+[02-08-22 23:08:46.422] Receive Player Connect: connection guid="999799117491307875" username="Raven" access="1" ip="34.24.227.18" steamID="76561198086468814" players="0" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 23:08:46.422] Receive Player Connect: players 0=[0] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 23:08:46.423] Receive Player Connect: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="192.168.1.115" port="56254".
+[02-08-22 23:08:46.424] Player Fully Connected: login-queue=[0/0/""] connections=[4/4/4/4] players=[3/3/4/4].
+[02-08-22 23:08:46.424] Player Fully Connected: connection guid="999799117491307875" username="Raven" access="1" ip="34.24.227.18" steamID="76561198086468814" players="1" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 23:08:46.424] Player Fully Connected: players 0=[0 0 Raven] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 23:08:46.424] Player Fully Connected: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="192.168.1.115" port="56254".
+[02-08-22 23:10:21.147] Receive Player Connect: login-queue=[0/0/""] connections=[4/4/4/4] players=[2/2/4/4].
+[02-08-22 23:10:21.147] Receive Player Connect: connection guid="378302534890215493" username="big head megamind" access="1" ip="38.24.227.18" steamID="76561198088278737" players="0" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 23:10:21.147] Receive Player Connect: players 0=[8] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 23:10:21.147] Receive Player Connect: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="99.228.51.13" port="57595".
+[02-08-22 23:10:21.149] Player Fully Connected: login-queue=[0/0/""] connections=[4/4/4/4] players=[3/3/4/4].
+[02-08-22 23:10:21.149] Player Fully Connected: connection guid="378302534890215493" username="big head megamind" access="1" ip="38.24.227.18" steamID="76561198088278737" players="1" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 23:10:21.149] Player Fully Connected: players 0=[8 8 big head megamind] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 23:10:21.149] Player Fully Connected: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="99.228.51.13" port="57595".
+[02-08-22 23:12:59.124] Receive Player Connect: login-queue=[0/0/""] connections=[4/4/4/4] players=[2/2/4/4].
+[02-08-22 23:12:59.124] Receive Player Connect: connection guid="378302534890215493" username="big head megamind" access="1" ip="38.24.227.18" steamID="76561198088278737" players="0" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 23:12:59.124] Receive Player Connect: players 0=[8] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 23:12:59.125] Receive Player Connect: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="99.228.51.13" port="57595".
+[02-08-22 23:12:59.126] Player Fully Connected: login-queue=[0/0/""] connections=[4/4/4/4] players=[3/3/4/4].
+[02-08-22 23:12:59.127] Player Fully Connected: connection guid="378302534890215493" username="big head megamind" access="1" ip="38.24.227.18" steamID="76561198088278737" players="1" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 23:12:59.127] Player Fully Connected: players 0=[8 8 big head megamind] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 23:12:59.127] Player Fully Connected: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="99.228.51.13" port="57595".
+[02-08-22 23:13:35.814] Receive Player Connect: login-queue=[0/0/""] connections=[4/4/4/4] players=[2/2/4/4].
+[02-08-22 23:13:35.814] Receive Player Connect: connection guid="999799117491307875" username="Raven" access="1" ip="34.24.227.18" steamID="76561198086468814" players="0" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 23:13:35.814] Receive Player Connect: players 0=[0] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 23:13:35.814] Receive Player Connect: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="192.168.1.115" port="56254".
+[02-08-22 23:13:35.815] Player Fully Connected: login-queue=[0/0/""] connections=[4/4/4/4] players=[3/3/4/4].
+[02-08-22 23:13:35.815] Player Fully Connected: connection guid="999799117491307875" username="Raven" access="1" ip="34.24.227.18" steamID="76561198086468814" players="1" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 23:13:35.816] Player Fully Connected: players 0=[0 0 Raven] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 23:13:35.816] Player Fully Connected: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="192.168.1.115" port="56254".
+[02-08-22 23:27:54.843] Receive Player Connect: login-queue=[0/0/""] connections=[4/4/4/4] players=[3/3/4/4].
+[02-08-22 23:27:54.843] Receive Player Connect: connection guid="535928826655105703" username="Mo Money Mo Randy" access="1" ip="40.24.227.18" steamID="76561198233812488" players="0" preferred="false" wait="false" queued="true" full="false" mtu="1200".
+[02-08-22 23:27:54.843] Receive Player Connect: players 0=[12] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 23:27:54.843] Receive Player Connect: session active="true" connecting="false" relay="true" error="0" bytes="0" packets="0" ip="76.68.141.96" port="51109".
+[02-08-22 23:27:54.845] Player Fully Connected: login-queue=[0/0/""] connections=[4/4/4/4] players=[4/4/4/4].
+[02-08-22 23:27:54.845] Player Fully Connected: connection guid="535928826655105703" username="Mo Money Mo Randy" access="1" ip="40.24.227.18" steamID="76561198233812488" players="1" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 23:27:54.846] Player Fully Connected: players 0=[12 12 Mo Money Mo Randy] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 23:27:54.846] Player Fully Connected: session active="true" connecting="false" relay="true" error="0" bytes="0" packets="0" ip="76.68.141.96" port="51109".
+[02-08-22 23:30:06.957] Receive Disconnect [21]: login-queue=[0/0/""] connections=[4/3/3/3] players=[4/4/4/4].
+[02-08-22 23:30:06.972] Disconnect [receive-disconnect]: login-queue=[0/0/""] connections=[3/3/3/3] players=[3/3/3/3].
+[02-08-22 23:30:06.972] Disconnect [receive-disconnect]: connection guid="535928826655105703" username="Mo Money Mo Randy" access="1" ip="40.24.227.18" steamID="76561198233812488" players="0" preferred="false" wait="false" queued="true" full="true" mtu="576".
+[02-08-22 23:30:06.972] Disconnect [receive-disconnect]: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 23:30:06.972] Disconnect [receive-disconnect]: session active="false" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="0.0.0.0" port="0".
+[02-08-22 23:55:01.233] Receive Player Connect: login-queue=[0/0/""] connections=[3/3/3/3] players=[2/2/3/3].
+[02-08-22 23:55:01.233] Receive Player Connect: connection guid="378302534890215493" username="big head megamind" access="1" ip="38.24.227.18" steamID="76561198088278737" players="0" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 23:55:01.233] Receive Player Connect: players 0=[8] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 23:55:01.233] Receive Player Connect: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="99.228.51.13" port="57595".
+[02-08-22 23:55:01.235] Player Fully Connected: login-queue=[0/0/""] connections=[3/3/3/3] players=[3/3/3/3].
+[02-08-22 23:55:01.235] Player Fully Connected: connection guid="378302534890215493" username="big head megamind" access="1" ip="38.24.227.18" steamID="76561198088278737" players="1" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 23:55:01.236] Player Fully Connected: players 0=[8 8 big head megamind] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 23:55:01.236] Player Fully Connected: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="99.228.51.13" port="57595".
+[02-08-22 23:57:37.853] Receive Player Connect: login-queue=[0/0/""] connections=[3/3/3/3] players=[2/2/3/3].
+[02-08-22 23:57:37.853] Receive Player Connect: connection guid="378302534890215493" username="big head megamind" access="1" ip="38.24.227.18" steamID="76561198088278737" players="0" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 23:57:37.853] Receive Player Connect: players 0=[8] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 23:57:37.853] Receive Player Connect: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="99.228.51.13" port="57595".
+[02-08-22 23:57:37.855] Player Fully Connected: login-queue=[0/0/""] connections=[3/3/3/3] players=[3/3/3/3].
+[02-08-22 23:57:37.855] Player Fully Connected: connection guid="378302534890215493" username="big head megamind" access="1" ip="38.24.227.18" steamID="76561198088278737" players="1" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[02-08-22 23:57:37.855] Player Fully Connected: players 0=[8 8 big head megamind] 1=[-1] 2=[-1] 3=[-1].
+[02-08-22 23:57:37.855] Player Fully Connected: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="99.228.51.13" port="57595".
+[03-08-22 00:38:51.922] Receive Disconnect [21]: login-queue=[0/0/""] connections=[3/2/2/2] players=[3/3/3/3].
+[03-08-22 00:38:51.945] Disconnect [receive-disconnect]: login-queue=[0/0/""] connections=[2/2/2/2] players=[2/2/2/2].
+[03-08-22 00:38:51.946] Disconnect [receive-disconnect]: connection guid="319756026553868981" username="feng min enjoyer" access="1" ip="36.24.227.18" steamID="76561199187795983" players="0" preferred="false" wait="false" queued="true" full="true" mtu="576".
+[03-08-22 00:38:51.947] Disconnect [receive-disconnect]: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[03-08-22 00:38:51.948] Disconnect [receive-disconnect]: session active="false" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="0.0.0.0" port="0".
+[03-08-22 00:40:59.085] Receive Disconnect [21]: login-queue=[0/0/""] connections=[2/1/1/1] players=[2/2/2/2].
+[03-08-22 00:40:59.107] Disconnect [receive-disconnect]: login-queue=[0/0/""] connections=[1/1/1/1] players=[1/1/1/1].
+[03-08-22 00:40:59.107] Disconnect [receive-disconnect]: connection guid="999799117491307875" username="Raven" access="1" ip="34.24.227.18" steamID="76561198086468814" players="0" preferred="false" wait="false" queued="true" full="true" mtu="576".
+[03-08-22 00:40:59.107] Disconnect [receive-disconnect]: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[03-08-22 00:40:59.107] Disconnect [receive-disconnect]: session active="false" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="0.0.0.0" port="0".

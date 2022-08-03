@@ -1,0 +1,18 @@
+[02-08-22 19:53:36.765][info] Init chat system....
+[02-08-22 19:53:36.765][info] Mode: multiplayer.
+[02-08-22 19:53:36.765][info] Chat owner: Raven.
+[02-08-22 20:14:35.739][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='HEY!'}.
+[02-08-22 20:14:37.222][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='OVER HERE!'}.
+[02-08-22 20:14:39.088][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='OVER HERE!'}.
+[02-08-22 20:14:40.889][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='OVER HERE!'}.
+[02-08-22 20:14:43.372][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='OVER HERE!'}.
+[02-08-22 20:14:45.089][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='HEY!'}.
+[02-08-22 20:14:46.656][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='HEY YOU!'}.
+[02-08-22 20:53:17.143][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='HEY!'}.
+[02-08-22 20:53:18.232][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='OVER HERE!'}.
+[02-08-22 21:51:37.306][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='HEY YOU!'}.
+[02-08-22 21:57:58.572][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='HEY!'}.
+[02-08-22 22:10:44.124][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='HEY!'}.
+[02-08-22 22:20:44.690][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='HEY YOU!'}.
+[02-08-22 22:20:46.489][info] Got message from server: ChatMessage{chat=Local, author='feng min enjoyer', text='OVER HERE!'}.
+[02-08-22 22:39:22.047][info] Got message from server: ChatMessage{chat=Server, author='Server', text='big head megamind is dead.'}.
